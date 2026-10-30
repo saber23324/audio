@@ -1,0 +1,20 @@
+{
+  "seed": 1234,
+  "output": "artifacts/utility_gate/vggss_grounded_image_pilot_20261028",
+  "alpha": 0.20,
+  "color_rgb": [255, 64, 32],
+  "map_kind": "binary_roi_fractional_pixels",
+  "lambda_bias": 0.05,
+  "bias_convention": "add lambda_bias/tau times centered coverage to original temperature-scaled logits",
+  "pilot_sources": 32,
+  "bootstrap_replicates": 2000,
+  "modes": ["rgb_clean", "gt_overlay", "sham_overlay", "uniform_overlay", "gt_routing_bias"],
+  "supplemental_modes": ["random_color_overlay", "bbox_outline_overlay"],
+  "predicted_modes": "not_run unless preexisting continuous provenance-verified asset is found",
+  "hyperparameter_search": false,
+  "generation_max_new_tokens": 4,
+  "teacher_question": "Which description best fits the main visible subject of this image?",
+  "teacher_options": ["A. A person or group of people", "B. An animal or group of animals", "C. A vehicle", "D. Another object or scene"],
+  "category_question": "Which of these entities is visibly present in this image? Select the best match.",
+  "interpretation": "development feasibility on previously inspected sources; GT branches are oracle diagnostics"
+}
