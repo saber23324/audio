@@ -1,0 +1,116 @@
+[
+  {
+    "name": "R0027-12-GoPro/Export_py/Video",
+    "size": 0,
+    "offset_data": 1536,
+    "offset": 0
+  },
+  {
+    "name": "R0027-12-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 3355904,
+    "offset_data": 3072,
+    "offset": 1536
+  },
+  {
+    "name": "R0027-12-GoPro/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 3360768,
+    "offset": 3359232
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/Video",
+    "size": 0,
+    "offset_data": 3362816,
+    "offset": 3361280
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 3276094,
+    "offset_data": 3364352,
+    "offset": 3362816
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 6642176,
+    "offset": 6640640
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/Video",
+    "size": 0,
+    "offset_data": 6644224,
+    "offset": 6642688
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 2487637,
+    "offset_data": 6645760,
+    "offset": 6644224
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 9135104,
+    "offset": 9133568
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/Video",
+    "size": 0,
+    "offset_data": 9137152,
+    "offset": 9135616
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/Video/Pose_sync.txt",
+    "size": 1496637,
+    "offset_data": 9138688,
+    "offset": 9137152
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 10637312,
+    "offset": 10635776
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/Video",
+    "size": 0,
+    "offset_data": 10639360,
+    "offset": 10637824
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/Video/Pose_sync.txt",
+    "size": 934960,
+    "offset_data": 10640896,
+    "offset": 10639360
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 11577856,
+    "offset": 11576320
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/Video",
+    "size": 0,
+    "offset_data": 11579904,
+    "offset": 11578368
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/Video/Pose_sync.txt",
+    "size": 1023285,
+    "offset_data": 11581440,
+    "offset": 11579904
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/Video/VideoMp4Timing.txt",
+    "size": 38,
+    "offset_data": 12606464,
+    "offset": 12604928
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/Video",
+    "size": 0,
+    "offset_data": 12608512,
+    "offset": 12606976
+  }
+]

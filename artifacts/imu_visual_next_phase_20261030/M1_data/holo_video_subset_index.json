@@ -1,0 +1,242 @@
+[
+  {
+    "name": "R0027-12-GoPro/Export_py/Video_compress.mp4",
+    "size": 93620115,
+    "offset": 4763879424,
+    "offset_data": 4763879936
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/Video_compress.mp4",
+    "size": 113159472,
+    "offset": 4857501184,
+    "offset_data": 4857501696
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/Video_compress.mp4",
+    "size": 88487150,
+    "offset": 4970662400,
+    "offset_data": 4970662912
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/Video_compress.mp4",
+    "size": 48273821,
+    "offset": 5059151360,
+    "offset_data": 5059151872
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/Video_compress.mp4",
+    "size": 31053824,
+    "offset": 5107426816,
+    "offset_data": 5107427328
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 26846348,
+    "offset": 5138482176,
+    "offset_data": 5138482688
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 55676076,
+    "offset": 5165330432,
+    "offset_data": 5165330944
+  },
+  {
+    "name": "R014-7July-DSLR/Export_py/Video_compress.mp4",
+    "size": 95185944,
+    "offset": 5221008384,
+    "offset_data": 5221008896
+  },
+  {
+    "name": "R015-7July-Switch/Export_py/Video_compress.mp4",
+    "size": 115475295,
+    "offset": 5316196352,
+    "offset_data": 5316196864
+  },
+  {
+    "name": "R026-11July-Navvis/Export_py/Video_compress.mp4",
+    "size": 204691783,
+    "offset": 5431673344,
+    "offset_data": 5431673856
+  },
+  {
+    "name": "R029-12July-DSLR/Export_py/Video_compress.mp4",
+    "size": 37509847,
+    "offset": 5636366848,
+    "offset_data": 5636367360
+  },
+  {
+    "name": "R030-12July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 37615937,
+    "offset": 5673878528,
+    "offset_data": 5673879040
+  },
+  {
+    "name": "R031-12July-SmallPrinter/Export_py/Video_compress.mp4",
+    "size": 24489537,
+    "offset": 5711496192,
+    "offset_data": 5711496704
+  },
+  {
+    "name": "R032-12July-BigPrinter/Export_py/Video_compress.mp4",
+    "size": 16878390,
+    "offset": 5735987712,
+    "offset_data": 5735988224
+  },
+  {
+    "name": "R033-12July-GoPro/Export_py/Video_compress.mp4",
+    "size": 77014559,
+    "offset": 5752867840,
+    "offset_data": 5752868352
+  },
+  {
+    "name": "R034-12July-Switch/Export_py/Video_compress.mp4",
+    "size": 41346381,
+    "offset": 5829884416,
+    "offset_data": 5829884928
+  },
+  {
+    "name": "R035-12July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 13264377,
+    "offset": 5871232512,
+    "offset_data": 5871233024
+  },
+  {
+    "name": "R036-12July-DSLR/Export_py/Video_compress.mp4",
+    "size": 46624193,
+    "offset": 5884498432,
+    "offset_data": 5884498944
+  },
+  {
+    "name": "R037-13July-GoPro/Export_py/Video_compress.mp4",
+    "size": 79737811,
+    "offset": 5931124224,
+    "offset_data": 5931124736
+  },
+  {
+    "name": "R039-13July-DSLR/Export_py/Video_compress.mp4",
+    "size": 57337425,
+    "offset": 6010863616,
+    "offset_data": 6010864128
+  },
+  {
+    "name": "R040-13July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 45639071,
+    "offset": 6068203008,
+    "offset_data": 6068203520
+  },
+  {
+    "name": "R041-13July-SmallPrinter/Export_py/Video_compress.mp4",
+    "size": 67732934,
+    "offset": 6113843712,
+    "offset_data": 6113844224
+  },
+  {
+    "name": "R042-13July-BigPrinter/Export_py/Video_compress.mp4",
+    "size": 26640048,
+    "offset": 6181578240,
+    "offset_data": 6181578752
+  },
+  {
+    "name": "R043-13July-BigPrinter/Export_py/Video_compress.mp4",
+    "size": 53409681,
+    "offset": 6208220160,
+    "offset_data": 6208220672
+  },
+  {
+    "name": "R044-13July-BigPrinter/Export_py/Video_compress.mp4",
+    "size": 15462263,
+    "offset": 6261631488,
+    "offset_data": 6261632000
+  },
+  {
+    "name": "R045-13July-SmallPrinter/Export_py/Video_compress.mp4",
+    "size": 65221520,
+    "offset": 6277095424,
+    "offset_data": 6277095936
+  },
+  {
+    "name": "R046-13July-SmallPrinter/Export_py/Video_compress.mp4",
+    "size": 53659887,
+    "offset": 6342318592,
+    "offset_data": 6342319104
+  },
+  {
+    "name": "R054-13July-Navvis/Export_py/Video_compress.mp4",
+    "size": 90758024,
+    "offset": 6395980288,
+    "offset_data": 6395980800
+  },
+  {
+    "name": "R055-13July-Navvis/Export_py/Video_compress.mp4",
+    "size": 36793092,
+    "offset": 6486739968,
+    "offset_data": 6486740480
+  },
+  {
+    "name": "R056-13July-Navvis/Export_py/Video_compress.mp4",
+    "size": 97096232,
+    "offset": 6523534848,
+    "offset_data": 6523535360
+  },
+  {
+    "name": "R057-14July-GoPro/Export_py/Video_compress.mp4",
+    "size": 21217785,
+    "offset": 6620633088,
+    "offset_data": 6620633600
+  },
+  {
+    "name": "R058-14July-Switch/Export_py/Video_compress.mp4",
+    "size": 27767922,
+    "offset": 6641852416,
+    "offset_data": 6641852928
+  },
+  {
+    "name": "R059-14July-DSLR/Export_py/Video_compress.mp4",
+    "size": 17596401,
+    "offset": 6669622272,
+    "offset_data": 6669622784
+  },
+  {
+    "name": "R060-14July-Nespresso/Export_py/Video_compress.mp4",
+    "size": 35312209,
+    "offset": 6687220224,
+    "offset_data": 6687220736
+  },
+  {
+    "name": "R061-15July-ATV/Export_py/Video_compress.mp4",
+    "size": 193112059,
+    "offset": 6722534400,
+    "offset_data": 6722534912
+  },
+  {
+    "name": "R061-15July-Belt/Export_py/Video_compress.mp4",
+    "size": 72651001,
+    "offset": 6915648000,
+    "offset_data": 6915648512
+  },
+  {
+    "name": "R061-15July-circuit-breaker/Export_py/Video_compress.mp4",
+    "size": 75504488,
+    "offset": 6988300800,
+    "offset_data": 6988301312
+  },
+  {
+    "name": "R062-15July-circuit-breaker/Export_py/Video_compress.mp4",
+    "size": 98729663,
+    "offset": 7063806976,
+    "offset_data": 7063807488
+  },
+  {
+    "name": "R063-15July-circuit-breaker/Export_py/Video_compress.mp4",
+    "size": 61350665,
+    "offset": 7162538496,
+    "offset_data": 7162539008
+  },
+  {
+    "name": "R066-15July-ATV-Part1/Export_py/Video_compress.mp4",
+    "size": 131881186,
+    "offset": 7223890944,
+    "offset_data": 7223891456
+  }
+]

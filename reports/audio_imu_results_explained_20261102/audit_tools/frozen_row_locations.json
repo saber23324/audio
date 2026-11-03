@@ -1,0 +1,22 @@
+{
+  "rows": 12441,
+  "roles": {
+    "music_confirm": 9113,
+    "valor_confirm": 3328
+  },
+  "strategies": [
+    "A64",
+    "A64-null",
+    "D0_RGB_legacy",
+    "D0_RGB_neutral",
+    "D11_equal64_feature_mix",
+    "D1_OverlayOnly",
+    "D2_RGB_RGB",
+    "D3_RGB_Grounded_neutral",
+    "D4_RGB_Grounded_guided",
+    "D5_Grounded_RGB_guided",
+    "D6_RGB_Sham_guided",
+    "V196",
+    "V64"
+  ]
+}

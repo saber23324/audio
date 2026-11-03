@@ -1,0 +1,218 @@
+[
+  {
+    "name": "R0027-12-GoPro/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 1110536,
+    "offset": 2560,
+    "offset_data": 3072
+  },
+  {
+    "name": "R0027-12-GoPro/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 1172695,
+    "offset": 1115136,
+    "offset_data": 1115648
+  },
+  {
+    "name": "R0027-12-GoPro/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 1093837,
+    "offset": 2289664,
+    "offset_data": 2290176
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 1069594,
+    "offset": 3386880,
+    "offset_data": 3387392
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 1126338,
+    "offset": 4458496,
+    "offset_data": 4459008
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 1051869,
+    "offset": 5586432,
+    "offset_data": 5586944
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 812183,
+    "offset": 6641664,
+    "offset_data": 6642176
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 856021,
+    "offset": 7455744,
+    "offset_data": 7456256
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 796851,
+    "offset": 8313344,
+    "offset_data": 8313856
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 487535,
+    "offset": 9113600,
+    "offset_data": 9114112
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 513441,
+    "offset": 9603072,
+    "offset_data": 9603584
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 478678,
+    "offset": 10118144,
+    "offset_data": 10118656
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 304434,
+    "offset": 10599936,
+    "offset_data": 10600448
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 319830,
+    "offset": 10906112,
+    "offset_data": 10906624
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 298399,
+    "offset": 11227648,
+    "offset_data": 11228160
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 335250,
+    "offset": 11529216,
+    "offset_data": 11529728
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 351245,
+    "offset": 11866112,
+    "offset_data": 11866624
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 328677,
+    "offset": 12219392,
+    "offset_data": 12219904
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 735748,
+    "offset": 12551168,
+    "offset_data": 12551680
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 770322,
+    "offset": 13288960,
+    "offset_data": 13289472
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 724399,
+    "offset": 14061056,
+    "offset_data": 14061568
+  },
+  {
+    "name": "R014-7July-DSLR/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 971873,
+    "offset": 14788608,
+    "offset_data": 14789120
+  },
+  {
+    "name": "R014-7July-DSLR/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 1022269,
+    "offset": 15762432,
+    "offset_data": 15762944
+  },
+  {
+    "name": "R014-7July-DSLR/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 954673,
+    "offset": 16786432,
+    "offset_data": 16786944
+  },
+  {
+    "name": "R015-7July-Switch/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 967549,
+    "offset": 17744384,
+    "offset_data": 17744896
+  },
+  {
+    "name": "R015-7July-Switch/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 1018225,
+    "offset": 18713600,
+    "offset_data": 18714112
+  },
+  {
+    "name": "R015-7July-Switch/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 951269,
+    "offset": 19733504,
+    "offset_data": 19734016
+  },
+  {
+    "name": "R016-7July-Navvis/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 7353513,
+    "offset": 20687872,
+    "offset_data": 20688384
+  },
+  {
+    "name": "R016-7July-Navvis/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 7651790,
+    "offset": 28043264,
+    "offset_data": 28043776
+  },
+  {
+    "name": "R016-7July-Navvis/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 7127299,
+    "offset": 35696640,
+    "offset_data": 35697152
+  },
+  {
+    "name": "R026-11July-Navvis/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 1834488,
+    "offset": 42827264,
+    "offset_data": 42827776
+  },
+  {
+    "name": "R026-11July-Navvis/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 1910042,
+    "offset": 44663296,
+    "offset_data": 44663808
+  },
+  {
+    "name": "R026-11July-Navvis/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 1795030,
+    "offset": 46575104,
+    "offset_data": 46575616
+  },
+  {
+    "name": "R028-12July-Switch/Export_py/IMU/Accelerometer_sync.txt",
+    "size": 646878,
+    "offset": 48373248,
+    "offset_data": 48373760
+  },
+  {
+    "name": "R028-12July-Switch/Export_py/IMU/Gyroscope_sync.txt",
+    "size": 680930,
+    "offset": 49021952,
+    "offset_data": 49022464
+  },
+  {
+    "name": "R028-12July-Switch/Export_py/IMU/Magnetometer_sync.txt",
+    "size": 636391,
+    "offset": 49704448,
+    "offset_data": 49704960
+  }
+]

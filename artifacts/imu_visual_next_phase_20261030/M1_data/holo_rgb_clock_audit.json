@@ -1,0 +1,182 @@
+[
+  {
+    "session_id": "R0027-12-GoPro",
+    "pose_sync_sha256": "a4f25972e8b517a4c506f426ecff18978977609756b24fa6eac2639e38c85245",
+    "retained_unique_original_camera_ticks": 9933,
+    "MP4_frame_count": 9933,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R0027-12-GoPro.npz",
+    "capture_clock_sha256": "4527edae687b3563b19b7ac4322d90ad4fee4b511eb607aae4441d5e7217c038",
+    "origin_tick": 637932482246358268,
+    "MP4_rate": "1223/50",
+    "first_capture_s": 0.0,
+    "last_capture_s": 406.0434744,
+    "camera_interval_range_s": [
+      0.033331299999986186,
+      0.23331980000000385
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R004-7July-GoPro",
+    "pose_sync_sha256": "cd04e861bfe3c25180ca619ce879446c3778f62487189ce7e197fab38e718ccc",
+    "retained_unique_original_camera_ticks": 11713,
+    "MP4_frame_count": 11714,
+    "one_to_one_count_equal": false,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R004-7July-GoPro.npz",
+    "capture_clock_sha256": "b4e3d53d95f3932456d43b4e0c445fa530815735297618695d5ebd3be20e5c77",
+    "origin_tick": 637928128674523981,
+    "MP4_rate": "15001/500",
+    "first_capture_s": 0.0,
+    "last_capture_s": 390.412285,
+    "camera_interval_range_s": [
+      0.03333139999995183,
+      0.06666300000000547
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R005-7July-GoPro",
+    "pose_sync_sha256": "8438db9e5ac76375c9372713b855529b39a4634b731da273bc7d2b18c29eb4e4",
+    "retained_unique_original_camera_ticks": 8817,
+    "MP4_frame_count": 8817,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R005-7July-GoPro.npz",
+    "capture_clock_sha256": "aa77d657f67024af7f6f9d22d82a4834cc877a851805cacb5a559ef3c8e7aabf",
+    "origin_tick": 637928141844136040,
+    "MP4_rate": "3729/125",
+    "first_capture_s": 0.0,
+    "last_capture_s": 295.517798,
+    "camera_interval_range_s": [
+      0.03333139999995183,
+      1.6999165
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R006-7July-Switch",
+    "pose_sync_sha256": "0978c6b3762e804b2f0ccd74d7ddbcf072a7c01d302605f815d4262e2f75ca5b",
+    "retained_unique_original_camera_ticks": 5335,
+    "MP4_frame_count": 5335,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R006-7July-Switch.npz",
+    "capture_clock_sha256": "e6e81b29ffeffa9861e90b6ff7762a1ec037a7dd3104cce305dadc6c1948e8e8",
+    "origin_tick": 637928145969766178,
+    "MP4_rate": "15001/500",
+    "first_capture_s": 0.0,
+    "last_capture_s": 177.7902298,
+    "camera_interval_range_s": [
+      0.03333139999998025,
+      0.03333170000000152
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R007-7July-DSLR",
+    "pose_sync_sha256": "b33d9978ef80a5b1836c4e231a9c1f96b72c494d12eae291cfd67ba668d40624",
+    "retained_unique_original_camera_ticks": 3336,
+    "MP4_frame_count": 3336,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R007-7July-DSLR.npz",
+    "capture_clock_sha256": "a980da869d0df0a1fca15683369391963eb8fdc2805af619c7f8989ebe9509a7",
+    "origin_tick": 637928148099658161,
+    "MP4_rate": "15001/500",
+    "first_capture_s": 0.0,
+    "last_capture_s": 111.1604554,
+    "camera_interval_range_s": [
+      0.0333313000000004,
+      0.03333160000001101
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R012-7July-Nespresso",
+    "pose_sync_sha256": "5ffbaf46199e832f88b6c6d0719d6f296bf27e4ecfc93ace14200f21ca41095e",
+    "retained_unique_original_camera_ticks": 3666,
+    "MP4_frame_count": 3666,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R012-7July-Nespresso.npz",
+    "capture_clock_sha256": "e8ee32d366c96f9e756b71091cc6408b1959dfa63f8c103b0aa502e839652d19",
+    "origin_tick": 637928185942273971,
+    "MP4_rate": "30001/1000",
+    "first_capture_s": 0.0,
+    "last_capture_s": 122.1605651,
+    "camera_interval_range_s": [
+      0.03333149999998852,
+      0.03333180000000624
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R013-7July-Nespresso",
+    "pose_sync_sha256": "95a2c1bfca11469823700dc12d3e5d12b8009198021138714566115c915436a2",
+    "retained_unique_original_camera_ticks": 7707,
+    "MP4_frame_count": 7707,
+    "one_to_one_count_equal": true,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R013-7July-Nespresso.npz",
+    "capture_clock_sha256": "a2927e2d59b82485a849a881cc2150e4a1a21767fcd0164992939817c90a58c0",
+    "origin_tick": 637928189801695953,
+    "MP4_rate": "3742/125",
+    "first_capture_s": 0.0,
+    "last_capture_s": 257.4196574,
+    "camera_interval_range_s": [
+      0.03333139999995183,
+      0.4999748
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R014-7July-DSLR",
+    "pose_sync_sha256": "bb52686832b4f67e068612163cf15f8b0fe2b06e5b8c81fb1304e73a71df1015",
+    "retained_unique_original_camera_ticks": 10617,
+    "MP4_frame_count": 10618,
+    "one_to_one_count_equal": false,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R014-7July-DSLR.npz",
+    "capture_clock_sha256": "54dc6d009a8061cf6dbe1b1c49b044013b1d345131f983adb5f9b0e392323caf",
+    "origin_tick": 637928198854677596,
+    "MP4_rate": "29957/1000",
+    "first_capture_s": 0.0,
+    "last_capture_s": 354.4135552,
+    "camera_interval_range_s": [
+      0.033331299999986186,
+      0.4999729
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R015-7July-Switch",
+    "pose_sync_sha256": "fe8bc371ea8c5789fdb935b0ce8c2ae97d6032dc29c82ac5f8f58cd256ba0d0c",
+    "retained_unique_original_camera_ticks": 10584,
+    "MP4_frame_count": 10585,
+    "one_to_one_count_equal": false,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R015-7July-Switch.npz",
+    "capture_clock_sha256": "bc5506f33ff0ca29ecea2766e0f16c42dceb68d057399f31d1b34bd49821c1bf",
+    "origin_tick": 637928205877731947,
+    "MP4_rate": "29993/1000",
+    "first_capture_s": 0.0,
+    "last_capture_s": 352.8800837,
+    "camera_interval_range_s": [
+      0.033331299999986186,
+      0.0666628999999972
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  },
+  {
+    "session_id": "R026-11July-Navvis",
+    "pose_sync_sha256": "40d5cf81dd56240598314bcacf93f74af8354c14645358c60d9f88bc7aadb786",
+    "retained_unique_original_camera_ticks": 16504,
+    "MP4_frame_count": 16505,
+    "one_to_one_count_equal": false,
+    "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R026-11July-Navvis.npz",
+    "capture_clock_sha256": "28f08e44f1d1afeff5f4300e101e58d0f0279dc577a036ccd55301f8081439f0",
+    "origin_tick": 637931743402228753,
+    "MP4_rate": "24597/1000",
+    "first_capture_s": 0.0,
+    "last_capture_s": 670.9653212,
+    "camera_interval_range_s": [
+      0.03333139999995183,
+      0.4999773
+    ],
+    "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+  }
+]

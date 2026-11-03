@@ -1,0 +1,89 @@
+{
+  "source_id": "holo:R007-7July-DSLR",
+  "participant_id": null,
+  "session_id": "R007-7July-DSLR",
+  "video_start_tick": 637928148099658161,
+  "video_end_tick": 637928149212618161,
+  "physical_duration_s": 111.296,
+  "sensor_streams": {
+    "Accelerometer_sync.txt": {
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_Accelerometer_sync.txt",
+      "sha256": "8cc375ea036773e8efcb4cf00eb59b134c2ddf5db6af6fe067ed328cfc4ad9f7",
+      "rows": 3339,
+      "explicit_original_sensor_ticks": true,
+      "first_relative_s": 0.016088,
+      "last_relative_s": 111.2077542,
+      "median_source_interval_s": 0.033468100000000334,
+      "sync_row_sensor_later_than_RGB_nominal_count": 3337,
+      "sensor_minus_RGB_nominal_range_s": [
+        -0.05891246666666916,
+        0.016666600000000642
+      ],
+      "finite": true,
+      "norm_median": 9.89255776214868
+    },
+    "Gyroscope_sync.txt": {
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_Gyroscope_sync.txt",
+      "sha256": "b386ddc59c390c11c13621f1536eff961e1ed12e2523795fc7d267118108bdeb",
+      "rows": 3339,
+      "explicit_original_sensor_ticks": true,
+      "first_relative_s": 0.0165587,
+      "last_relative_s": 111.1748266,
+      "median_source_interval_s": 0.03334189999999815,
+      "sync_row_sensor_later_than_RGB_nominal_count": 3336,
+      "sensor_minus_RGB_nominal_range_s": [
+        -0.09184006666666278,
+        0.016666766666666888
+      ],
+      "finite": true,
+      "norm_median": 0.08505858577716317
+    }
+  },
+  "subject_disjoint_claim": false,
+  "video_metadata": {
+    "width": 454,
+    "height": 256,
+    "average_rate": "15001/500",
+    "time_base": "1/30002",
+    "duration_ticks": 3336000,
+    "frames": 3336
+  },
+  "sampled_RGB": [
+    {
+      "pts_s": 0.0,
+      "frame_index": 0,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_0.png",
+      "sha256": "70a845402a0946f214683b36d19d041dc3bb298772f676ec09316620576fb9ba"
+    },
+    {
+      "pts_s": 0.9999333377774815,
+      "frame_index": 30,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_30.png",
+      "sha256": "40cab3144c5556f1a8a1e01b72eede01f77def20b9e969b2a314d5a0b4620432"
+    },
+    {
+      "pts_s": 1.999866675554963,
+      "frame_index": 60,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_60.png",
+      "sha256": "969ce4617c8012c1eaee8e2ad018222707cd2d4b60819ab9c03bed6110f39f16"
+    },
+    {
+      "pts_s": 3.999733351109926,
+      "frame_index": 120,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_120.png",
+      "sha256": "0fbf987893594d74bc033e05afaf0062e4c0b9344c12e692d160be91d3d56444"
+    },
+    {
+      "pts_s": 5.999600026664889,
+      "frame_index": 180,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_180.png",
+      "sha256": "815f6016485774f7ca790492de5ed338d02484c667c8446283e049b6d00402df"
+    },
+    {
+      "pts_s": 7.999466702219852,
+      "frame_index": 240,
+      "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/sync_probe/R007-7July-DSLR_240.png",
+      "sha256": "6719679a06f89d2c571c1da4156e1f27a6f32f12d42e433433c98f7b1909f96e"
+    }
+  ]
+}

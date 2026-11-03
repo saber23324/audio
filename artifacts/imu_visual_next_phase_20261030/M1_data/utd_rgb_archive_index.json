@@ -1,0 +1,6029 @@
+[
+  {
+    "name": "RGB/a10_s1_t1_color.avi",
+    "offset": 34,
+    "compressed_bytes": 1425300,
+    "bytes": 1549282,
+    "crc32": 3061285785
+  },
+  {
+    "name": "RGB/a10_s1_t2_color.avi",
+    "offset": 1425387,
+    "compressed_bytes": 1355416,
+    "bytes": 1476196,
+    "crc32": 145847028
+  },
+  {
+    "name": "RGB/a10_s1_t3_color.avi",
+    "offset": 2780856,
+    "compressed_bytes": 1428151,
+    "bytes": 1551848,
+    "crc32": 2702520229
+  },
+  {
+    "name": "RGB/a10_s1_t4_color.avi",
+    "offset": 4209060,
+    "compressed_bytes": 1298620,
+    "bytes": 1418796,
+    "crc32": 3623221994
+  },
+  {
+    "name": "RGB/a10_s2_t1_color.avi",
+    "offset": 5507733,
+    "compressed_bytes": 1303192,
+    "bytes": 1422164,
+    "crc32": 1951160454
+  },
+  {
+    "name": "RGB/a10_s2_t2_color.avi",
+    "offset": 6810978,
+    "compressed_bytes": 1229334,
+    "bytes": 1344516,
+    "crc32": 2887221369
+  },
+  {
+    "name": "RGB/a10_s2_t3_color.avi",
+    "offset": 8040365,
+    "compressed_bytes": 1157476,
+    "bytes": 1270170,
+    "crc32": 2051539088
+  },
+  {
+    "name": "RGB/a10_s2_t4_color.avi",
+    "offset": 9197894,
+    "compressed_bytes": 1350249,
+    "bytes": 1470874,
+    "crc32": 3788891862
+  },
+  {
+    "name": "RGB/a10_s3_t1_color.avi",
+    "offset": 10548196,
+    "compressed_bytes": 1530974,
+    "bytes": 1659516,
+    "crc32": 2654591485
+  },
+  {
+    "name": "RGB/a10_s3_t2_color.avi",
+    "offset": 12079223,
+    "compressed_bytes": 1505529,
+    "bytes": 1632880,
+    "crc32": 3769638581
+  },
+  {
+    "name": "RGB/a10_s3_t3_color.avi",
+    "offset": 13584805,
+    "compressed_bytes": 1409714,
+    "bytes": 1532514,
+    "crc32": 1030074741
+  },
+  {
+    "name": "RGB/a10_s3_t4_color.avi",
+    "offset": 14994572,
+    "compressed_bytes": 1529510,
+    "bytes": 1658026,
+    "crc32": 1458048381
+  },
+  {
+    "name": "RGB/a10_s4_t1_color.avi",
+    "offset": 16524135,
+    "compressed_bytes": 1192830,
+    "bytes": 1307114,
+    "crc32": 3719428065
+  },
+  {
+    "name": "RGB/a10_s4_t2_color.avi",
+    "offset": 17717018,
+    "compressed_bytes": 1193106,
+    "bytes": 1307704,
+    "crc32": 798046718
+  },
+  {
+    "name": "RGB/a10_s4_t3_color.avi",
+    "offset": 18910177,
+    "compressed_bytes": 1217723,
+    "bytes": 1333456,
+    "crc32": 4035599321
+  },
+  {
+    "name": "RGB/a10_s4_t4_color.avi",
+    "offset": 20127953,
+    "compressed_bytes": 1194174,
+    "bytes": 1308498,
+    "crc32": 334370844
+  },
+  {
+    "name": "RGB/a10_s5_t1_color.avi",
+    "offset": 21322180,
+    "compressed_bytes": 1235203,
+    "bytes": 1349994,
+    "crc32": 2374824233
+  },
+  {
+    "name": "RGB/a10_s5_t2_color.avi",
+    "offset": 22557436,
+    "compressed_bytes": 1530471,
+    "bytes": 1657812,
+    "crc32": 818924120
+  },
+  {
+    "name": "RGB/a10_s5_t3_color.avi",
+    "offset": 24087960,
+    "compressed_bytes": 1285926,
+    "bytes": 1402804,
+    "crc32": 1551590271
+  },
+  {
+    "name": "RGB/a10_s5_t4_color.avi",
+    "offset": 25373939,
+    "compressed_bytes": 1512152,
+    "bytes": 1638878,
+    "crc32": 1687627509
+  },
+  {
+    "name": "RGB/a10_s6_t1_color.avi",
+    "offset": 26886144,
+    "compressed_bytes": 1786180,
+    "bytes": 1921408,
+    "crc32": 2729604859
+  },
+  {
+    "name": "RGB/a10_s6_t2_color.avi",
+    "offset": 28672377,
+    "compressed_bytes": 1889787,
+    "bytes": 2029254,
+    "crc32": 518786019
+  },
+  {
+    "name": "RGB/a10_s6_t3_color.avi",
+    "offset": 30562217,
+    "compressed_bytes": 1714292,
+    "bytes": 1846162,
+    "crc32": 2757542421
+  },
+  {
+    "name": "RGB/a10_s6_t4_color.avi",
+    "offset": 32276562,
+    "compressed_bytes": 2065556,
+    "bytes": 2212004,
+    "crc32": 2074736422
+  },
+  {
+    "name": "RGB/a10_s7_t1_color.avi",
+    "offset": 34342171,
+    "compressed_bytes": 1378948,
+    "bytes": 1499872,
+    "crc32": 2133761024
+  },
+  {
+    "name": "RGB/a10_s7_t2_color.avi",
+    "offset": 35721172,
+    "compressed_bytes": 1288244,
+    "bytes": 1403920,
+    "crc32": 2388707033
+  },
+  {
+    "name": "RGB/a10_s7_t3_color.avi",
+    "offset": 37009469,
+    "compressed_bytes": 1339898,
+    "bytes": 1457970,
+    "crc32": 3384140617
+  },
+  {
+    "name": "RGB/a10_s7_t4_color.avi",
+    "offset": 38349420,
+    "compressed_bytes": 1303412,
+    "bytes": 1423618,
+    "crc32": 3214689122
+  },
+  {
+    "name": "RGB/a10_s8_t1_color.avi",
+    "offset": 39652885,
+    "compressed_bytes": 1547518,
+    "bytes": 1674172,
+    "crc32": 2263675545
+  },
+  {
+    "name": "RGB/a10_s8_t2_color.avi",
+    "offset": 41200456,
+    "compressed_bytes": 1498297,
+    "bytes": 1623004,
+    "crc32": 3124414276
+  },
+  {
+    "name": "RGB/a10_s8_t3_color.avi",
+    "offset": 42698806,
+    "compressed_bytes": 1422323,
+    "bytes": 1544006,
+    "crc32": 3884973751
+  },
+  {
+    "name": "RGB/a10_s8_t4_color.avi",
+    "offset": 44121182,
+    "compressed_bytes": 1314003,
+    "bytes": 1433220,
+    "crc32": 3068861448
+  },
+  {
+    "name": "RGB/a11_s1_t1_color.avi",
+    "offset": 45435238,
+    "compressed_bytes": 1229261,
+    "bytes": 1344742,
+    "crc32": 674368018
+  },
+  {
+    "name": "RGB/a11_s1_t2_color.avi",
+    "offset": 46664552,
+    "compressed_bytes": 1280212,
+    "bytes": 1397960,
+    "crc32": 2216140344
+  },
+  {
+    "name": "RGB/a11_s1_t3_color.avi",
+    "offset": 47944817,
+    "compressed_bytes": 1254701,
+    "bytes": 1371474,
+    "crc32": 2855801754
+  },
+  {
+    "name": "RGB/a11_s1_t4_color.avi",
+    "offset": 49199571,
+    "compressed_bytes": 1205707,
+    "bytes": 1320188,
+    "crc32": 2838736286
+  },
+  {
+    "name": "RGB/a11_s2_t1_color.avi",
+    "offset": 50405331,
+    "compressed_bytes": 1229790,
+    "bytes": 1345748,
+    "crc32": 465944936
+  },
+  {
+    "name": "RGB/a11_s2_t2_color.avi",
+    "offset": 51635174,
+    "compressed_bytes": 1181399,
+    "bytes": 1295198,
+    "crc32": 1282700611
+  },
+  {
+    "name": "RGB/a11_s2_t3_color.avi",
+    "offset": 52816626,
+    "compressed_bytes": 1278638,
+    "bytes": 1396666,
+    "crc32": 268793869
+  },
+  {
+    "name": "RGB/a11_s2_t4_color.avi",
+    "offset": 54095317,
+    "compressed_bytes": 1230720,
+    "bytes": 1346142,
+    "crc32": 178689290
+  },
+  {
+    "name": "RGB/a11_s3_t1_color.avi",
+    "offset": 55326090,
+    "compressed_bytes": 1408589,
+    "bytes": 1531656,
+    "crc32": 2753934103
+  },
+  {
+    "name": "RGB/a11_s3_t2_color.avi",
+    "offset": 56734732,
+    "compressed_bytes": 1336571,
+    "bytes": 1456294,
+    "crc32": 2369916410
+  },
+  {
+    "name": "RGB/a11_s3_t3_color.avi",
+    "offset": 58071356,
+    "compressed_bytes": 1506172,
+    "bytes": 1633444,
+    "crc32": 1916139419
+  },
+  {
+    "name": "RGB/a11_s3_t4_color.avi",
+    "offset": 59577581,
+    "compressed_bytes": 1446259,
+    "bytes": 1575690,
+    "crc32": 3251853304
+  },
+  {
+    "name": "RGB/a11_s4_t1_color.avi",
+    "offset": 61023893,
+    "compressed_bytes": 1319775,
+    "bytes": 1439596,
+    "crc32": 2595426576
+  },
+  {
+    "name": "RGB/a11_s4_t2_color.avi",
+    "offset": 62343721,
+    "compressed_bytes": 1391319,
+    "bytes": 1514080,
+    "crc32": 2065277724
+  },
+  {
+    "name": "RGB/a11_s4_t3_color.avi",
+    "offset": 63735093,
+    "compressed_bytes": 1368088,
+    "bytes": 1489756,
+    "crc32": 901288182
+  },
+  {
+    "name": "RGB/a11_s4_t4_color.avi",
+    "offset": 65103234,
+    "compressed_bytes": 1345394,
+    "bytes": 1465876,
+    "crc32": 1746397226
+  },
+  {
+    "name": "RGB/a11_s5_t1_color.avi",
+    "offset": 66448681,
+    "compressed_bytes": 1406106,
+    "bytes": 1528234,
+    "crc32": 355152706
+  },
+  {
+    "name": "RGB/a11_s5_t2_color.avi",
+    "offset": 67854840,
+    "compressed_bytes": 1553032,
+    "bytes": 1681836,
+    "crc32": 1259208324
+  },
+  {
+    "name": "RGB/a11_s5_t3_color.avi",
+    "offset": 69407925,
+    "compressed_bytes": 1479636,
+    "bytes": 1604962,
+    "crc32": 1234656510
+  },
+  {
+    "name": "RGB/a11_s5_t4_color.avi",
+    "offset": 70887614,
+    "compressed_bytes": 1381328,
+    "bytes": 1502678,
+    "crc32": 3115644777
+  },
+  {
+    "name": "RGB/a11_s6_t1_color.avi",
+    "offset": 72268995,
+    "compressed_bytes": 1649557,
+    "bytes": 1779782,
+    "crc32": 1894402780
+  },
+  {
+    "name": "RGB/a11_s6_t2_color.avi",
+    "offset": 73918605,
+    "compressed_bytes": 1939410,
+    "bytes": 2081150,
+    "crc32": 4121518665
+  },
+  {
+    "name": "RGB/a11_s6_t3_color.avi",
+    "offset": 75858068,
+    "compressed_bytes": 2062320,
+    "bytes": 2214814,
+    "crc32": 2524747124
+  },
+  {
+    "name": "RGB/a11_s6_t4_color.avi",
+    "offset": 77920441,
+    "compressed_bytes": 1981281,
+    "bytes": 2131822,
+    "crc32": 4218278864
+  },
+  {
+    "name": "RGB/a11_s7_t1_color.avi",
+    "offset": 79901775,
+    "compressed_bytes": 1619782,
+    "bytes": 1751360,
+    "crc32": 2507675129
+  },
+  {
+    "name": "RGB/a11_s7_t2_color.avi",
+    "offset": 81521610,
+    "compressed_bytes": 1543386,
+    "bytes": 1672044,
+    "crc32": 275708453
+  },
+  {
+    "name": "RGB/a11_s7_t3_color.avi",
+    "offset": 83065049,
+    "compressed_bytes": 1466296,
+    "bytes": 1591792,
+    "crc32": 765208087
+  },
+  {
+    "name": "RGB/a11_s7_t4_color.avi",
+    "offset": 84531398,
+    "compressed_bytes": 1541932,
+    "bytes": 1670344,
+    "crc32": 2649682401
+  },
+  {
+    "name": "RGB/a11_s8_t1_color.avi",
+    "offset": 86073383,
+    "compressed_bytes": 1741480,
+    "bytes": 1876940,
+    "crc32": 3760599728
+  },
+  {
+    "name": "RGB/a11_s8_t2_color.avi",
+    "offset": 87814916,
+    "compressed_bytes": 1387798,
+    "bytes": 1508516,
+    "crc32": 1085378252
+  },
+  {
+    "name": "RGB/a11_s8_t3_color.avi",
+    "offset": 89202767,
+    "compressed_bytes": 1438385,
+    "bytes": 1561356,
+    "crc32": 1547125831
+  },
+  {
+    "name": "RGB/a11_s8_t4_color.avi",
+    "offset": 90641205,
+    "compressed_bytes": 1513729,
+    "bytes": 1639324,
+    "crc32": 2962006619
+  },
+  {
+    "name": "RGB/a12_s1_t1_color.avi",
+    "offset": 92154987,
+    "compressed_bytes": 1557576,
+    "bytes": 1687128,
+    "crc32": 3156437999
+  },
+  {
+    "name": "RGB/a12_s1_t2_color.avi",
+    "offset": 93712616,
+    "compressed_bytes": 1655020,
+    "bytes": 1788938,
+    "crc32": 3924596745
+  },
+  {
+    "name": "RGB/a12_s1_t3_color.avi",
+    "offset": 95367689,
+    "compressed_bytes": 1463189,
+    "bytes": 1588114,
+    "crc32": 759138325
+  },
+  {
+    "name": "RGB/a12_s1_t4_color.avi",
+    "offset": 96830931,
+    "compressed_bytes": 1533843,
+    "bytes": 1662290,
+    "crc32": 1055899778
+  },
+  {
+    "name": "RGB/a12_s2_t1_color.avi",
+    "offset": 98364827,
+    "compressed_bytes": 1374825,
+    "bytes": 1498932,
+    "crc32": 1531328297
+  },
+  {
+    "name": "RGB/a12_s2_t2_color.avi",
+    "offset": 99739705,
+    "compressed_bytes": 1380125,
+    "bytes": 1508704,
+    "crc32": 3284601996
+  },
+  {
+    "name": "RGB/a12_s2_t3_color.avi",
+    "offset": 101119883,
+    "compressed_bytes": 1321558,
+    "bytes": 1445058,
+    "crc32": 407574474
+  },
+  {
+    "name": "RGB/a12_s2_t4_color.avi",
+    "offset": 102441494,
+    "compressed_bytes": 1314652,
+    "bytes": 1434578,
+    "crc32": 3311363107
+  },
+  {
+    "name": "RGB/a12_s3_t1_color.avi",
+    "offset": 103756199,
+    "compressed_bytes": 1346621,
+    "bytes": 1468156,
+    "crc32": 2682007563
+  },
+  {
+    "name": "RGB/a12_s3_t2_color.avi",
+    "offset": 105102873,
+    "compressed_bytes": 1750338,
+    "bytes": 1889830,
+    "crc32": 3561580584
+  },
+  {
+    "name": "RGB/a12_s3_t3_color.avi",
+    "offset": 106853264,
+    "compressed_bytes": 1679234,
+    "bytes": 1815372,
+    "crc32": 3828853549
+  },
+  {
+    "name": "RGB/a12_s3_t4_color.avi",
+    "offset": 108532551,
+    "compressed_bytes": 1633741,
+    "bytes": 1767818,
+    "crc32": 3671968439
+  },
+  {
+    "name": "RGB/a12_s4_t1_color.avi",
+    "offset": 110166345,
+    "compressed_bytes": 1441692,
+    "bytes": 1567728,
+    "crc32": 2951488841
+  },
+  {
+    "name": "RGB/a12_s4_t2_color.avi",
+    "offset": 111608090,
+    "compressed_bytes": 1359151,
+    "bytes": 1480692,
+    "crc32": 3925516541
+  },
+  {
+    "name": "RGB/a12_s4_t3_color.avi",
+    "offset": 112967294,
+    "compressed_bytes": 1215188,
+    "bytes": 1330316,
+    "crc32": 64788024
+  },
+  {
+    "name": "RGB/a12_s4_t4_color.avi",
+    "offset": 114182535,
+    "compressed_bytes": 1407655,
+    "bytes": 1531348,
+    "crc32": 1891047574
+  },
+  {
+    "name": "RGB/a12_s5_t1_color.avi",
+    "offset": 115590243,
+    "compressed_bytes": 1419494,
+    "bytes": 1541810,
+    "crc32": 2900167910
+  },
+  {
+    "name": "RGB/a12_s5_t2_color.avi",
+    "offset": 117009790,
+    "compressed_bytes": 1391754,
+    "bytes": 1513068,
+    "crc32": 4166170333
+  },
+  {
+    "name": "RGB/a12_s5_t3_color.avi",
+    "offset": 118401597,
+    "compressed_bytes": 1490399,
+    "bytes": 1616216,
+    "crc32": 2247913108
+  },
+  {
+    "name": "RGB/a12_s5_t4_color.avi",
+    "offset": 119892049,
+    "compressed_bytes": 1466304,
+    "bytes": 1591488,
+    "crc32": 3940002677
+  },
+  {
+    "name": "RGB/a12_s6_t1_color.avi",
+    "offset": 121358406,
+    "compressed_bytes": 1538782,
+    "bytes": 1666258,
+    "crc32": 3037959721
+  },
+  {
+    "name": "RGB/a12_s6_t2_color.avi",
+    "offset": 122897241,
+    "compressed_bytes": 1748708,
+    "bytes": 1884660,
+    "crc32": 3974616093
+  },
+  {
+    "name": "RGB/a12_s6_t3_color.avi",
+    "offset": 124646002,
+    "compressed_bytes": 1726076,
+    "bytes": 1860746,
+    "crc32": 164460852
+  },
+  {
+    "name": "RGB/a12_s6_t4_color.avi",
+    "offset": 126372131,
+    "compressed_bytes": 1573166,
+    "bytes": 1701742,
+    "crc32": 2824917214
+  },
+  {
+    "name": "RGB/a12_s7_t1_color.avi",
+    "offset": 127945350,
+    "compressed_bytes": 1574263,
+    "bytes": 1704400,
+    "crc32": 26874337
+  },
+  {
+    "name": "RGB/a12_s7_t2_color.avi",
+    "offset": 129519666,
+    "compressed_bytes": 1624296,
+    "bytes": 1756534,
+    "crc32": 2794655489
+  },
+  {
+    "name": "RGB/a12_s7_t3_color.avi",
+    "offset": 131144015,
+    "compressed_bytes": 1501166,
+    "bytes": 1627656,
+    "crc32": 2356143736
+  },
+  {
+    "name": "RGB/a12_s7_t4_color.avi",
+    "offset": 132645234,
+    "compressed_bytes": 1305027,
+    "bytes": 1423402,
+    "crc32": 1573698816
+  },
+  {
+    "name": "RGB/a12_s8_t1_color.avi",
+    "offset": 133950314,
+    "compressed_bytes": 1789867,
+    "bytes": 1929082,
+    "crc32": 2304434927
+  },
+  {
+    "name": "RGB/a12_s8_t2_color.avi",
+    "offset": 135740234,
+    "compressed_bytes": 1718291,
+    "bytes": 1854400,
+    "crc32": 856063973
+  },
+  {
+    "name": "RGB/a12_s8_t3_color.avi",
+    "offset": 137458578,
+    "compressed_bytes": 1497179,
+    "bytes": 1624090,
+    "crc32": 2936075976
+  },
+  {
+    "name": "RGB/a12_s8_t4_color.avi",
+    "offset": 138955810,
+    "compressed_bytes": 1424313,
+    "bytes": 1547822,
+    "crc32": 3328429102
+  },
+  {
+    "name": "RGB/a13_s1_t1_color.avi",
+    "offset": 140380176,
+    "compressed_bytes": 1459877,
+    "bytes": 1585894,
+    "crc32": 1933955578
+  },
+  {
+    "name": "RGB/a13_s1_t2_color.avi",
+    "offset": 141840106,
+    "compressed_bytes": 1630018,
+    "bytes": 1763306,
+    "crc32": 3143520907
+  },
+  {
+    "name": "RGB/a13_s1_t3_color.avi",
+    "offset": 143470177,
+    "compressed_bytes": 1529693,
+    "bytes": 1658850,
+    "crc32": 2458148289
+  },
+  {
+    "name": "RGB/a13_s1_t4_color.avi",
+    "offset": 144999923,
+    "compressed_bytes": 1434297,
+    "bytes": 1559260,
+    "crc32": 1032022386
+  },
+  {
+    "name": "RGB/a13_s2_t1_color.avi",
+    "offset": 146434273,
+    "compressed_bytes": 969733,
+    "bytes": 1074898,
+    "crc32": 1241327332
+  },
+  {
+    "name": "RGB/a13_s2_t2_color.avi",
+    "offset": 147404059,
+    "compressed_bytes": 969141,
+    "bytes": 1074154,
+    "crc32": 2034816802
+  },
+  {
+    "name": "RGB/a13_s2_t3_color.avi",
+    "offset": 148373253,
+    "compressed_bytes": 944456,
+    "bytes": 1048318,
+    "crc32": 2668978770
+  },
+  {
+    "name": "RGB/a13_s2_t4_color.avi",
+    "offset": 149317762,
+    "compressed_bytes": 992341,
+    "bytes": 1098398,
+    "crc32": 795829840
+  },
+  {
+    "name": "RGB/a13_s3_t1_color.avi",
+    "offset": 150310156,
+    "compressed_bytes": 1189364,
+    "bytes": 1302788,
+    "crc32": 4064586140
+  },
+  {
+    "name": "RGB/a13_s3_t2_color.avi",
+    "offset": 151499573,
+    "compressed_bytes": 1067746,
+    "bytes": 1177018,
+    "crc32": 1060149958
+  },
+  {
+    "name": "RGB/a13_s3_t3_color.avi",
+    "offset": 152567372,
+    "compressed_bytes": 1260968,
+    "bytes": 1377598,
+    "crc32": 2017357267
+  },
+  {
+    "name": "RGB/a13_s3_t4_color.avi",
+    "offset": 153828393,
+    "compressed_bytes": 1311290,
+    "bytes": 1429730,
+    "crc32": 618273153
+  },
+  {
+    "name": "RGB/a13_s4_t1_color.avi",
+    "offset": 155139736,
+    "compressed_bytes": 1423038,
+    "bytes": 1547436,
+    "crc32": 3239333803
+  },
+  {
+    "name": "RGB/a13_s4_t2_color.avi",
+    "offset": 156562827,
+    "compressed_bytes": 1375903,
+    "bytes": 1497900,
+    "crc32": 1763454951
+  },
+  {
+    "name": "RGB/a13_s4_t3_color.avi",
+    "offset": 157938783,
+    "compressed_bytes": 1351848,
+    "bytes": 1472860,
+    "crc32": 4172403358
+  },
+  {
+    "name": "RGB/a13_s4_t4_color.avi",
+    "offset": 159290684,
+    "compressed_bytes": 1280245,
+    "bytes": 1397870,
+    "crc32": 3363034774
+  },
+  {
+    "name": "RGB/a13_s5_t1_color.avi",
+    "offset": 160570982,
+    "compressed_bytes": 1065152,
+    "bytes": 1173758,
+    "crc32": 2427702852
+  },
+  {
+    "name": "RGB/a13_s5_t2_color.avi",
+    "offset": 161636187,
+    "compressed_bytes": 1187524,
+    "bytes": 1300458,
+    "crc32": 1385853164
+  },
+  {
+    "name": "RGB/a13_s5_t3_color.avi",
+    "offset": 162823764,
+    "compressed_bytes": 1161720,
+    "bytes": 1274138,
+    "crc32": 171637445
+  },
+  {
+    "name": "RGB/a13_s5_t4_color.avi",
+    "offset": 163985537,
+    "compressed_bytes": 1213278,
+    "bytes": 1327374,
+    "crc32": 3784133590
+  },
+  {
+    "name": "RGB/a13_s6_t1_color.avi",
+    "offset": 165198868,
+    "compressed_bytes": 1286792,
+    "bytes": 1401456,
+    "crc32": 964465319
+  },
+  {
+    "name": "RGB/a13_s6_t2_color.avi",
+    "offset": 166485713,
+    "compressed_bytes": 1537920,
+    "bytes": 1662932,
+    "crc32": 431148686
+  },
+  {
+    "name": "RGB/a13_s6_t3_color.avi",
+    "offset": 168023686,
+    "compressed_bytes": 1589223,
+    "bytes": 1716278,
+    "crc32": 4289394189
+  },
+  {
+    "name": "RGB/a13_s6_t4_color.avi",
+    "offset": 169612962,
+    "compressed_bytes": 1487622,
+    "bytes": 1610722,
+    "crc32": 774651022
+  },
+  {
+    "name": "RGB/a13_s7_t1_color.avi",
+    "offset": 171100637,
+    "compressed_bytes": 1200328,
+    "bytes": 1313796,
+    "crc32": 4262698000
+  },
+  {
+    "name": "RGB/a13_s7_t2_color.avi",
+    "offset": 172301018,
+    "compressed_bytes": 1206280,
+    "bytes": 1319958,
+    "crc32": 917531193
+  },
+  {
+    "name": "RGB/a13_s7_t3_color.avi",
+    "offset": 173507351,
+    "compressed_bytes": 1255791,
+    "bytes": 1371340,
+    "crc32": 3479078853
+  },
+  {
+    "name": "RGB/a13_s7_t4_color.avi",
+    "offset": 174763195,
+    "compressed_bytes": 1309099,
+    "bytes": 1426744,
+    "crc32": 1634063582
+  },
+  {
+    "name": "RGB/a13_s8_t1_color.avi",
+    "offset": 176072347,
+    "compressed_bytes": 1420471,
+    "bytes": 1545424,
+    "crc32": 3625049468
+  },
+  {
+    "name": "RGB/a13_s8_t2_color.avi",
+    "offset": 177492871,
+    "compressed_bytes": 1240597,
+    "bytes": 1359824,
+    "crc32": 2567696591
+  },
+  {
+    "name": "RGB/a13_s8_t3_color.avi",
+    "offset": 178733521,
+    "compressed_bytes": 1337892,
+    "bytes": 1461576,
+    "crc32": 1923173678
+  },
+  {
+    "name": "RGB/a13_s8_t4_color.avi",
+    "offset": 180071466,
+    "compressed_bytes": 1216053,
+    "bytes": 1333980,
+    "crc32": 788795036
+  },
+  {
+    "name": "RGB/a14_s1_t1_color.avi",
+    "offset": 181287572,
+    "compressed_bytes": 1490951,
+    "bytes": 1617422,
+    "crc32": 641694678
+  },
+  {
+    "name": "RGB/a14_s1_t2_color.avi",
+    "offset": 182778576,
+    "compressed_bytes": 1443151,
+    "bytes": 1567516,
+    "crc32": 2762751842
+  },
+  {
+    "name": "RGB/a14_s1_t3_color.avi",
+    "offset": 184221780,
+    "compressed_bytes": 1467530,
+    "bytes": 1592892,
+    "crc32": 140395124
+  },
+  {
+    "name": "RGB/a14_s1_t4_color.avi",
+    "offset": 185689363,
+    "compressed_bytes": 1466740,
+    "bytes": 1592332,
+    "crc32": 1358661409
+  },
+  {
+    "name": "RGB/a14_s2_t1_color.avi",
+    "offset": 187156156,
+    "compressed_bytes": 1418958,
+    "bytes": 1543702,
+    "crc32": 417510000
+  },
+  {
+    "name": "RGB/a14_s2_t2_color.avi",
+    "offset": 188575167,
+    "compressed_bytes": 1321136,
+    "bytes": 1443400,
+    "crc32": 3688597519
+  },
+  {
+    "name": "RGB/a14_s2_t3_color.avi",
+    "offset": 189896356,
+    "compressed_bytes": 1411644,
+    "bytes": 1539754,
+    "crc32": 2657939405
+  },
+  {
+    "name": "RGB/a14_s2_t4_color.avi",
+    "offset": 191308053,
+    "compressed_bytes": 1468624,
+    "bytes": 1597588,
+    "crc32": 3485214238
+  },
+  {
+    "name": "RGB/a14_s3_t1_color.avi",
+    "offset": 192776730,
+    "compressed_bytes": 1187982,
+    "bytes": 1305446,
+    "crc32": 1754136488
+  },
+  {
+    "name": "RGB/a14_s3_t2_color.avi",
+    "offset": 193964765,
+    "compressed_bytes": 1248705,
+    "bytes": 1363852,
+    "crc32": 3272272133
+  },
+  {
+    "name": "RGB/a14_s3_t3_color.avi",
+    "offset": 195213523,
+    "compressed_bytes": 1320743,
+    "bytes": 1439344,
+    "crc32": 1575845080
+  },
+  {
+    "name": "RGB/a14_s3_t4_color.avi",
+    "offset": 196534319,
+    "compressed_bytes": 1371553,
+    "bytes": 1491592,
+    "crc32": 585129286
+  },
+  {
+    "name": "RGB/a14_s4_t1_color.avi",
+    "offset": 197905925,
+    "compressed_bytes": 1408115,
+    "bytes": 1532076,
+    "crc32": 2988625106
+  },
+  {
+    "name": "RGB/a14_s4_t2_color.avi",
+    "offset": 199314093,
+    "compressed_bytes": 1314547,
+    "bytes": 1434586,
+    "crc32": 1717558549
+  },
+  {
+    "name": "RGB/a14_s4_t3_color.avi",
+    "offset": 200628693,
+    "compressed_bytes": 1338550,
+    "bytes": 1459702,
+    "crc32": 131304205
+  },
+  {
+    "name": "RGB/a14_s4_t4_color.avi",
+    "offset": 201967296,
+    "compressed_bytes": 1220041,
+    "bytes": 1336152,
+    "crc32": 3978131073
+  },
+  {
+    "name": "RGB/a14_s5_t1_color.avi",
+    "offset": 203187390,
+    "compressed_bytes": 1364635,
+    "bytes": 1484100,
+    "crc32": 530958451
+  },
+  {
+    "name": "RGB/a14_s5_t2_color.avi",
+    "offset": 204552078,
+    "compressed_bytes": 1390417,
+    "bytes": 1511880,
+    "crc32": 4248392831
+  },
+  {
+    "name": "RGB/a14_s5_t3_color.avi",
+    "offset": 205942548,
+    "compressed_bytes": 1338300,
+    "bytes": 1457812,
+    "crc32": 2284869414
+  },
+  {
+    "name": "RGB/a14_s5_t4_color.avi",
+    "offset": 207280901,
+    "compressed_bytes": 1365092,
+    "bytes": 1485010,
+    "crc32": 1590888214
+  },
+  {
+    "name": "RGB/a14_s6_t1_color.avi",
+    "offset": 208646046,
+    "compressed_bytes": 1277634,
+    "bytes": 1392214,
+    "crc32": 3878880561
+  },
+  {
+    "name": "RGB/a14_s6_t2_color.avi",
+    "offset": 209923733,
+    "compressed_bytes": 1492208,
+    "bytes": 1615336,
+    "crc32": 3688860586
+  },
+  {
+    "name": "RGB/a14_s6_t3_color.avi",
+    "offset": 211415994,
+    "compressed_bytes": 1518089,
+    "bytes": 1642188,
+    "crc32": 154894366
+  },
+  {
+    "name": "RGB/a14_s6_t4_color.avi",
+    "offset": 212934136,
+    "compressed_bytes": 1571948,
+    "bytes": 1698046,
+    "crc32": 3237436784
+  },
+  {
+    "name": "RGB/a14_s7_t1_color.avi",
+    "offset": 214506137,
+    "compressed_bytes": 1564456,
+    "bytes": 1694558,
+    "crc32": 1683795357
+  },
+  {
+    "name": "RGB/a14_s7_t2_color.avi",
+    "offset": 216070646,
+    "compressed_bytes": 1625566,
+    "bytes": 1763070,
+    "crc32": 2895000464
+  },
+  {
+    "name": "RGB/a14_s7_t3_color.avi",
+    "offset": 217696265,
+    "compressed_bytes": 1505804,
+    "bytes": 1637290,
+    "crc32": 739428954
+  },
+  {
+    "name": "RGB/a14_s7_t4_color.avi",
+    "offset": 219202122,
+    "compressed_bytes": 1652869,
+    "bytes": 1791272,
+    "crc32": 1086387625
+  },
+  {
+    "name": "RGB/a14_s8_t1_color.avi",
+    "offset": 220855044,
+    "compressed_bytes": 1521562,
+    "bytes": 1647710,
+    "crc32": 655425655
+  },
+  {
+    "name": "RGB/a14_s8_t2_color.avi",
+    "offset": 222376659,
+    "compressed_bytes": 1422038,
+    "bytes": 1544362,
+    "crc32": 867239238
+  },
+  {
+    "name": "RGB/a14_s8_t3_color.avi",
+    "offset": 223798750,
+    "compressed_bytes": 1444303,
+    "bytes": 1567590,
+    "crc32": 1194185151
+  },
+  {
+    "name": "RGB/a14_s8_t4_color.avi",
+    "offset": 225243106,
+    "compressed_bytes": 1421607,
+    "bytes": 1543866,
+    "crc32": 2937885461
+  },
+  {
+    "name": "RGB/a15_s1_t1_color.avi",
+    "offset": 226664766,
+    "compressed_bytes": 1409154,
+    "bytes": 1532300,
+    "crc32": 772495598
+  },
+  {
+    "name": "RGB/a15_s1_t2_color.avi",
+    "offset": 228073973,
+    "compressed_bytes": 1289286,
+    "bytes": 1407608,
+    "crc32": 2210214574
+  },
+  {
+    "name": "RGB/a15_s1_t3_color.avi",
+    "offset": 229363312,
+    "compressed_bytes": 1167676,
+    "bytes": 1280350,
+    "crc32": 1552702650
+  },
+  {
+    "name": "RGB/a15_s1_t4_color.avi",
+    "offset": 230531041,
+    "compressed_bytes": 1166516,
+    "bytes": 1278982,
+    "crc32": 2024738022
+  },
+  {
+    "name": "RGB/a15_s2_t1_color.avi",
+    "offset": 231697610,
+    "compressed_bytes": 1073772,
+    "bytes": 1183752,
+    "crc32": 595884354
+  },
+  {
+    "name": "RGB/a15_s2_t2_color.avi",
+    "offset": 232771435,
+    "compressed_bytes": 1008932,
+    "bytes": 1115826,
+    "crc32": 2665384540
+  },
+  {
+    "name": "RGB/a15_s2_t3_color.avi",
+    "offset": 233780420,
+    "compressed_bytes": 1084272,
+    "bytes": 1194470,
+    "crc32": 3331320607
+  },
+  {
+    "name": "RGB/a15_s2_t4_color.avi",
+    "offset": 234864745,
+    "compressed_bytes": 788131,
+    "bytes": 884906,
+    "crc32": 2640248865
+  },
+  {
+    "name": "RGB/a15_s3_t1_color.avi",
+    "offset": 235652929,
+    "compressed_bytes": 1276922,
+    "bytes": 1394640,
+    "crc32": 315101593
+  },
+  {
+    "name": "RGB/a15_s3_t2_color.avi",
+    "offset": 236929904,
+    "compressed_bytes": 1107066,
+    "bytes": 1217088,
+    "crc32": 2644740239
+  },
+  {
+    "name": "RGB/a15_s3_t3_color.avi",
+    "offset": 238037023,
+    "compressed_bytes": 1080954,
+    "bytes": 1190666,
+    "crc32": 3795369592
+  },
+  {
+    "name": "RGB/a15_s3_t4_color.avi",
+    "offset": 239118030,
+    "compressed_bytes": 1180483,
+    "bytes": 1293936,
+    "crc32": 1299260183
+  },
+  {
+    "name": "RGB/a15_s4_t1_color.avi",
+    "offset": 240298566,
+    "compressed_bytes": 1126537,
+    "bytes": 1238182,
+    "crc32": 700452274
+  },
+  {
+    "name": "RGB/a15_s4_t2_color.avi",
+    "offset": 241425156,
+    "compressed_bytes": 1204320,
+    "bytes": 1319084,
+    "crc32": 1971003178
+  },
+  {
+    "name": "RGB/a15_s4_t3_color.avi",
+    "offset": 242629529,
+    "compressed_bytes": 1083517,
+    "bytes": 1193380,
+    "crc32": 333988531
+  },
+  {
+    "name": "RGB/a15_s4_t4_color.avi",
+    "offset": 243713099,
+    "compressed_bytes": 1077796,
+    "bytes": 1188996,
+    "crc32": 2694452369
+  },
+  {
+    "name": "RGB/a15_s5_t1_color.avi",
+    "offset": 244790948,
+    "compressed_bytes": 1193730,
+    "bytes": 1306754,
+    "crc32": 3295724428
+  },
+  {
+    "name": "RGB/a15_s5_t2_color.avi",
+    "offset": 245984731,
+    "compressed_bytes": 1219610,
+    "bytes": 1333482,
+    "crc32": 242635644
+  },
+  {
+    "name": "RGB/a15_s5_t3_color.avi",
+    "offset": 247204394,
+    "compressed_bytes": 1219451,
+    "bytes": 1333442,
+    "crc32": 184417534
+  },
+  {
+    "name": "RGB/a15_s5_t4_color.avi",
+    "offset": 248423898,
+    "compressed_bytes": 1020024,
+    "bytes": 1126234,
+    "crc32": 2653294693
+  },
+  {
+    "name": "RGB/a15_s6_t1_color.avi",
+    "offset": 249443975,
+    "compressed_bytes": 1325037,
+    "bytes": 1441522,
+    "crc32": 3215640081
+  },
+  {
+    "name": "RGB/a15_s6_t2_color.avi",
+    "offset": 250769065,
+    "compressed_bytes": 1274675,
+    "bytes": 1389140,
+    "crc32": 2210224273
+  },
+  {
+    "name": "RGB/a15_s6_t3_color.avi",
+    "offset": 252043793,
+    "compressed_bytes": 1376079,
+    "bytes": 1494596,
+    "crc32": 4110564064
+  },
+  {
+    "name": "RGB/a15_s6_t4_color.avi",
+    "offset": 253419925,
+    "compressed_bytes": 1372963,
+    "bytes": 1491432,
+    "crc32": 2889069162
+  },
+  {
+    "name": "RGB/a15_s7_t1_color.avi",
+    "offset": 254792941,
+    "compressed_bytes": 1365151,
+    "bytes": 1484364,
+    "crc32": 3684920919
+  },
+  {
+    "name": "RGB/a15_s7_t2_color.avi",
+    "offset": 256158145,
+    "compressed_bytes": 1316275,
+    "bytes": 1433690,
+    "crc32": 4070317905
+  },
+  {
+    "name": "RGB/a15_s7_t3_color.avi",
+    "offset": 257474473,
+    "compressed_bytes": 1389811,
+    "bytes": 1510232,
+    "crc32": 460609769
+  },
+  {
+    "name": "RGB/a15_s7_t4_color.avi",
+    "offset": 258864337,
+    "compressed_bytes": 1285463,
+    "bytes": 1401698,
+    "crc32": 3865391130
+  },
+  {
+    "name": "RGB/a15_s8_t1_color.avi",
+    "offset": 260149853,
+    "compressed_bytes": 1894210,
+    "bytes": 2034246,
+    "crc32": 784049494
+  },
+  {
+    "name": "RGB/a15_s8_t2_color.avi",
+    "offset": 262044116,
+    "compressed_bytes": 1416381,
+    "bytes": 1537142,
+    "crc32": 4177491604
+  },
+  {
+    "name": "RGB/a15_s8_t3_color.avi",
+    "offset": 263460550,
+    "compressed_bytes": 1414430,
+    "bytes": 1535334,
+    "crc32": 1537483315
+  },
+  {
+    "name": "RGB/a15_s8_t4_color.avi",
+    "offset": 264875033,
+    "compressed_bytes": 1438979,
+    "bytes": 1560512,
+    "crc32": 57826183
+  },
+  {
+    "name": "RGB/a16_s1_t1_color.avi",
+    "offset": 266314065,
+    "compressed_bytes": 1040386,
+    "bytes": 1149340,
+    "crc32": 3570370041
+  },
+  {
+    "name": "RGB/a16_s1_t2_color.avi",
+    "offset": 267354504,
+    "compressed_bytes": 1039188,
+    "bytes": 1148092,
+    "crc32": 2493709908
+  },
+  {
+    "name": "RGB/a16_s1_t3_color.avi",
+    "offset": 268393745,
+    "compressed_bytes": 1015842,
+    "bytes": 1123672,
+    "crc32": 884279907
+  },
+  {
+    "name": "RGB/a16_s1_t4_color.avi",
+    "offset": 269409640,
+    "compressed_bytes": 1040055,
+    "bytes": 1148996,
+    "crc32": 3141342261
+  },
+  {
+    "name": "RGB/a16_s2_t1_color.avi",
+    "offset": 270449748,
+    "compressed_bytes": 801184,
+    "bytes": 899974,
+    "crc32": 394672020
+  },
+  {
+    "name": "RGB/a16_s2_t2_color.avi",
+    "offset": 271250985,
+    "compressed_bytes": 776478,
+    "bytes": 874026,
+    "crc32": 2397429621
+  },
+  {
+    "name": "RGB/a16_s2_t3_color.avi",
+    "offset": 272027516,
+    "compressed_bytes": 824989,
+    "bytes": 924700,
+    "crc32": 1609533188
+  },
+  {
+    "name": "RGB/a16_s2_t4_color.avi",
+    "offset": 272852558,
+    "compressed_bytes": 945611,
+    "bytes": 1050848,
+    "crc32": 7053623
+  },
+  {
+    "name": "RGB/a16_s3_t1_color.avi",
+    "offset": 273798222,
+    "compressed_bytes": 948364,
+    "bytes": 1052148,
+    "crc32": 22842306
+  },
+  {
+    "name": "RGB/a16_s3_t2_color.avi",
+    "offset": 274746639,
+    "compressed_bytes": 899753,
+    "bytes": 1001552,
+    "crc32": 2172166260
+  },
+  {
+    "name": "RGB/a16_s3_t3_color.avi",
+    "offset": 275646445,
+    "compressed_bytes": 1019770,
+    "bytes": 1126884,
+    "crc32": 2701302461
+  },
+  {
+    "name": "RGB/a16_s3_t4_color.avi",
+    "offset": 276666268,
+    "compressed_bytes": 972445,
+    "bytes": 1077216,
+    "crc32": 2940237970
+  },
+  {
+    "name": "RGB/a16_s4_t1_color.avi",
+    "offset": 277638766,
+    "compressed_bytes": 986779,
+    "bytes": 1093558,
+    "crc32": 2300582734
+  },
+  {
+    "name": "RGB/a16_s4_t2_color.avi",
+    "offset": 278625598,
+    "compressed_bytes": 1108506,
+    "bytes": 1219532,
+    "crc32": 306749133
+  },
+  {
+    "name": "RGB/a16_s4_t3_color.avi",
+    "offset": 279734157,
+    "compressed_bytes": 1109223,
+    "bytes": 1220358,
+    "crc32": 2240778667
+  },
+  {
+    "name": "RGB/a16_s4_t4_color.avi",
+    "offset": 280843433,
+    "compressed_bytes": 1084628,
+    "bytes": 1195862,
+    "crc32": 4238243745
+  },
+  {
+    "name": "RGB/a16_s5_t1_color.avi",
+    "offset": 281928114,
+    "compressed_bytes": 957677,
+    "bytes": 1062418,
+    "crc32": 2176617456
+  },
+  {
+    "name": "RGB/a16_s5_t2_color.avi",
+    "offset": 282885844,
+    "compressed_bytes": 1105731,
+    "bytes": 1215846,
+    "crc32": 1185094713
+  },
+  {
+    "name": "RGB/a16_s5_t3_color.avi",
+    "offset": 283991628,
+    "compressed_bytes": 1031769,
+    "bytes": 1139738,
+    "crc32": 3262496437
+  },
+  {
+    "name": "RGB/a16_s5_t4_color.avi",
+    "offset": 285023450,
+    "compressed_bytes": 957842,
+    "bytes": 1062810,
+    "crc32": 3207648864
+  },
+  {
+    "name": "RGB/a16_s6_t1_color.avi",
+    "offset": 285981345,
+    "compressed_bytes": 1138418,
+    "bytes": 1247976,
+    "crc32": 1897062980
+  },
+  {
+    "name": "RGB/a16_s6_t2_color.avi",
+    "offset": 287119816,
+    "compressed_bytes": 1088493,
+    "bytes": 1197222,
+    "crc32": 440680865
+  },
+  {
+    "name": "RGB/a16_s6_t3_color.avi",
+    "offset": 288208362,
+    "compressed_bytes": 1135801,
+    "bytes": 1248122,
+    "crc32": 2595264075
+  },
+  {
+    "name": "RGB/a16_s6_t4_color.avi",
+    "offset": 289344216,
+    "compressed_bytes": 1257221,
+    "bytes": 1376060,
+    "crc32": 1878038330
+  },
+  {
+    "name": "RGB/a16_s7_t1_color.avi",
+    "offset": 290601490,
+    "compressed_bytes": 1231663,
+    "bytes": 1346866,
+    "crc32": 3122247894
+  },
+  {
+    "name": "RGB/a16_s7_t2_color.avi",
+    "offset": 291833206,
+    "compressed_bytes": 1360545,
+    "bytes": 1480722,
+    "crc32": 945724
+  },
+  {
+    "name": "RGB/a16_s7_t3_color.avi",
+    "offset": 293193804,
+    "compressed_bytes": 1357452,
+    "bytes": 1477988,
+    "crc32": 2548155685
+  },
+  {
+    "name": "RGB/a16_s7_t4_color.avi",
+    "offset": 294551309,
+    "compressed_bytes": 1272627,
+    "bytes": 1392260,
+    "crc32": 2313405004
+  },
+  {
+    "name": "RGB/a16_s8_t1_color.avi",
+    "offset": 295823989,
+    "compressed_bytes": 1667114,
+    "bytes": 1801588,
+    "crc32": 3189949303
+  },
+  {
+    "name": "RGB/a16_s8_t2_color.avi",
+    "offset": 297491156,
+    "compressed_bytes": 1519041,
+    "bytes": 1647450,
+    "crc32": 3312615065
+  },
+  {
+    "name": "RGB/a16_s8_t3_color.avi",
+    "offset": 299010250,
+    "compressed_bytes": 1344975,
+    "bytes": 1466106,
+    "crc32": 3082970262
+  },
+  {
+    "name": "RGB/a16_s8_t4_color.avi",
+    "offset": 300355278,
+    "compressed_bytes": 1543151,
+    "bytes": 1672594,
+    "crc32": 3241773639
+  },
+  {
+    "name": "RGB/a17_s1_t1_color.avi",
+    "offset": 301898482,
+    "compressed_bytes": 1251716,
+    "bytes": 1367474,
+    "crc32": 1467279006
+  },
+  {
+    "name": "RGB/a17_s1_t2_color.avi",
+    "offset": 303150251,
+    "compressed_bytes": 1305404,
+    "bytes": 1422858,
+    "crc32": 565335460
+  },
+  {
+    "name": "RGB/a17_s1_t3_color.avi",
+    "offset": 304455708,
+    "compressed_bytes": 1281471,
+    "bytes": 1398210,
+    "crc32": 2279806829
+  },
+  {
+    "name": "RGB/a17_s1_t4_color.avi",
+    "offset": 305737232,
+    "compressed_bytes": 1305611,
+    "bytes": 1423054,
+    "crc32": 3706636064
+  },
+  {
+    "name": "RGB/a17_s2_t1_color.avi",
+    "offset": 307042896,
+    "compressed_bytes": 1067966,
+    "bytes": 1179924,
+    "crc32": 1279278887
+  },
+  {
+    "name": "RGB/a17_s2_t2_color.avi",
+    "offset": 308110915,
+    "compressed_bytes": 1025383,
+    "bytes": 1133746,
+    "crc32": 1480846030
+  },
+  {
+    "name": "RGB/a17_s2_t3_color.avi",
+    "offset": 309136351,
+    "compressed_bytes": 1028264,
+    "bytes": 1135712,
+    "crc32": 1645200947
+  },
+  {
+    "name": "RGB/a17_s2_t4_color.avi",
+    "offset": 310164668,
+    "compressed_bytes": 1004966,
+    "bytes": 1111286,
+    "crc32": 3435175256
+  },
+  {
+    "name": "RGB/a17_s3_t1_color.avi",
+    "offset": 311169687,
+    "compressed_bytes": 1079495,
+    "bytes": 1190604,
+    "crc32": 2043561941
+  },
+  {
+    "name": "RGB/a17_s3_t2_color.avi",
+    "offset": 312249235,
+    "compressed_bytes": 1063027,
+    "bytes": 1173502,
+    "crc32": 1524993609
+  },
+  {
+    "name": "RGB/a17_s3_t3_color.avi",
+    "offset": 313312315,
+    "compressed_bytes": 1187711,
+    "bytes": 1299450,
+    "crc32": 246487894
+  },
+  {
+    "name": "RGB/a17_s3_t4_color.avi",
+    "offset": 314500079,
+    "compressed_bytes": 1061717,
+    "bytes": 1168792,
+    "crc32": 508471415
+  },
+  {
+    "name": "RGB/a17_s4_t1_color.avi",
+    "offset": 315561849,
+    "compressed_bytes": 1036872,
+    "bytes": 1145274,
+    "crc32": 3085981674
+  },
+  {
+    "name": "RGB/a17_s4_t2_color.avi",
+    "offset": 316598774,
+    "compressed_bytes": 1326393,
+    "bytes": 1447118,
+    "crc32": 3756721077
+  },
+  {
+    "name": "RGB/a17_s4_t3_color.avi",
+    "offset": 317925220,
+    "compressed_bytes": 1254207,
+    "bytes": 1371572,
+    "crc32": 1376704892
+  },
+  {
+    "name": "RGB/a17_s4_t4_color.avi",
+    "offset": 319179480,
+    "compressed_bytes": 1157397,
+    "bytes": 1270988,
+    "crc32": 3740242418
+  },
+  {
+    "name": "RGB/a17_s5_t1_color.avi",
+    "offset": 320336930,
+    "compressed_bytes": 1294110,
+    "bytes": 1410818,
+    "crc32": 1867239273
+  },
+  {
+    "name": "RGB/a17_s5_t2_color.avi",
+    "offset": 321631093,
+    "compressed_bytes": 1178668,
+    "bytes": 1289712,
+    "crc32": 1565192770
+  },
+  {
+    "name": "RGB/a17_s5_t3_color.avi",
+    "offset": 322809814,
+    "compressed_bytes": 1105575,
+    "bytes": 1213504,
+    "crc32": 397291462
+  },
+  {
+    "name": "RGB/a17_s5_t4_color.avi",
+    "offset": 323915442,
+    "compressed_bytes": 1127659,
+    "bytes": 1236912,
+    "crc32": 1752751594
+  },
+  {
+    "name": "RGB/a17_s6_t1_color.avi",
+    "offset": 325043154,
+    "compressed_bytes": 1409161,
+    "bytes": 1528160,
+    "crc32": 4125930653
+  },
+  {
+    "name": "RGB/a17_s6_t2_color.avi",
+    "offset": 326452368,
+    "compressed_bytes": 1389963,
+    "bytes": 1508174,
+    "crc32": 2579787114
+  },
+  {
+    "name": "RGB/a17_s6_t3_color.avi",
+    "offset": 327842384,
+    "compressed_bytes": 1260599,
+    "bytes": 1374860,
+    "crc32": 2084386059
+  },
+  {
+    "name": "RGB/a17_s6_t4_color.avi",
+    "offset": 329103036,
+    "compressed_bytes": 1354497,
+    "bytes": 1474922,
+    "crc32": 2399575170
+  },
+  {
+    "name": "RGB/a17_s7_t1_color.avi",
+    "offset": 330457586,
+    "compressed_bytes": 1465534,
+    "bytes": 1589424,
+    "crc32": 935596052
+  },
+  {
+    "name": "RGB/a17_s7_t2_color.avi",
+    "offset": 331923173,
+    "compressed_bytes": 1808567,
+    "bytes": 1949618,
+    "crc32": 1638096005
+  },
+  {
+    "name": "RGB/a17_s7_t3_color.avi",
+    "offset": 333731793,
+    "compressed_bytes": 1570965,
+    "bytes": 1704554,
+    "crc32": 496910943
+  },
+  {
+    "name": "RGB/a17_s7_t4_color.avi",
+    "offset": 335302811,
+    "compressed_bytes": 1631645,
+    "bytes": 1763862,
+    "crc32": 2082687483
+  },
+  {
+    "name": "RGB/a17_s8_t1_color.avi",
+    "offset": 336934509,
+    "compressed_bytes": 1906746,
+    "bytes": 2049342,
+    "crc32": 3642544251
+  },
+  {
+    "name": "RGB/a17_s8_t2_color.avi",
+    "offset": 338841308,
+    "compressed_bytes": 1758027,
+    "bytes": 1893878,
+    "crc32": 447729831
+  },
+  {
+    "name": "RGB/a17_s8_t3_color.avi",
+    "offset": 340599388,
+    "compressed_bytes": 1858603,
+    "bytes": 1998878,
+    "crc32": 3251223927
+  },
+  {
+    "name": "RGB/a17_s8_t4_color.avi",
+    "offset": 342458044,
+    "compressed_bytes": 1860864,
+    "bytes": 2001430,
+    "crc32": 1624255003
+  },
+  {
+    "name": "RGB/a18_s1_t1_color.avi",
+    "offset": 344318961,
+    "compressed_bytes": 1203707,
+    "bytes": 1317704,
+    "crc32": 2803746863
+  },
+  {
+    "name": "RGB/a18_s1_t2_color.avi",
+    "offset": 345522721,
+    "compressed_bytes": 1032217,
+    "bytes": 1139388,
+    "crc32": 3657837180
+  },
+  {
+    "name": "RGB/a18_s1_t3_color.avi",
+    "offset": 346554991,
+    "compressed_bytes": 1204878,
+    "bytes": 1318572,
+    "crc32": 2390535466
+  },
+  {
+    "name": "RGB/a18_s1_t4_color.avi",
+    "offset": 347759922,
+    "compressed_bytes": 1203996,
+    "bytes": 1318248,
+    "crc32": 3766577248
+  },
+  {
+    "name": "RGB/a18_s2_t1_color.avi",
+    "offset": 348963971,
+    "compressed_bytes": 924305,
+    "bytes": 1027886,
+    "crc32": 3907179674
+  },
+  {
+    "name": "RGB/a18_s2_t2_color.avi",
+    "offset": 349888329,
+    "compressed_bytes": 851660,
+    "bytes": 951704,
+    "crc32": 1420175347
+  },
+  {
+    "name": "RGB/a18_s2_t3_color.avi",
+    "offset": 350740042,
+    "compressed_bytes": 923653,
+    "bytes": 1027332,
+    "crc32": 4041919412
+  },
+  {
+    "name": "RGB/a18_s2_t4_color.avi",
+    "offset": 351663748,
+    "compressed_bytes": 947033,
+    "bytes": 1051788,
+    "crc32": 3747084931
+  },
+  {
+    "name": "RGB/a18_s3_t1_color.avi",
+    "offset": 352610834,
+    "compressed_bytes": 993132,
+    "bytes": 1098674,
+    "crc32": 4148850305
+  },
+  {
+    "name": "RGB/a18_s3_t2_color.avi",
+    "offset": 353604019,
+    "compressed_bytes": 994952,
+    "bytes": 1101092,
+    "crc32": 620557557
+  },
+  {
+    "name": "RGB/a18_s3_t3_color.avi",
+    "offset": 354599024,
+    "compressed_bytes": 1044447,
+    "bytes": 1152312,
+    "crc32": 1882821614
+  },
+  {
+    "name": "RGB/a18_s3_t4_color.avi",
+    "offset": 355643524,
+    "compressed_bytes": 1068251,
+    "bytes": 1177262,
+    "crc32": 1150662826
+  },
+  {
+    "name": "RGB/a18_s4_t1_color.avi",
+    "offset": 356711828,
+    "compressed_bytes": 998283,
+    "bytes": 1106284,
+    "crc32": 2292487428
+  },
+  {
+    "name": "RGB/a18_s4_t2_color.avi",
+    "offset": 357710164,
+    "compressed_bytes": 930237,
+    "bytes": 1035218,
+    "crc32": 533797918
+  },
+  {
+    "name": "RGB/a18_s4_t3_color.avi",
+    "offset": 358640454,
+    "compressed_bytes": 1130895,
+    "bytes": 1243672,
+    "crc32": 3392358828
+  },
+  {
+    "name": "RGB/a18_s4_t4_color.avi",
+    "offset": 359771402,
+    "compressed_bytes": 1056463,
+    "bytes": 1166870,
+    "crc32": 4134757878
+  },
+  {
+    "name": "RGB/a18_s5_t1_color.avi",
+    "offset": 360827918,
+    "compressed_bytes": 1117457,
+    "bytes": 1227366,
+    "crc32": 344624411
+  },
+  {
+    "name": "RGB/a18_s5_t2_color.avi",
+    "offset": 361945428,
+    "compressed_bytes": 897489,
+    "bytes": 998754,
+    "crc32": 916334638
+  },
+  {
+    "name": "RGB/a18_s5_t3_color.avi",
+    "offset": 362842970,
+    "compressed_bytes": 921490,
+    "bytes": 1023900,
+    "crc32": 3796988621
+  },
+  {
+    "name": "RGB/a18_s5_t4_color.avi",
+    "offset": 363764513,
+    "compressed_bytes": 896593,
+    "bytes": 999306,
+    "crc32": 1241439789
+  },
+  {
+    "name": "RGB/a18_s6_t1_color.avi",
+    "offset": 364661159,
+    "compressed_bytes": 1518265,
+    "bytes": 1643296,
+    "crc32": 1550665823
+  },
+  {
+    "name": "RGB/a18_s6_t2_color.avi",
+    "offset": 366179477,
+    "compressed_bytes": 1497219,
+    "bytes": 1621008,
+    "crc32": 2266599855
+  },
+  {
+    "name": "RGB/a18_s6_t3_color.avi",
+    "offset": 367676749,
+    "compressed_bytes": 1474094,
+    "bytes": 1596812,
+    "crc32": 2945473028
+  },
+  {
+    "name": "RGB/a18_s6_t4_color.avi",
+    "offset": 369150896,
+    "compressed_bytes": 1574595,
+    "bytes": 1701566,
+    "crc32": 3575949138
+  },
+  {
+    "name": "RGB/a18_s7_t1_color.avi",
+    "offset": 370725544,
+    "compressed_bytes": 1363384,
+    "bytes": 1485574,
+    "crc32": 735113653
+  },
+  {
+    "name": "RGB/a18_s7_t2_color.avi",
+    "offset": 372088981,
+    "compressed_bytes": 1179960,
+    "bytes": 1293068,
+    "crc32": 2342926052
+  },
+  {
+    "name": "RGB/a18_s7_t3_color.avi",
+    "offset": 373268994,
+    "compressed_bytes": 1481932,
+    "bytes": 1607306,
+    "crc32": 2203341411
+  },
+  {
+    "name": "RGB/a18_s7_t4_color.avi",
+    "offset": 374750979,
+    "compressed_bytes": 1334430,
+    "bytes": 1453514,
+    "crc32": 2984098306
+  },
+  {
+    "name": "RGB/a18_s8_t1_color.avi",
+    "offset": 376085462,
+    "compressed_bytes": 1527109,
+    "bytes": 1655800,
+    "crc32": 1664226128
+  },
+  {
+    "name": "RGB/a18_s8_t2_color.avi",
+    "offset": 377612624,
+    "compressed_bytes": 1579973,
+    "bytes": 1710126,
+    "crc32": 3300719818
+  },
+  {
+    "name": "RGB/a18_s8_t3_color.avi",
+    "offset": 379192650,
+    "compressed_bytes": 1430430,
+    "bytes": 1554392,
+    "crc32": 3771284753
+  },
+  {
+    "name": "RGB/a18_s8_t4_color.avi",
+    "offset": 380623133,
+    "compressed_bytes": 1430120,
+    "bytes": 1554086,
+    "crc32": 3892344675
+  },
+  {
+    "name": "RGB/a19_s1_t1_color.avi",
+    "offset": 382053306,
+    "compressed_bytes": 1203512,
+    "bytes": 1317256,
+    "crc32": 1157274022
+  },
+  {
+    "name": "RGB/a19_s1_t2_color.avi",
+    "offset": 383256871,
+    "compressed_bytes": 1226390,
+    "bytes": 1341448,
+    "crc32": 4074715929
+  },
+  {
+    "name": "RGB/a19_s1_t3_color.avi",
+    "offset": 384483314,
+    "compressed_bytes": 1202394,
+    "bytes": 1316184,
+    "crc32": 1456314193
+  },
+  {
+    "name": "RGB/a19_s1_t4_color.avi",
+    "offset": 385685761,
+    "compressed_bytes": 1205078,
+    "bytes": 1318430,
+    "crc32": 1646773261
+  },
+  {
+    "name": "RGB/a19_s2_t1_color.avi",
+    "offset": 386890892,
+    "compressed_bytes": 1065226,
+    "bytes": 1175218,
+    "crc32": 3716608672
+  },
+  {
+    "name": "RGB/a19_s2_t2_color.avi",
+    "offset": 387956171,
+    "compressed_bytes": 966506,
+    "bytes": 1072344,
+    "crc32": 3164378223
+  },
+  {
+    "name": "RGB/a19_s2_t3_color.avi",
+    "offset": 388922730,
+    "compressed_bytes": 1038176,
+    "bytes": 1146476,
+    "crc32": 3679897516
+  },
+  {
+    "name": "RGB/a19_s2_t4_color.avi",
+    "offset": 389960959,
+    "compressed_bytes": 1060730,
+    "bytes": 1170550,
+    "crc32": 862357576
+  },
+  {
+    "name": "RGB/a19_s3_t1_color.avi",
+    "offset": 391021742,
+    "compressed_bytes": 1254221,
+    "bytes": 1370820,
+    "crc32": 3131610664
+  },
+  {
+    "name": "RGB/a19_s3_t2_color.avi",
+    "offset": 392276016,
+    "compressed_bytes": 1375780,
+    "bytes": 1497490,
+    "crc32": 2102971732
+  },
+  {
+    "name": "RGB/a19_s3_t3_color.avi",
+    "offset": 393651849,
+    "compressed_bytes": 1423133,
+    "bytes": 1547012,
+    "crc32": 424724371
+  },
+  {
+    "name": "RGB/a19_s3_t4_color.avi",
+    "offset": 395075035,
+    "compressed_bytes": 1420879,
+    "bytes": 1544786,
+    "crc32": 3023179494
+  },
+  {
+    "name": "RGB/a19_s4_t1_color.avi",
+    "offset": 396495967,
+    "compressed_bytes": 1057152,
+    "bytes": 1167346,
+    "crc32": 72516009
+  },
+  {
+    "name": "RGB/a19_s4_t2_color.avi",
+    "offset": 397553172,
+    "compressed_bytes": 1107504,
+    "bytes": 1218980,
+    "crc32": 461315168
+  },
+  {
+    "name": "RGB/a19_s4_t3_color.avi",
+    "offset": 398660729,
+    "compressed_bytes": 1057711,
+    "bytes": 1167922,
+    "crc32": 2579609680
+  },
+  {
+    "name": "RGB/a19_s4_t4_color.avi",
+    "offset": 399718493,
+    "compressed_bytes": 1033680,
+    "bytes": 1142660,
+    "crc32": 504779451
+  },
+  {
+    "name": "RGB/a19_s5_t1_color.avi",
+    "offset": 400752226,
+    "compressed_bytes": 1128389,
+    "bytes": 1237846,
+    "crc32": 4232459805
+  },
+  {
+    "name": "RGB/a19_s5_t2_color.avi",
+    "offset": 401880668,
+    "compressed_bytes": 1105260,
+    "bytes": 1213686,
+    "crc32": 2768093883
+  },
+  {
+    "name": "RGB/a19_s5_t3_color.avi",
+    "offset": 402985981,
+    "compressed_bytes": 1205268,
+    "bytes": 1318176,
+    "crc32": 3374102810
+  },
+  {
+    "name": "RGB/a19_s5_t4_color.avi",
+    "offset": 404191302,
+    "compressed_bytes": 1229388,
+    "bytes": 1343150,
+    "crc32": 562913189
+  },
+  {
+    "name": "RGB/a19_s6_t1_color.avi",
+    "offset": 405420743,
+    "compressed_bytes": 1731169,
+    "bytes": 1863266,
+    "crc32": 1094518531
+  },
+  {
+    "name": "RGB/a19_s6_t2_color.avi",
+    "offset": 407151965,
+    "compressed_bytes": 1551152,
+    "bytes": 1679128,
+    "crc32": 18278355
+  },
+  {
+    "name": "RGB/a19_s6_t3_color.avi",
+    "offset": 408703170,
+    "compressed_bytes": 1721536,
+    "bytes": 1858436,
+    "crc32": 2790949244
+  },
+  {
+    "name": "RGB/a19_s6_t4_color.avi",
+    "offset": 410424759,
+    "compressed_bytes": 1621423,
+    "bytes": 1754282,
+    "crc32": 2456330880
+  },
+  {
+    "name": "RGB/a19_s7_t1_color.avi",
+    "offset": 412046235,
+    "compressed_bytes": 1220964,
+    "bytes": 1336532,
+    "crc32": 3555924782
+  },
+  {
+    "name": "RGB/a19_s7_t2_color.avi",
+    "offset": 413267252,
+    "compressed_bytes": 1094725,
+    "bytes": 1205518,
+    "crc32": 1566882454
+  },
+  {
+    "name": "RGB/a19_s7_t3_color.avi",
+    "offset": 414362030,
+    "compressed_bytes": 1394920,
+    "bytes": 1518022,
+    "crc32": 4136409850
+  },
+  {
+    "name": "RGB/a19_s7_t4_color.avi",
+    "offset": 415757003,
+    "compressed_bytes": 1171724,
+    "bytes": 1285564,
+    "crc32": 3078832497
+  },
+  {
+    "name": "RGB/a19_s8_t1_color.avi",
+    "offset": 416928780,
+    "compressed_bytes": 1637774,
+    "bytes": 1770714,
+    "crc32": 4175671248
+  },
+  {
+    "name": "RGB/a19_s8_t2_color.avi",
+    "offset": 418566607,
+    "compressed_bytes": 1789544,
+    "bytes": 1928690,
+    "crc32": 391985814
+  },
+  {
+    "name": "RGB/a19_s8_t3_color.avi",
+    "offset": 420356204,
+    "compressed_bytes": 1788557,
+    "bytes": 1927640,
+    "crc32": 4094054386
+  },
+  {
+    "name": "RGB/a19_s8_t4_color.avi",
+    "offset": 422144814,
+    "compressed_bytes": 1512280,
+    "bytes": 1639418,
+    "crc32": 2709312642
+  },
+  {
+    "name": "RGB/a1_s1_t1_color.avi",
+    "offset": 423657147,
+    "compressed_bytes": 1038379,
+    "bytes": 1144424,
+    "crc32": 3201627346
+  },
+  {
+    "name": "RGB/a1_s1_t2_color.avi",
+    "offset": 424695578,
+    "compressed_bytes": 940092,
+    "bytes": 1041830,
+    "crc32": 2534537356
+  },
+  {
+    "name": "RGB/a1_s1_t3_color.avi",
+    "offset": 425635722,
+    "compressed_bytes": 1112907,
+    "bytes": 1221342,
+    "crc32": 1999341447
+  },
+  {
+    "name": "RGB/a1_s1_t4_color.avi",
+    "offset": 426748681,
+    "compressed_bytes": 1088617,
+    "bytes": 1196372,
+    "crc32": 3226576068
+  },
+  {
+    "name": "RGB/a1_s2_t1_color.avi",
+    "offset": 427837350,
+    "compressed_bytes": 1017720,
+    "bytes": 1124876,
+    "crc32": 3066054811
+  },
+  {
+    "name": "RGB/a1_s2_t2_color.avi",
+    "offset": 428855122,
+    "compressed_bytes": 1190137,
+    "bytes": 1303954,
+    "crc32": 3950632968
+  },
+  {
+    "name": "RGB/a1_s2_t3_color.avi",
+    "offset": 430045311,
+    "compressed_bytes": 1067921,
+    "bytes": 1177374,
+    "crc32": 1243043502
+  },
+  {
+    "name": "RGB/a1_s2_t4_color.avi",
+    "offset": 431113284,
+    "compressed_bytes": 1066951,
+    "bytes": 1176136,
+    "crc32": 512887832
+  },
+  {
+    "name": "RGB/a1_s3_t1_color.avi",
+    "offset": 432180287,
+    "compressed_bytes": 1063741,
+    "bytes": 1172852,
+    "crc32": 1432052504
+  },
+  {
+    "name": "RGB/a1_s3_t2_color.avi",
+    "offset": 433244080,
+    "compressed_bytes": 944351,
+    "bytes": 1048388,
+    "crc32": 489887073
+  },
+  {
+    "name": "RGB/a1_s3_t3_color.avi",
+    "offset": 434188483,
+    "compressed_bytes": 920547,
+    "bytes": 1023380,
+    "crc32": 2081821170
+  },
+  {
+    "name": "RGB/a1_s3_t4_color.avi",
+    "offset": 435109082,
+    "compressed_bytes": 1039560,
+    "bytes": 1147870,
+    "crc32": 2770857752
+  },
+  {
+    "name": "RGB/a1_s4_t1_color.avi",
+    "offset": 436148694,
+    "compressed_bytes": 1005213,
+    "bytes": 1113190,
+    "crc32": 869712196
+  },
+  {
+    "name": "RGB/a1_s4_t2_color.avi",
+    "offset": 437153959,
+    "compressed_bytes": 1007416,
+    "bytes": 1115148,
+    "crc32": 1459461427
+  },
+  {
+    "name": "RGB/a1_s4_t3_color.avi",
+    "offset": 438161427,
+    "compressed_bytes": 1006873,
+    "bytes": 1114706,
+    "crc32": 2414439084
+  },
+  {
+    "name": "RGB/a1_s4_t4_color.avi",
+    "offset": 439168352,
+    "compressed_bytes": 1080157,
+    "bytes": 1190796,
+    "crc32": 2061457484
+  },
+  {
+    "name": "RGB/a1_s5_t1_color.avi",
+    "offset": 440248561,
+    "compressed_bytes": 1363304,
+    "bytes": 1482820,
+    "crc32": 1898041479
+  },
+  {
+    "name": "RGB/a1_s5_t2_color.avi",
+    "offset": 441611917,
+    "compressed_bytes": 1115706,
+    "bytes": 1224988,
+    "crc32": 2279749581
+  },
+  {
+    "name": "RGB/a1_s5_t3_color.avi",
+    "offset": 442727675,
+    "compressed_bytes": 1338833,
+    "bytes": 1457330,
+    "crc32": 1951749692
+  },
+  {
+    "name": "RGB/a1_s5_t4_color.avi",
+    "offset": 444066560,
+    "compressed_bytes": 1264896,
+    "bytes": 1380172,
+    "crc32": 1539907889
+  },
+  {
+    "name": "RGB/a1_s6_t1_color.avi",
+    "offset": 445331508,
+    "compressed_bytes": 1339767,
+    "bytes": 1459590,
+    "crc32": 3142492514
+  },
+  {
+    "name": "RGB/a1_s6_t2_color.avi",
+    "offset": 446671327,
+    "compressed_bytes": 1262599,
+    "bytes": 1376676,
+    "crc32": 4283391784
+  },
+  {
+    "name": "RGB/a1_s6_t3_color.avi",
+    "offset": 447933978,
+    "compressed_bytes": 1263176,
+    "bytes": 1376614,
+    "crc32": 3733687567
+  },
+  {
+    "name": "RGB/a1_s6_t4_color.avi",
+    "offset": 449197206,
+    "compressed_bytes": 1330351,
+    "bytes": 1447686,
+    "crc32": 3338681514
+  },
+  {
+    "name": "RGB/a1_s7_t1_color.avi",
+    "offset": 450527609,
+    "compressed_bytes": 1166496,
+    "bytes": 1282918,
+    "crc32": 4084916586
+  },
+  {
+    "name": "RGB/a1_s7_t2_color.avi",
+    "offset": 451694157,
+    "compressed_bytes": 1241656,
+    "bytes": 1361598,
+    "crc32": 1431496909
+  },
+  {
+    "name": "RGB/a1_s7_t3_color.avi",
+    "offset": 452935865,
+    "compressed_bytes": 1066246,
+    "bytes": 1178866,
+    "crc32": 2319215618
+  },
+  {
+    "name": "RGB/a1_s7_t4_color.avi",
+    "offset": 454002163,
+    "compressed_bytes": 1091295,
+    "bytes": 1205006,
+    "crc32": 645508340
+  },
+  {
+    "name": "RGB/a1_s8_t1_color.avi",
+    "offset": 455093510,
+    "compressed_bytes": 1496883,
+    "bytes": 1623020,
+    "crc32": 2582101294
+  },
+  {
+    "name": "RGB/a1_s8_t2_color.avi",
+    "offset": 456590445,
+    "compressed_bytes": 1272288,
+    "bytes": 1389120,
+    "crc32": 803997299
+  },
+  {
+    "name": "RGB/a1_s8_t3_color.avi",
+    "offset": 457862785,
+    "compressed_bytes": 1370803,
+    "bytes": 1491780,
+    "crc32": 1712194848
+  },
+  {
+    "name": "RGB/a1_s8_t4_color.avi",
+    "offset": 459233640,
+    "compressed_bytes": 1197852,
+    "bytes": 1311436,
+    "crc32": 2123143501
+  },
+  {
+    "name": "RGB/a20_s1_t1_color.avi",
+    "offset": 460431544,
+    "compressed_bytes": 1129631,
+    "bytes": 1240118,
+    "crc32": 4127402635
+  },
+  {
+    "name": "RGB/a20_s1_t2_color.avi",
+    "offset": 461561228,
+    "compressed_bytes": 1055795,
+    "bytes": 1164174,
+    "crc32": 966518431
+  },
+  {
+    "name": "RGB/a20_s1_t3_color.avi",
+    "offset": 462617076,
+    "compressed_bytes": 1141664,
+    "bytes": 1256240,
+    "crc32": 2049858468
+  },
+  {
+    "name": "RGB/a20_s1_t4_color.avi",
+    "offset": 463758793,
+    "compressed_bytes": 1211077,
+    "bytes": 1329596,
+    "crc32": 1549141659
+  },
+  {
+    "name": "RGB/a20_s2_t1_color.avi",
+    "offset": 464969923,
+    "compressed_bytes": 995990,
+    "bytes": 1102720,
+    "crc32": 3342003066
+  },
+  {
+    "name": "RGB/a20_s2_t2_color.avi",
+    "offset": 465965966,
+    "compressed_bytes": 801770,
+    "bytes": 899706,
+    "crc32": 2141649427
+  },
+  {
+    "name": "RGB/a20_s2_t3_color.avi",
+    "offset": 466767789,
+    "compressed_bytes": 849485,
+    "bytes": 950024,
+    "crc32": 1810205496
+  },
+  {
+    "name": "RGB/a20_s2_t4_color.avi",
+    "offset": 467617327,
+    "compressed_bytes": 873777,
+    "bytes": 974972,
+    "crc32": 2853244154
+  },
+  {
+    "name": "RGB/a20_s3_t1_color.avi",
+    "offset": 468491157,
+    "compressed_bytes": 962515,
+    "bytes": 1067416,
+    "crc32": 1292550166
+  },
+  {
+    "name": "RGB/a20_s3_t2_color.avi",
+    "offset": 469453725,
+    "compressed_bytes": 1080951,
+    "bytes": 1190916,
+    "crc32": 2996708527
+  },
+  {
+    "name": "RGB/a20_s3_t3_color.avi",
+    "offset": 470534729,
+    "compressed_bytes": 1081607,
+    "bytes": 1191244,
+    "crc32": 211398369
+  },
+  {
+    "name": "RGB/a20_s3_t4_color.avi",
+    "offset": 471616389,
+    "compressed_bytes": 889968,
+    "bytes": 991408,
+    "crc32": 1627160796
+  },
+  {
+    "name": "RGB/a20_s4_t1_color.avi",
+    "offset": 472506410,
+    "compressed_bytes": 1006040,
+    "bytes": 1113506,
+    "crc32": 84104564
+  },
+  {
+    "name": "RGB/a20_s4_t2_color.avi",
+    "offset": 473512503,
+    "compressed_bytes": 961970,
+    "bytes": 1067942,
+    "crc32": 1921737513
+  },
+  {
+    "name": "RGB/a20_s4_t3_color.avi",
+    "offset": 474474526,
+    "compressed_bytes": 889099,
+    "bytes": 991736,
+    "crc32": 1579553546
+  },
+  {
+    "name": "RGB/a20_s4_t4_color.avi",
+    "offset": 475363678,
+    "compressed_bytes": 889353,
+    "bytes": 991874,
+    "crc32": 72648145
+  },
+  {
+    "name": "RGB/a20_s5_t1_color.avi",
+    "offset": 476253084,
+    "compressed_bytes": 1026018,
+    "bytes": 1132226,
+    "crc32": 3743318529
+  },
+  {
+    "name": "RGB/a20_s5_t2_color.avi",
+    "offset": 477279155,
+    "compressed_bytes": 1256151,
+    "bytes": 1372354,
+    "crc32": 1096445584
+  },
+  {
+    "name": "RGB/a20_s5_t3_color.avi",
+    "offset": 478535359,
+    "compressed_bytes": 1299222,
+    "bytes": 1419716,
+    "crc32": 1001436247
+  },
+  {
+    "name": "RGB/a20_s5_t4_color.avi",
+    "offset": 479834634,
+    "compressed_bytes": 1406791,
+    "bytes": 1528574,
+    "crc32": 2608556200
+  },
+  {
+    "name": "RGB/a20_s6_t1_color.avi",
+    "offset": 481241478,
+    "compressed_bytes": 1107438,
+    "bytes": 1213952,
+    "crc32": 1599295116
+  },
+  {
+    "name": "RGB/a20_s6_t2_color.avi",
+    "offset": 482348969,
+    "compressed_bytes": 1309669,
+    "bytes": 1424384,
+    "crc32": 1588254739
+  },
+  {
+    "name": "RGB/a20_s6_t3_color.avi",
+    "offset": 483658691,
+    "compressed_bytes": 1256434,
+    "bytes": 1370380,
+    "crc32": 4100973686
+  },
+  {
+    "name": "RGB/a20_s6_t4_color.avi",
+    "offset": 484915178,
+    "compressed_bytes": 1276103,
+    "bytes": 1393700,
+    "crc32": 1987258172
+  },
+  {
+    "name": "RGB/a20_s7_t1_color.avi",
+    "offset": 486191334,
+    "compressed_bytes": 1111630,
+    "bytes": 1221322,
+    "crc32": 324221878
+  },
+  {
+    "name": "RGB/a20_s7_t2_color.avi",
+    "offset": 487303017,
+    "compressed_bytes": 1239351,
+    "bytes": 1354184,
+    "crc32": 3552276994
+  },
+  {
+    "name": "RGB/a20_s7_t3_color.avi",
+    "offset": 488542421,
+    "compressed_bytes": 1188779,
+    "bytes": 1301884,
+    "crc32": 374570433
+  },
+  {
+    "name": "RGB/a20_s7_t4_color.avi",
+    "offset": 489731253,
+    "compressed_bytes": 1261215,
+    "bytes": 1377604,
+    "crc32": 4040517423
+  },
+  {
+    "name": "RGB/a20_s8_t1_color.avi",
+    "offset": 490992521,
+    "compressed_bytes": 1411323,
+    "bytes": 1534154,
+    "crc32": 754992647
+  },
+  {
+    "name": "RGB/a20_s8_t2_color.avi",
+    "offset": 492403897,
+    "compressed_bytes": 1434358,
+    "bytes": 1558494,
+    "crc32": 3658969277
+  },
+  {
+    "name": "RGB/a20_s8_t3_color.avi",
+    "offset": 493838308,
+    "compressed_bytes": 1383780,
+    "bytes": 1505770,
+    "crc32": 3922777347
+  },
+  {
+    "name": "RGB/a20_s8_t4_color.avi",
+    "offset": 495222141,
+    "compressed_bytes": 1310900,
+    "bytes": 1428776,
+    "crc32": 3244863366
+  },
+  {
+    "name": "RGB/a21_s1_t1_color.avi",
+    "offset": 496533094,
+    "compressed_bytes": 1798365,
+    "bytes": 1938208,
+    "crc32": 424712070
+  },
+  {
+    "name": "RGB/a21_s1_t2_color.avi",
+    "offset": 498331512,
+    "compressed_bytes": 1680682,
+    "bytes": 1814780,
+    "crc32": 1966866093
+  },
+  {
+    "name": "RGB/a21_s1_t3_color.avi",
+    "offset": 500012247,
+    "compressed_bytes": 1607127,
+    "bytes": 1737710,
+    "crc32": 502091610
+  },
+  {
+    "name": "RGB/a21_s1_t4_color.avi",
+    "offset": 501619427,
+    "compressed_bytes": 1265783,
+    "bytes": 1381786,
+    "crc32": 1441255672
+  },
+  {
+    "name": "RGB/a21_s2_t1_color.avi",
+    "offset": 502885263,
+    "compressed_bytes": 1384036,
+    "bytes": 1505900,
+    "crc32": 808840670
+  },
+  {
+    "name": "RGB/a21_s2_t2_color.avi",
+    "offset": 504269352,
+    "compressed_bytes": 1485329,
+    "bytes": 1610970,
+    "crc32": 3383011632
+  },
+  {
+    "name": "RGB/a21_s2_t3_color.avi",
+    "offset": 505754734,
+    "compressed_bytes": 1314575,
+    "bytes": 1433252,
+    "crc32": 1471262626
+  },
+  {
+    "name": "RGB/a21_s2_t4_color.avi",
+    "offset": 507069362,
+    "compressed_bytes": 1337062,
+    "bytes": 1456802,
+    "crc32": 216001591
+  },
+  {
+    "name": "RGB/a21_s3_t1_color.avi",
+    "offset": 508406477,
+    "compressed_bytes": 1299149,
+    "bytes": 1417184,
+    "crc32": 206919221
+  },
+  {
+    "name": "RGB/a21_s3_t2_color.avi",
+    "offset": 509705679,
+    "compressed_bytes": 1456129,
+    "bytes": 1580074,
+    "crc32": 741602947
+  },
+  {
+    "name": "RGB/a21_s3_t3_color.avi",
+    "offset": 511161861,
+    "compressed_bytes": 1284458,
+    "bytes": 1401056,
+    "crc32": 1992030648
+  },
+  {
+    "name": "RGB/a21_s3_t4_color.avi",
+    "offset": 512446372,
+    "compressed_bytes": 1525838,
+    "bytes": 1654862,
+    "crc32": 180807947
+  },
+  {
+    "name": "RGB/a21_s4_t1_color.avi",
+    "offset": 513972263,
+    "compressed_bytes": 1395700,
+    "bytes": 1519748,
+    "crc32": 3240127064
+  },
+  {
+    "name": "RGB/a21_s4_t2_color.avi",
+    "offset": 515368016,
+    "compressed_bytes": 1442782,
+    "bytes": 1569534,
+    "crc32": 1474086838
+  },
+  {
+    "name": "RGB/a21_s4_t3_color.avi",
+    "offset": 516810851,
+    "compressed_bytes": 1419402,
+    "bytes": 1544694,
+    "crc32": 1053508328
+  },
+  {
+    "name": "RGB/a21_s4_t4_color.avi",
+    "offset": 518230306,
+    "compressed_bytes": 1441632,
+    "bytes": 1567808,
+    "crc32": 711988116
+  },
+  {
+    "name": "RGB/a21_s5_t1_color.avi",
+    "offset": 519671991,
+    "compressed_bytes": 1653130,
+    "bytes": 1784770,
+    "crc32": 2551592339
+  },
+  {
+    "name": "RGB/a21_s5_t2_color.avi",
+    "offset": 521325174,
+    "compressed_bytes": 1491789,
+    "bytes": 1615180,
+    "crc32": 1683627393
+  },
+  {
+    "name": "RGB/a21_s5_t3_color.avi",
+    "offset": 522817016,
+    "compressed_bytes": 1542013,
+    "bytes": 1667450,
+    "crc32": 855942506
+  },
+  {
+    "name": "RGB/a21_s5_t4_color.avi",
+    "offset": 524359082,
+    "compressed_bytes": 1391190,
+    "bytes": 1510484,
+    "crc32": 2886417338
+  },
+  {
+    "name": "RGB/a21_s6_t1_color.avi",
+    "offset": 525750325,
+    "compressed_bytes": 2051945,
+    "bytes": 2196558,
+    "crc32": 4127415425
+  },
+  {
+    "name": "RGB/a21_s6_t2_color.avi",
+    "offset": 527802323,
+    "compressed_bytes": 1925818,
+    "bytes": 2065692,
+    "crc32": 125194234
+  },
+  {
+    "name": "RGB/a21_s6_t3_color.avi",
+    "offset": 529728194,
+    "compressed_bytes": 1824151,
+    "bytes": 1960458,
+    "crc32": 4165723494
+  },
+  {
+    "name": "RGB/a21_s6_t4_color.avi",
+    "offset": 531552398,
+    "compressed_bytes": 1856298,
+    "bytes": 1993438,
+    "crc32": 642917940
+  },
+  {
+    "name": "RGB/a21_s7_t1_color.avi",
+    "offset": 533408749,
+    "compressed_bytes": 1816153,
+    "bytes": 1956238,
+    "crc32": 4184803906
+  },
+  {
+    "name": "RGB/a21_s7_t2_color.avi",
+    "offset": 535224955,
+    "compressed_bytes": 1684870,
+    "bytes": 1817974,
+    "crc32": 4000551607
+  },
+  {
+    "name": "RGB/a21_s7_t3_color.avi",
+    "offset": 536909878,
+    "compressed_bytes": 1791201,
+    "bytes": 1931246,
+    "crc32": 1359303893
+  },
+  {
+    "name": "RGB/a21_s7_t4_color.avi",
+    "offset": 538701132,
+    "compressed_bytes": 1897197,
+    "bytes": 2040446,
+    "crc32": 2970514821
+  },
+  {
+    "name": "RGB/a21_s8_t1_color.avi",
+    "offset": 540598382,
+    "compressed_bytes": 2358567,
+    "bytes": 2524342,
+    "crc32": 953230682
+  },
+  {
+    "name": "RGB/a21_s8_t2_color.avi",
+    "offset": 542957002,
+    "compressed_bytes": 2312653,
+    "bytes": 2475734,
+    "crc32": 1961129825
+  },
+  {
+    "name": "RGB/a21_s8_t3_color.avi",
+    "offset": 545269708,
+    "compressed_bytes": 2291459,
+    "bytes": 2453490,
+    "crc32": 3298943425
+  },
+  {
+    "name": "RGB/a21_s8_t4_color.avi",
+    "offset": 547561220,
+    "compressed_bytes": 2185428,
+    "bytes": 2343340,
+    "crc32": 3906819537
+  },
+  {
+    "name": "RGB/a22_s1_t1_color.avi",
+    "offset": 549746701,
+    "compressed_bytes": 1252571,
+    "bytes": 1367814,
+    "crc32": 3670661911
+  },
+  {
+    "name": "RGB/a22_s1_t2_color.avi",
+    "offset": 550999325,
+    "compressed_bytes": 1402689,
+    "bytes": 1524300,
+    "crc32": 3206447478
+  },
+  {
+    "name": "RGB/a22_s1_t3_color.avi",
+    "offset": 552402067,
+    "compressed_bytes": 1428268,
+    "bytes": 1550562,
+    "crc32": 507647276
+  },
+  {
+    "name": "RGB/a22_s1_t4_color.avi",
+    "offset": 553830388,
+    "compressed_bytes": 1296970,
+    "bytes": 1415948,
+    "crc32": 74614152
+  },
+  {
+    "name": "RGB/a22_s2_t1_color.avi",
+    "offset": 555127411,
+    "compressed_bytes": 1070836,
+    "bytes": 1178248,
+    "crc32": 4291453304
+  },
+  {
+    "name": "RGB/a22_s2_t2_color.avi",
+    "offset": 556198300,
+    "compressed_bytes": 1070188,
+    "bytes": 1177732,
+    "crc32": 3679888398
+  },
+  {
+    "name": "RGB/a22_s2_t3_color.avi",
+    "offset": 557268541,
+    "compressed_bytes": 1094237,
+    "bytes": 1202850,
+    "crc32": 4211057796
+  },
+  {
+    "name": "RGB/a22_s2_t4_color.avi",
+    "offset": 558362831,
+    "compressed_bytes": 1020802,
+    "bytes": 1126178,
+    "crc32": 586779311
+  },
+  {
+    "name": "RGB/a22_s3_t1_color.avi",
+    "offset": 559383686,
+    "compressed_bytes": 1115990,
+    "bytes": 1229828,
+    "crc32": 1373648978
+  },
+  {
+    "name": "RGB/a22_s3_t2_color.avi",
+    "offset": 560499729,
+    "compressed_bytes": 1285278,
+    "bytes": 1406430,
+    "crc32": 1477525309
+  },
+  {
+    "name": "RGB/a22_s3_t3_color.avi",
+    "offset": 561785060,
+    "compressed_bytes": 1168353,
+    "bytes": 1284780,
+    "crc32": 47450182
+  },
+  {
+    "name": "RGB/a22_s3_t4_color.avi",
+    "offset": 562953466,
+    "compressed_bytes": 1193843,
+    "bytes": 1310386,
+    "crc32": 3355987425
+  },
+  {
+    "name": "RGB/a22_s4_t1_color.avi",
+    "offset": 564147362,
+    "compressed_bytes": 950158,
+    "bytes": 1054562,
+    "crc32": 3041489485
+  },
+  {
+    "name": "RGB/a22_s4_t2_color.avi",
+    "offset": 565097573,
+    "compressed_bytes": 908773,
+    "bytes": 1010954,
+    "crc32": 1922063060
+  },
+  {
+    "name": "RGB/a22_s4_t3_color.avi",
+    "offset": 566006399,
+    "compressed_bytes": 1030303,
+    "bytes": 1137762,
+    "crc32": 3454092536
+  },
+  {
+    "name": "RGB/a22_s4_t4_color.avi",
+    "offset": 567036755,
+    "compressed_bytes": 1052958,
+    "bytes": 1161724,
+    "crc32": 1805730363
+  },
+  {
+    "name": "RGB/a22_s5_t1_color.avi",
+    "offset": 568089766,
+    "compressed_bytes": 1421141,
+    "bytes": 1541864,
+    "crc32": 1101379797
+  },
+  {
+    "name": "RGB/a22_s5_t2_color.avi",
+    "offset": 569510960,
+    "compressed_bytes": 1548883,
+    "bytes": 1675772,
+    "crc32": 1730413207
+  },
+  {
+    "name": "RGB/a22_s5_t3_color.avi",
+    "offset": 571059896,
+    "compressed_bytes": 1508553,
+    "bytes": 1637446,
+    "crc32": 1295166007
+  },
+  {
+    "name": "RGB/a22_s5_t4_color.avi",
+    "offset": 572568502,
+    "compressed_bytes": 1485276,
+    "bytes": 1611606,
+    "crc32": 2059024239
+  },
+  {
+    "name": "RGB/a22_s6_t1_color.avi",
+    "offset": 574053831,
+    "compressed_bytes": 1523859,
+    "bytes": 1647410,
+    "crc32": 832210080
+  },
+  {
+    "name": "RGB/a22_s6_t2_color.avi",
+    "offset": 575577743,
+    "compressed_bytes": 1609506,
+    "bytes": 1736190,
+    "crc32": 312671812
+  },
+  {
+    "name": "RGB/a22_s6_t3_color.avi",
+    "offset": 577187302,
+    "compressed_bytes": 1465577,
+    "bytes": 1586496,
+    "crc32": 2909581833
+  },
+  {
+    "name": "RGB/a22_s6_t4_color.avi",
+    "offset": 578652932,
+    "compressed_bytes": 1415752,
+    "bytes": 1534144,
+    "crc32": 2563245541
+  },
+  {
+    "name": "RGB/a22_s7_t1_color.avi",
+    "offset": 580068737,
+    "compressed_bytes": 1189979,
+    "bytes": 1303112,
+    "crc32": 1679486796
+  },
+  {
+    "name": "RGB/a22_s7_t2_color.avi",
+    "offset": 581258769,
+    "compressed_bytes": 1215708,
+    "bytes": 1330352,
+    "crc32": 1691901002
+  },
+  {
+    "name": "RGB/a22_s7_t3_color.avi",
+    "offset": 582474530,
+    "compressed_bytes": 1300838,
+    "bytes": 1418276,
+    "crc32": 2890589490
+  },
+  {
+    "name": "RGB/a22_s7_t4_color.avi",
+    "offset": 583775421,
+    "compressed_bytes": 1280838,
+    "bytes": 1397082,
+    "crc32": 2432750294
+  },
+  {
+    "name": "RGB/a22_s8_t1_color.avi",
+    "offset": 585056312,
+    "compressed_bytes": 1148366,
+    "bytes": 1259428,
+    "crc32": 46847497
+  },
+  {
+    "name": "RGB/a22_s8_t2_color.avi",
+    "offset": 586204731,
+    "compressed_bytes": 1455953,
+    "bytes": 1579956,
+    "crc32": 913317929
+  },
+  {
+    "name": "RGB/a22_s8_t3_color.avi",
+    "offset": 587660737,
+    "compressed_bytes": 1382588,
+    "bytes": 1503488,
+    "crc32": 3484131506
+  },
+  {
+    "name": "RGB/a22_s8_t4_color.avi",
+    "offset": 589043378,
+    "compressed_bytes": 1406856,
+    "bytes": 1528460,
+    "crc32": 3354438863
+  },
+  {
+    "name": "RGB/a23_s1_t1_color.avi",
+    "offset": 590450287,
+    "compressed_bytes": 1566122,
+    "bytes": 1694796,
+    "crc32": 2761268149
+  },
+  {
+    "name": "RGB/a23_s1_t2_color.avi",
+    "offset": 592016462,
+    "compressed_bytes": 1714546,
+    "bytes": 1849384,
+    "crc32": 4010914437
+  },
+  {
+    "name": "RGB/a23_s1_t3_color.avi",
+    "offset": 593731061,
+    "compressed_bytes": 1447170,
+    "bytes": 1570948,
+    "crc32": 1802870830
+  },
+  {
+    "name": "RGB/a23_s1_t4_color.avi",
+    "offset": 595178284,
+    "compressed_bytes": 1445883,
+    "bytes": 1569142,
+    "crc32": 1947190964
+  },
+  {
+    "name": "RGB/a23_s2_t1_color.avi",
+    "offset": 596624220,
+    "compressed_bytes": 1141362,
+    "bytes": 1251274,
+    "crc32": 23503940
+  },
+  {
+    "name": "RGB/a23_s2_t2_color.avi",
+    "offset": 597765635,
+    "compressed_bytes": 1337003,
+    "bytes": 1455346,
+    "crc32": 312279478
+  },
+  {
+    "name": "RGB/a23_s2_t3_color.avi",
+    "offset": 599102691,
+    "compressed_bytes": 1237543,
+    "bytes": 1351752,
+    "crc32": 618285083
+  },
+  {
+    "name": "RGB/a23_s2_t4_color.avi",
+    "offset": 600340287,
+    "compressed_bytes": 1287394,
+    "bytes": 1403618,
+    "crc32": 57325580
+  },
+  {
+    "name": "RGB/a23_s3_t1_color.avi",
+    "offset": 601627734,
+    "compressed_bytes": 1391159,
+    "bytes": 1511740,
+    "crc32": 1690382591
+  },
+  {
+    "name": "RGB/a23_s3_t2_color.avi",
+    "offset": 603018946,
+    "compressed_bytes": 1487059,
+    "bytes": 1611454,
+    "crc32": 2479905095
+  },
+  {
+    "name": "RGB/a23_s3_t3_color.avi",
+    "offset": 604506058,
+    "compressed_bytes": 1555242,
+    "bytes": 1683812,
+    "crc32": 1411185214
+  },
+  {
+    "name": "RGB/a23_s3_t4_color.avi",
+    "offset": 606061353,
+    "compressed_bytes": 1480480,
+    "bytes": 1605146,
+    "crc32": 4045940826
+  },
+  {
+    "name": "RGB/a23_s4_t1_color.avi",
+    "offset": 607541886,
+    "compressed_bytes": 1390978,
+    "bytes": 1513648,
+    "crc32": 2645814735
+  },
+  {
+    "name": "RGB/a23_s4_t2_color.avi",
+    "offset": 608932917,
+    "compressed_bytes": 1586099,
+    "bytes": 1717140,
+    "crc32": 3223306671
+  },
+  {
+    "name": "RGB/a23_s4_t3_color.avi",
+    "offset": 610519069,
+    "compressed_bytes": 1538686,
+    "bytes": 1667064,
+    "crc32": 2084969868
+  },
+  {
+    "name": "RGB/a23_s4_t4_color.avi",
+    "offset": 612057808,
+    "compressed_bytes": 1318356,
+    "bytes": 1437592,
+    "crc32": 2421723804
+  },
+  {
+    "name": "RGB/a23_s5_t1_color.avi",
+    "offset": 613376217,
+    "compressed_bytes": 1360127,
+    "bytes": 1479588,
+    "crc32": 3991869395
+  },
+  {
+    "name": "RGB/a23_s5_t2_color.avi",
+    "offset": 614736397,
+    "compressed_bytes": 1336090,
+    "bytes": 1454068,
+    "crc32": 4024666985
+  },
+  {
+    "name": "RGB/a23_s5_t3_color.avi",
+    "offset": 616072540,
+    "compressed_bytes": 1556403,
+    "bytes": 1683792,
+    "crc32": 951888982
+  },
+  {
+    "name": "RGB/a23_s5_t4_color.avi",
+    "offset": 617628996,
+    "compressed_bytes": 1383048,
+    "bytes": 1503228,
+    "crc32": 1486853202
+  },
+  {
+    "name": "RGB/a23_s6_t1_color.avi",
+    "offset": 619012097,
+    "compressed_bytes": 1610460,
+    "bytes": 1736640,
+    "crc32": 3061248174
+  },
+  {
+    "name": "RGB/a23_s6_t2_color.avi",
+    "offset": 620622610,
+    "compressed_bytes": 1536152,
+    "bytes": 1658982,
+    "crc32": 1713677333
+  },
+  {
+    "name": "RGB/a23_s6_t3_color.avi",
+    "offset": 622158815,
+    "compressed_bytes": 1731297,
+    "bytes": 1862520,
+    "crc32": 3507807090
+  },
+  {
+    "name": "RGB/a23_s7_t1_color.avi",
+    "offset": 623890165,
+    "compressed_bytes": 1295927,
+    "bytes": 1413384,
+    "crc32": 844499404
+  },
+  {
+    "name": "RGB/a23_s7_t2_color.avi",
+    "offset": 625186145,
+    "compressed_bytes": 1269459,
+    "bytes": 1385990,
+    "crc32": 3957598043
+  },
+  {
+    "name": "RGB/a23_s7_t3_color.avi",
+    "offset": 626455657,
+    "compressed_bytes": 1195644,
+    "bytes": 1309486,
+    "crc32": 1332454716
+  },
+  {
+    "name": "RGB/a23_s7_t4_color.avi",
+    "offset": 627651354,
+    "compressed_bytes": 1196304,
+    "bytes": 1310314,
+    "crc32": 1507110918
+  },
+  {
+    "name": "RGB/a23_s8_t1_color.avi",
+    "offset": 628847711,
+    "compressed_bytes": 1643558,
+    "bytes": 1776268,
+    "crc32": 3882887482
+  },
+  {
+    "name": "RGB/a23_s8_t2_color.avi",
+    "offset": 630491322,
+    "compressed_bytes": 1220130,
+    "bytes": 1334544,
+    "crc32": 3465696428
+  },
+  {
+    "name": "RGB/a23_s8_t3_color.avi",
+    "offset": 631711505,
+    "compressed_bytes": 1371214,
+    "bytes": 1492486,
+    "crc32": 1656095209
+  },
+  {
+    "name": "RGB/a23_s8_t4_color.avi",
+    "offset": 633082772,
+    "compressed_bytes": 1321904,
+    "bytes": 1440828,
+    "crc32": 2620644407
+  },
+  {
+    "name": "RGB/a24_s1_t1_color.avi",
+    "offset": 634404729,
+    "compressed_bytes": 946294,
+    "bytes": 1049696,
+    "crc32": 1173178086
+  },
+  {
+    "name": "RGB/a24_s1_t2_color.avi",
+    "offset": 635351076,
+    "compressed_bytes": 1126802,
+    "bytes": 1236858,
+    "crc32": 2651803554
+  },
+  {
+    "name": "RGB/a24_s1_t3_color.avi",
+    "offset": 636477931,
+    "compressed_bytes": 1004240,
+    "bytes": 1110264,
+    "crc32": 3142473043
+  },
+  {
+    "name": "RGB/a24_s1_t4_color.avi",
+    "offset": 637482224,
+    "compressed_bytes": 930030,
+    "bytes": 1032834,
+    "crc32": 597590274
+  },
+  {
+    "name": "RGB/a24_s2_t1_color.avi",
+    "offset": 638412307,
+    "compressed_bytes": 953366,
+    "bytes": 1058752,
+    "crc32": 2743250898
+  },
+  {
+    "name": "RGB/a24_s2_t2_color.avi",
+    "offset": 639365726,
+    "compressed_bytes": 932212,
+    "bytes": 1036542,
+    "crc32": 3290845187
+  },
+  {
+    "name": "RGB/a24_s2_t3_color.avi",
+    "offset": 640297991,
+    "compressed_bytes": 955629,
+    "bytes": 1061160,
+    "crc32": 3354828982
+  },
+  {
+    "name": "RGB/a24_s2_t4_color.avi",
+    "offset": 641253673,
+    "compressed_bytes": 860386,
+    "bytes": 961554,
+    "crc32": 2972286513
+  },
+  {
+    "name": "RGB/a24_s3_t1_color.avi",
+    "offset": 642114112,
+    "compressed_bytes": 1003366,
+    "bytes": 1110102,
+    "crc32": 1676660814
+  },
+  {
+    "name": "RGB/a24_s3_t2_color.avi",
+    "offset": 643117531,
+    "compressed_bytes": 930944,
+    "bytes": 1034512,
+    "crc32": 3270268872
+  },
+  {
+    "name": "RGB/a24_s3_t3_color.avi",
+    "offset": 644048528,
+    "compressed_bytes": 981312,
+    "bytes": 1086832,
+    "crc32": 2557218191
+  },
+  {
+    "name": "RGB/a24_s3_t4_color.avi",
+    "offset": 645029893,
+    "compressed_bytes": 1013043,
+    "bytes": 1123662,
+    "crc32": 279957883
+  },
+  {
+    "name": "RGB/a24_s4_t1_color.avi",
+    "offset": 646042989,
+    "compressed_bytes": 958335,
+    "bytes": 1068610,
+    "crc32": 2194046810
+  },
+  {
+    "name": "RGB/a24_s4_t2_color.avi",
+    "offset": 647001377,
+    "compressed_bytes": 1036575,
+    "bytes": 1149676,
+    "crc32": 330947845
+  },
+  {
+    "name": "RGB/a24_s4_t3_color.avi",
+    "offset": 648038005,
+    "compressed_bytes": 990288,
+    "bytes": 1101402,
+    "crc32": 900973338
+  },
+  {
+    "name": "RGB/a24_s4_t4_color.avi",
+    "offset": 649028346,
+    "compressed_bytes": 967710,
+    "bytes": 1077392,
+    "crc32": 2083120668
+  },
+  {
+    "name": "RGB/a24_s5_t1_color.avi",
+    "offset": 649996109,
+    "compressed_bytes": 1033383,
+    "bytes": 1140250,
+    "crc32": 1920854924
+  },
+  {
+    "name": "RGB/a24_s5_t2_color.avi",
+    "offset": 651029545,
+    "compressed_bytes": 969256,
+    "bytes": 1073334,
+    "crc32": 3596997735
+  },
+  {
+    "name": "RGB/a24_s5_t3_color.avi",
+    "offset": 651998854,
+    "compressed_bytes": 918830,
+    "bytes": 1020442,
+    "crc32": 95507505
+  },
+  {
+    "name": "RGB/a24_s5_t4_color.avi",
+    "offset": 652917737,
+    "compressed_bytes": 1117544,
+    "bytes": 1227060,
+    "crc32": 3552772185
+  },
+  {
+    "name": "RGB/a24_s6_t1_color.avi",
+    "offset": 654035334,
+    "compressed_bytes": 1077349,
+    "bytes": 1185948,
+    "crc32": 2411017715
+  },
+  {
+    "name": "RGB/a24_s6_t2_color.avi",
+    "offset": 655112736,
+    "compressed_bytes": 1083762,
+    "bytes": 1192028,
+    "crc32": 3370099152
+  },
+  {
+    "name": "RGB/a24_s6_t3_color.avi",
+    "offset": 656196551,
+    "compressed_bytes": 1013578,
+    "bytes": 1119168,
+    "crc32": 2777999562
+  },
+  {
+    "name": "RGB/a24_s6_t4_color.avi",
+    "offset": 657210182,
+    "compressed_bytes": 1058145,
+    "bytes": 1165612,
+    "crc32": 2172406018
+  },
+  {
+    "name": "RGB/a24_s7_t1_color.avi",
+    "offset": 658268380,
+    "compressed_bytes": 1031378,
+    "bytes": 1139938,
+    "crc32": 741991715
+  },
+  {
+    "name": "RGB/a24_s7_t2_color.avi",
+    "offset": 659299811,
+    "compressed_bytes": 959074,
+    "bytes": 1064334,
+    "crc32": 1157490714
+  },
+  {
+    "name": "RGB/a24_s7_t3_color.avi",
+    "offset": 660258938,
+    "compressed_bytes": 1132720,
+    "bytes": 1245122,
+    "crc32": 3442696257
+  },
+  {
+    "name": "RGB/a24_s7_t4_color.avi",
+    "offset": 661391711,
+    "compressed_bytes": 1051769,
+    "bytes": 1161442,
+    "crc32": 1376128310
+  },
+  {
+    "name": "RGB/a24_s8_t1_color.avi",
+    "offset": 662443533,
+    "compressed_bytes": 1195981,
+    "bytes": 1311124,
+    "crc32": 3720533631
+  },
+  {
+    "name": "RGB/a24_s8_t2_color.avi",
+    "offset": 663639567,
+    "compressed_bytes": 1035203,
+    "bytes": 1143506,
+    "crc32": 1668556659
+  },
+  {
+    "name": "RGB/a24_s8_t3_color.avi",
+    "offset": 664674823,
+    "compressed_bytes": 1110954,
+    "bytes": 1221670,
+    "crc32": 3879064755
+  },
+  {
+    "name": "RGB/a24_s8_t4_color.avi",
+    "offset": 665785830,
+    "compressed_bytes": 1037025,
+    "bytes": 1144988,
+    "crc32": 3155033642
+  },
+  {
+    "name": "RGB/a25_s1_t1_color.avi",
+    "offset": 666822908,
+    "compressed_bytes": 1126809,
+    "bytes": 1236614,
+    "crc32": 3693946170
+  },
+  {
+    "name": "RGB/a25_s1_t2_color.avi",
+    "offset": 667949770,
+    "compressed_bytes": 1053063,
+    "bytes": 1161082,
+    "crc32": 2472619739
+  },
+  {
+    "name": "RGB/a25_s1_t3_color.avi",
+    "offset": 669002886,
+    "compressed_bytes": 1076210,
+    "bytes": 1185168,
+    "crc32": 2272888844
+  },
+  {
+    "name": "RGB/a25_s1_t4_color.avi",
+    "offset": 670079149,
+    "compressed_bytes": 1151154,
+    "bytes": 1262342,
+    "crc32": 2132995745
+  },
+  {
+    "name": "RGB/a25_s2_t1_color.avi",
+    "offset": 671230356,
+    "compressed_bytes": 885065,
+    "bytes": 987142,
+    "crc32": 900764799
+  },
+  {
+    "name": "RGB/a25_s2_t2_color.avi",
+    "offset": 672115474,
+    "compressed_bytes": 1028132,
+    "bytes": 1136532,
+    "crc32": 1689195063
+  },
+  {
+    "name": "RGB/a25_s2_t3_color.avi",
+    "offset": 673143659,
+    "compressed_bytes": 956264,
+    "bytes": 1061852,
+    "crc32": 370088942
+  },
+  {
+    "name": "RGB/a25_s2_t4_color.avi",
+    "offset": 674099976,
+    "compressed_bytes": 981332,
+    "bytes": 1087948,
+    "crc32": 2128147567
+  },
+  {
+    "name": "RGB/a25_s3_t1_color.avi",
+    "offset": 675081361,
+    "compressed_bytes": 1122365,
+    "bytes": 1233104,
+    "crc32": 1611629557
+  },
+  {
+    "name": "RGB/a25_s3_t2_color.avi",
+    "offset": 676203779,
+    "compressed_bytes": 1052851,
+    "bytes": 1161648,
+    "crc32": 636826450
+  },
+  {
+    "name": "RGB/a25_s3_t3_color.avi",
+    "offset": 677256683,
+    "compressed_bytes": 1187330,
+    "bytes": 1303160,
+    "crc32": 1682129950
+  },
+  {
+    "name": "RGB/a25_s3_t4_color.avi",
+    "offset": 678444066,
+    "compressed_bytes": 1153822,
+    "bytes": 1270890,
+    "crc32": 4070058601
+  },
+  {
+    "name": "RGB/a25_s4_t1_color.avi",
+    "offset": 679597941,
+    "compressed_bytes": 1248877,
+    "bytes": 1371382,
+    "crc32": 2096817547
+  },
+  {
+    "name": "RGB/a25_s4_t2_color.avi",
+    "offset": 680846871,
+    "compressed_bytes": 1272378,
+    "bytes": 1396486,
+    "crc32": 955269926
+  },
+  {
+    "name": "RGB/a25_s4_t3_color.avi",
+    "offset": 682119302,
+    "compressed_bytes": 1060686,
+    "bytes": 1175226,
+    "crc32": 3731097058
+  },
+  {
+    "name": "RGB/a25_s4_t4_color.avi",
+    "offset": 683180041,
+    "compressed_bytes": 1016373,
+    "bytes": 1128394,
+    "crc32": 814338759
+  },
+  {
+    "name": "RGB/a25_s5_t1_color.avi",
+    "offset": 684196467,
+    "compressed_bytes": 993572,
+    "bytes": 1098524,
+    "crc32": 795744536
+  },
+  {
+    "name": "RGB/a25_s5_t2_color.avi",
+    "offset": 685190092,
+    "compressed_bytes": 1143098,
+    "bytes": 1253644,
+    "crc32": 3326817938
+  },
+  {
+    "name": "RGB/a25_s5_t3_color.avi",
+    "offset": 686333243,
+    "compressed_bytes": 968030,
+    "bytes": 1071730,
+    "crc32": 2760117710
+  },
+  {
+    "name": "RGB/a25_s5_t4_color.avi",
+    "offset": 687301326,
+    "compressed_bytes": 943926,
+    "bytes": 1046396,
+    "crc32": 3845437279
+  },
+  {
+    "name": "RGB/a25_s6_t1_color.avi",
+    "offset": 688245305,
+    "compressed_bytes": 966520,
+    "bytes": 1069850,
+    "crc32": 3867661289
+  },
+  {
+    "name": "RGB/a25_s6_t2_color.avi",
+    "offset": 689211878,
+    "compressed_bytes": 1015105,
+    "bytes": 1120104,
+    "crc32": 2404759298
+  },
+  {
+    "name": "RGB/a25_s6_t3_color.avi",
+    "offset": 690227036,
+    "compressed_bytes": 1216276,
+    "bytes": 1329306,
+    "crc32": 3639245648
+  },
+  {
+    "name": "RGB/a25_s6_t4_color.avi",
+    "offset": 691443365,
+    "compressed_bytes": 1089966,
+    "bytes": 1198240,
+    "crc32": 1515381688
+  },
+  {
+    "name": "RGB/a25_s7_t1_color.avi",
+    "offset": 692533384,
+    "compressed_bytes": 978797,
+    "bytes": 1085194,
+    "crc32": 2724468859
+  },
+  {
+    "name": "RGB/a25_s7_t2_color.avi",
+    "offset": 693512234,
+    "compressed_bytes": 1127094,
+    "bytes": 1239138,
+    "crc32": 1671010835
+  },
+  {
+    "name": "RGB/a25_s7_t3_color.avi",
+    "offset": 694639381,
+    "compressed_bytes": 1076633,
+    "bytes": 1187318,
+    "crc32": 3068176887
+  },
+  {
+    "name": "RGB/a25_s7_t4_color.avi",
+    "offset": 695716067,
+    "compressed_bytes": 1003529,
+    "bytes": 1111066,
+    "crc32": 3328100710
+  },
+  {
+    "name": "RGB/a25_s8_t1_color.avi",
+    "offset": 696719649,
+    "compressed_bytes": 1350634,
+    "bytes": 1472068,
+    "crc32": 3985102946
+  },
+  {
+    "name": "RGB/a25_s8_t2_color.avi",
+    "offset": 698070336,
+    "compressed_bytes": 1060447,
+    "bytes": 1169606,
+    "crc32": 3870711689
+  },
+  {
+    "name": "RGB/a25_s8_t3_color.avi",
+    "offset": 699130836,
+    "compressed_bytes": 1012109,
+    "bytes": 1119422,
+    "crc32": 3550831128
+  },
+  {
+    "name": "RGB/a25_s8_t4_color.avi",
+    "offset": 700142998,
+    "compressed_bytes": 1081857,
+    "bytes": 1192198,
+    "crc32": 3321639021
+  },
+  {
+    "name": "RGB/a26_s1_t1_color.avi",
+    "offset": 701224908,
+    "compressed_bytes": 1552878,
+    "bytes": 1680682,
+    "crc32": 2917705268
+  },
+  {
+    "name": "RGB/a26_s1_t2_color.avi",
+    "offset": 702777839,
+    "compressed_bytes": 1457664,
+    "bytes": 1581630,
+    "crc32": 912275596
+  },
+  {
+    "name": "RGB/a26_s1_t3_color.avi",
+    "offset": 704235556,
+    "compressed_bytes": 1384074,
+    "bytes": 1505206,
+    "crc32": 1379597379
+  },
+  {
+    "name": "RGB/a26_s1_t4_color.avi",
+    "offset": 705619683,
+    "compressed_bytes": 1406268,
+    "bytes": 1528250,
+    "crc32": 2973937638
+  },
+  {
+    "name": "RGB/a26_s2_t1_color.avi",
+    "offset": 707026004,
+    "compressed_bytes": 1187899,
+    "bytes": 1302462,
+    "crc32": 1867798643
+  },
+  {
+    "name": "RGB/a26_s2_t2_color.avi",
+    "offset": 708213956,
+    "compressed_bytes": 1192847,
+    "bytes": 1307438,
+    "crc32": 3458898317
+  },
+  {
+    "name": "RGB/a26_s2_t3_color.avi",
+    "offset": 709406856,
+    "compressed_bytes": 1214187,
+    "bytes": 1329914,
+    "crc32": 651146285
+  },
+  {
+    "name": "RGB/a26_s2_t4_color.avi",
+    "offset": 710621096,
+    "compressed_bytes": 1285047,
+    "bytes": 1403502,
+    "crc32": 267118738
+  },
+  {
+    "name": "RGB/a26_s3_t1_color.avi",
+    "offset": 711906196,
+    "compressed_bytes": 1532968,
+    "bytes": 1660902,
+    "crc32": 2032462024
+  },
+  {
+    "name": "RGB/a26_s3_t2_color.avi",
+    "offset": 713439217,
+    "compressed_bytes": 1506367,
+    "bytes": 1633216,
+    "crc32": 1655291751
+  },
+  {
+    "name": "RGB/a26_s3_t3_color.avi",
+    "offset": 714945637,
+    "compressed_bytes": 1746700,
+    "bytes": 1883862,
+    "crc32": 396403573
+  },
+  {
+    "name": "RGB/a26_s3_t4_color.avi",
+    "offset": 716692390,
+    "compressed_bytes": 1411249,
+    "bytes": 1534026,
+    "crc32": 1614921597
+  },
+  {
+    "name": "RGB/a26_s4_t1_color.avi",
+    "offset": 718103692,
+    "compressed_bytes": 1388294,
+    "bytes": 1511856,
+    "crc32": 1389690859
+  },
+  {
+    "name": "RGB/a26_s4_t2_color.avi",
+    "offset": 719492039,
+    "compressed_bytes": 1412472,
+    "bytes": 1536994,
+    "crc32": 1182109176
+  },
+  {
+    "name": "RGB/a26_s4_t3_color.avi",
+    "offset": 720904564,
+    "compressed_bytes": 1384773,
+    "bytes": 1508330,
+    "crc32": 1449106520
+  },
+  {
+    "name": "RGB/a26_s4_t4_color.avi",
+    "offset": 722289390,
+    "compressed_bytes": 1387329,
+    "bytes": 1510528,
+    "crc32": 1630846730
+  },
+  {
+    "name": "RGB/a26_s5_t1_color.avi",
+    "offset": 723676772,
+    "compressed_bytes": 1716599,
+    "bytes": 1851892,
+    "crc32": 164357426
+  },
+  {
+    "name": "RGB/a26_s5_t2_color.avi",
+    "offset": 725393424,
+    "compressed_bytes": 1932710,
+    "bytes": 2077478,
+    "crc32": 233322184
+  },
+  {
+    "name": "RGB/a26_s5_t3_color.avi",
+    "offset": 727326187,
+    "compressed_bytes": 1669350,
+    "bytes": 1802768,
+    "crc32": 2535308570
+  },
+  {
+    "name": "RGB/a26_s5_t4_color.avi",
+    "offset": 728995590,
+    "compressed_bytes": 1763824,
+    "bytes": 1901494,
+    "crc32": 4021765837
+  },
+  {
+    "name": "RGB/a26_s6_t1_color.avi",
+    "offset": 730759467,
+    "compressed_bytes": 2015309,
+    "bytes": 2161716,
+    "crc32": 3735818849
+  },
+  {
+    "name": "RGB/a26_s6_t2_color.avi",
+    "offset": 732774829,
+    "compressed_bytes": 2031948,
+    "bytes": 2179344,
+    "crc32": 3590054233
+  },
+  {
+    "name": "RGB/a26_s6_t3_color.avi",
+    "offset": 734806830,
+    "compressed_bytes": 2197607,
+    "bytes": 2351832,
+    "crc32": 2375880048
+  },
+  {
+    "name": "RGB/a26_s6_t4_color.avi",
+    "offset": 737004490,
+    "compressed_bytes": 2069414,
+    "bytes": 2218974,
+    "crc32": 429488511
+  },
+  {
+    "name": "RGB/a26_s7_t1_color.avi",
+    "offset": 739073957,
+    "compressed_bytes": 1578684,
+    "bytes": 1710608,
+    "crc32": 1463901689
+  },
+  {
+    "name": "RGB/a26_s7_t2_color.avi",
+    "offset": 740652694,
+    "compressed_bytes": 1421234,
+    "bytes": 1549190,
+    "crc32": 96505685
+  },
+  {
+    "name": "RGB/a26_s7_t3_color.avi",
+    "offset": 742073981,
+    "compressed_bytes": 1391109,
+    "bytes": 1520126,
+    "crc32": 3550334558
+  },
+  {
+    "name": "RGB/a26_s7_t4_color.avi",
+    "offset": 743465143,
+    "compressed_bytes": 1346024,
+    "bytes": 1472356,
+    "crc32": 3199189545
+  },
+  {
+    "name": "RGB/a26_s8_t1_color.avi",
+    "offset": 744811220,
+    "compressed_bytes": 1789433,
+    "bytes": 1929402,
+    "crc32": 3705438052
+  },
+  {
+    "name": "RGB/a26_s8_t2_color.avi",
+    "offset": 746600706,
+    "compressed_bytes": 1641455,
+    "bytes": 1776534,
+    "crc32": 2587908554
+  },
+  {
+    "name": "RGB/a26_s8_t3_color.avi",
+    "offset": 748242214,
+    "compressed_bytes": 1682135,
+    "bytes": 1822938,
+    "crc32": 1354491609
+  },
+  {
+    "name": "RGB/a26_s8_t4_color.avi",
+    "offset": 749924402,
+    "compressed_bytes": 1529472,
+    "bytes": 1662946,
+    "crc32": 1728270067
+  },
+  {
+    "name": "RGB/a27_s1_t1_color.avi",
+    "offset": 751453927,
+    "compressed_bytes": 1814948,
+    "bytes": 1954004,
+    "crc32": 3583059351
+  },
+  {
+    "name": "RGB/a27_s1_t2_color.avi",
+    "offset": 753268928,
+    "compressed_bytes": 1742715,
+    "bytes": 1878854,
+    "crc32": 2837571998
+  },
+  {
+    "name": "RGB/a27_s1_t3_color.avi",
+    "offset": 755011696,
+    "compressed_bytes": 1617489,
+    "bytes": 1748658,
+    "crc32": 3390677189
+  },
+  {
+    "name": "RGB/a27_s1_t4_color.avi",
+    "offset": 756629238,
+    "compressed_bytes": 1472059,
+    "bytes": 1596452,
+    "crc32": 3617430590
+  },
+  {
+    "name": "RGB/a27_s2_t1_color.avi",
+    "offset": 758101350,
+    "compressed_bytes": 1008252,
+    "bytes": 1115340,
+    "crc32": 2382349489
+  },
+  {
+    "name": "RGB/a27_s2_t2_color.avi",
+    "offset": 759109655,
+    "compressed_bytes": 983362,
+    "bytes": 1089880,
+    "crc32": 946497511
+  },
+  {
+    "name": "RGB/a27_s2_t3_color.avi",
+    "offset": 760093070,
+    "compressed_bytes": 960247,
+    "bytes": 1065128,
+    "crc32": 2836706645
+  },
+  {
+    "name": "RGB/a27_s2_t4_color.avi",
+    "offset": 761053370,
+    "compressed_bytes": 912287,
+    "bytes": 1015368,
+    "crc32": 1530615106
+  },
+  {
+    "name": "RGB/a27_s3_t1_color.avi",
+    "offset": 761965710,
+    "compressed_bytes": 1620325,
+    "bytes": 1751666,
+    "crc32": 4214978476
+  },
+  {
+    "name": "RGB/a27_s3_t2_color.avi",
+    "offset": 763586088,
+    "compressed_bytes": 1812344,
+    "bytes": 1951792,
+    "crc32": 2108893625
+  },
+  {
+    "name": "RGB/a27_s3_t3_color.avi",
+    "offset": 765398485,
+    "compressed_bytes": 1598795,
+    "bytes": 1732788,
+    "crc32": 2480073647
+  },
+  {
+    "name": "RGB/a27_s3_t4_color.avi",
+    "offset": 766997333,
+    "compressed_bytes": 1674741,
+    "bytes": 1815626,
+    "crc32": 4014571801
+  },
+  {
+    "name": "RGB/a27_s4_t1_color.avi",
+    "offset": 768672127,
+    "compressed_bytes": 1235836,
+    "bytes": 1352110,
+    "crc32": 1140747609
+  },
+  {
+    "name": "RGB/a27_s4_t2_color.avi",
+    "offset": 769908016,
+    "compressed_bytes": 1191368,
+    "bytes": 1305506,
+    "crc32": 1163540064
+  },
+  {
+    "name": "RGB/a27_s4_t3_color.avi",
+    "offset": 771099437,
+    "compressed_bytes": 1191134,
+    "bytes": 1305360,
+    "crc32": 787986333
+  },
+  {
+    "name": "RGB/a27_s4_t4_color.avi",
+    "offset": 772290624,
+    "compressed_bytes": 1206776,
+    "bytes": 1324170,
+    "crc32": 1284934129
+  },
+  {
+    "name": "RGB/a27_s5_t1_color.avi",
+    "offset": 773497453,
+    "compressed_bytes": 1669855,
+    "bytes": 1802232,
+    "crc32": 2770173467
+  },
+  {
+    "name": "RGB/a27_s5_t2_color.avi",
+    "offset": 775167361,
+    "compressed_bytes": 1742881,
+    "bytes": 1882176,
+    "crc32": 688622699
+  },
+  {
+    "name": "RGB/a27_s5_t3_color.avi",
+    "offset": 776910295,
+    "compressed_bytes": 1847852,
+    "bytes": 1985624,
+    "crc32": 201750178
+  },
+  {
+    "name": "RGB/a27_s5_t4_color.avi",
+    "offset": 778758200,
+    "compressed_bytes": 1709924,
+    "bytes": 1842274,
+    "crc32": 852770595
+  },
+  {
+    "name": "RGB/a27_s6_t1_color.avi",
+    "offset": 780468177,
+    "compressed_bytes": 2058749,
+    "bytes": 2206312,
+    "crc32": 1421764625
+  },
+  {
+    "name": "RGB/a27_s6_t2_color.avi",
+    "offset": 782526979,
+    "compressed_bytes": 2232444,
+    "bytes": 2386746,
+    "crc32": 1551631253
+  },
+  {
+    "name": "RGB/a27_s6_t3_color.avi",
+    "offset": 784759476,
+    "compressed_bytes": 2336770,
+    "bytes": 2494770,
+    "crc32": 628466185
+  },
+  {
+    "name": "RGB/a27_s6_t4_color.avi",
+    "offset": 787096299,
+    "compressed_bytes": 2228206,
+    "bytes": 2380560,
+    "crc32": 3325412651
+  },
+  {
+    "name": "RGB/a27_s7_t1_color.avi",
+    "offset": 789324558,
+    "compressed_bytes": 1261475,
+    "bytes": 1383234,
+    "crc32": 2464499566
+  },
+  {
+    "name": "RGB/a27_s7_t2_color.avi",
+    "offset": 790586086,
+    "compressed_bytes": 1256337,
+    "bytes": 1378642,
+    "crc32": 872649663
+  },
+  {
+    "name": "RGB/a27_s7_t3_color.avi",
+    "offset": 791842476,
+    "compressed_bytes": 1160364,
+    "bytes": 1278028,
+    "crc32": 3218515622
+  },
+  {
+    "name": "RGB/a27_s7_t4_color.avi",
+    "offset": 793002893,
+    "compressed_bytes": 1379636,
+    "bytes": 1506932,
+    "crc32": 3110666243
+  },
+  {
+    "name": "RGB/a27_s8_t1_color.avi",
+    "offset": 794382582,
+    "compressed_bytes": 1676253,
+    "bytes": 1817882,
+    "crc32": 1338444706
+  },
+  {
+    "name": "RGB/a27_s8_t2_color.avi",
+    "offset": 796058888,
+    "compressed_bytes": 1640005,
+    "bytes": 1779010,
+    "crc32": 3309564148
+  },
+  {
+    "name": "RGB/a27_s8_t3_color.avi",
+    "offset": 797698946,
+    "compressed_bytes": 1566272,
+    "bytes": 1702124,
+    "crc32": 3361850467
+  },
+  {
+    "name": "RGB/a2_s1_t1_color.avi",
+    "offset": 799265271,
+    "compressed_bytes": 1135087,
+    "bytes": 1244098,
+    "crc32": 3102857444
+  },
+  {
+    "name": "RGB/a2_s1_t2_color.avi",
+    "offset": 800400410,
+    "compressed_bytes": 1016684,
+    "bytes": 1121316,
+    "crc32": 3768838864
+  },
+  {
+    "name": "RGB/a2_s1_t3_color.avi",
+    "offset": 801417146,
+    "compressed_bytes": 1016334,
+    "bytes": 1121302,
+    "crc32": 3464331583
+  },
+  {
+    "name": "RGB/a2_s1_t4_color.avi",
+    "offset": 802433532,
+    "compressed_bytes": 992287,
+    "bytes": 1096256,
+    "crc32": 1998379142
+  },
+  {
+    "name": "RGB/a2_s2_t1_color.avi",
+    "offset": 803425871,
+    "compressed_bytes": 1168396,
+    "bytes": 1281494,
+    "crc32": 3981922974
+  },
+  {
+    "name": "RGB/a2_s2_t2_color.avi",
+    "offset": 804594319,
+    "compressed_bytes": 924521,
+    "bytes": 1027378,
+    "crc32": 4165813588
+  },
+  {
+    "name": "RGB/a2_s2_t3_color.avi",
+    "offset": 805518892,
+    "compressed_bytes": 1096213,
+    "bytes": 1205974,
+    "crc32": 3163961794
+  },
+  {
+    "name": "RGB/a2_s2_t4_color.avi",
+    "offset": 806615157,
+    "compressed_bytes": 1121747,
+    "bytes": 1232024,
+    "crc32": 542500667
+  },
+  {
+    "name": "RGB/a2_s3_t1_color.avi",
+    "offset": 807736956,
+    "compressed_bytes": 1139181,
+    "bytes": 1250900,
+    "crc32": 354585579
+  },
+  {
+    "name": "RGB/a2_s3_t2_color.avi",
+    "offset": 808876189,
+    "compressed_bytes": 1041496,
+    "bytes": 1149714,
+    "crc32": 2503474400
+  },
+  {
+    "name": "RGB/a2_s3_t3_color.avi",
+    "offset": 809917737,
+    "compressed_bytes": 1090379,
+    "bytes": 1200882,
+    "crc32": 3361826806
+  },
+  {
+    "name": "RGB/a2_s3_t4_color.avi",
+    "offset": 811008168,
+    "compressed_bytes": 1043021,
+    "bytes": 1151298,
+    "crc32": 2092440661
+  },
+  {
+    "name": "RGB/a2_s4_t1_color.avi",
+    "offset": 812051241,
+    "compressed_bytes": 941017,
+    "bytes": 1045672,
+    "crc32": 1057376932
+  },
+  {
+    "name": "RGB/a2_s4_t2_color.avi",
+    "offset": 812992310,
+    "compressed_bytes": 1065356,
+    "bytes": 1175644,
+    "crc32": 3775874493
+  },
+  {
+    "name": "RGB/a2_s4_t3_color.avi",
+    "offset": 814057718,
+    "compressed_bytes": 1042072,
+    "bytes": 1151194,
+    "crc32": 1948097546
+  },
+  {
+    "name": "RGB/a2_s4_t4_color.avi",
+    "offset": 815099842,
+    "compressed_bytes": 1165382,
+    "bytes": 1278452,
+    "crc32": 389408683
+  },
+  {
+    "name": "RGB/a2_s5_t1_color.avi",
+    "offset": 816265276,
+    "compressed_bytes": 1072916,
+    "bytes": 1180468,
+    "crc32": 1915689967
+  },
+  {
+    "name": "RGB/a2_s5_t2_color.avi",
+    "offset": 817338244,
+    "compressed_bytes": 1354109,
+    "bytes": 1472178,
+    "crc32": 163900281
+  },
+  {
+    "name": "RGB/a2_s5_t3_color.avi",
+    "offset": 818692405,
+    "compressed_bytes": 1352725,
+    "bytes": 1471052,
+    "crc32": 4243350518
+  },
+  {
+    "name": "RGB/a2_s5_t4_color.avi",
+    "offset": 820045182,
+    "compressed_bytes": 1353163,
+    "bytes": 1471596,
+    "crc32": 2899774796
+  },
+  {
+    "name": "RGB/a2_s6_t1_color.avi",
+    "offset": 821398397,
+    "compressed_bytes": 1413401,
+    "bytes": 1532834,
+    "crc32": 1557808373
+  },
+  {
+    "name": "RGB/a2_s6_t2_color.avi",
+    "offset": 822811850,
+    "compressed_bytes": 1435881,
+    "bytes": 1559036,
+    "crc32": 699529960
+  },
+  {
+    "name": "RGB/a2_s6_t3_color.avi",
+    "offset": 824247783,
+    "compressed_bytes": 1496716,
+    "bytes": 1620238,
+    "crc32": 3416142102
+  },
+  {
+    "name": "RGB/a2_s6_t4_color.avi",
+    "offset": 825744551,
+    "compressed_bytes": 1359375,
+    "bytes": 1475346,
+    "crc32": 2935450060
+  },
+  {
+    "name": "RGB/a2_s7_t1_color.avi",
+    "offset": 827103978,
+    "compressed_bytes": 1007143,
+    "bytes": 1114586,
+    "crc32": 1408438497
+  },
+  {
+    "name": "RGB/a2_s7_t2_color.avi",
+    "offset": 828111173,
+    "compressed_bytes": 1080490,
+    "bytes": 1192886,
+    "crc32": 3157159688
+  },
+  {
+    "name": "RGB/a2_s7_t3_color.avi",
+    "offset": 829191715,
+    "compressed_bytes": 1028825,
+    "bytes": 1138874,
+    "crc32": 2847035707
+  },
+  {
+    "name": "RGB/a2_s7_t4_color.avi",
+    "offset": 830220592,
+    "compressed_bytes": 904270,
+    "bytes": 1008438,
+    "crc32": 3593104047
+  },
+  {
+    "name": "RGB/a2_s8_t1_color.avi",
+    "offset": 831124914,
+    "compressed_bytes": 1289238,
+    "bytes": 1406008,
+    "crc32": 191318424
+  },
+  {
+    "name": "RGB/a2_s8_t2_color.avi",
+    "offset": 832414204,
+    "compressed_bytes": 1165807,
+    "bytes": 1277128,
+    "crc32": 2286572853
+  },
+  {
+    "name": "RGB/a2_s8_t3_color.avi",
+    "offset": 833580063,
+    "compressed_bytes": 1088740,
+    "bytes": 1197634,
+    "crc32": 2665302762
+  },
+  {
+    "name": "RGB/a2_s8_t4_color.avi",
+    "offset": 834668855,
+    "compressed_bytes": 1112626,
+    "bytes": 1222294,
+    "crc32": 2922411968
+  },
+  {
+    "name": "RGB/a3_s1_t1_color.avi",
+    "offset": 835781533,
+    "compressed_bytes": 1272013,
+    "bytes": 1386318,
+    "crc32": 3646545971
+  },
+  {
+    "name": "RGB/a3_s1_t2_color.avi",
+    "offset": 837053598,
+    "compressed_bytes": 1304122,
+    "bytes": 1419150,
+    "crc32": 2305236013
+  },
+  {
+    "name": "RGB/a3_s1_t3_color.avi",
+    "offset": 838357772,
+    "compressed_bytes": 1328527,
+    "bytes": 1444284,
+    "crc32": 1522399277
+  },
+  {
+    "name": "RGB/a3_s1_t4_color.avi",
+    "offset": 839686351,
+    "compressed_bytes": 1204177,
+    "bytes": 1314804,
+    "crc32": 2673040569
+  },
+  {
+    "name": "RGB/a3_s2_t1_color.avi",
+    "offset": 840890580,
+    "compressed_bytes": 1243455,
+    "bytes": 1358788,
+    "crc32": 3673447856
+  },
+  {
+    "name": "RGB/a3_s2_t2_color.avi",
+    "offset": 842134087,
+    "compressed_bytes": 1170444,
+    "bytes": 1283070,
+    "crc32": 1601338309
+  },
+  {
+    "name": "RGB/a3_s2_t3_color.avi",
+    "offset": 843304583,
+    "compressed_bytes": 1244398,
+    "bytes": 1359840,
+    "crc32": 561549965
+  },
+  {
+    "name": "RGB/a3_s2_t4_color.avi",
+    "offset": 844549033,
+    "compressed_bytes": 1244827,
+    "bytes": 1360548,
+    "crc32": 2000344369
+  },
+  {
+    "name": "RGB/a3_s3_t1_color.avi",
+    "offset": 845793912,
+    "compressed_bytes": 1201621,
+    "bytes": 1317346,
+    "crc32": 1252507147
+  },
+  {
+    "name": "RGB/a3_s3_t2_color.avi",
+    "offset": 846995585,
+    "compressed_bytes": 1252456,
+    "bytes": 1369568,
+    "crc32": 1008339491
+  },
+  {
+    "name": "RGB/a3_s3_t3_color.avi",
+    "offset": 848248093,
+    "compressed_bytes": 1035787,
+    "bytes": 1144228,
+    "crc32": 3467359848
+  },
+  {
+    "name": "RGB/a3_s3_t4_color.avi",
+    "offset": 849283932,
+    "compressed_bytes": 1178585,
+    "bytes": 1292738,
+    "crc32": 1735623907
+  },
+  {
+    "name": "RGB/a3_s4_t1_color.avi",
+    "offset": 850462569,
+    "compressed_bytes": 1128171,
+    "bytes": 1240420,
+    "crc32": 3890776243
+  },
+  {
+    "name": "RGB/a3_s4_t2_color.avi",
+    "offset": 851590792,
+    "compressed_bytes": 1176218,
+    "bytes": 1290694,
+    "crc32": 1162212526
+  },
+  {
+    "name": "RGB/a3_s4_t3_color.avi",
+    "offset": 852767062,
+    "compressed_bytes": 1225060,
+    "bytes": 1341494,
+    "crc32": 1717868995
+  },
+  {
+    "name": "RGB/a3_s4_t4_color.avi",
+    "offset": 853992174,
+    "compressed_bytes": 1055272,
+    "bytes": 1164928,
+    "crc32": 997742046
+  },
+  {
+    "name": "RGB/a3_s5_t1_color.avi",
+    "offset": 855047498,
+    "compressed_bytes": 1152911,
+    "bytes": 1262268,
+    "crc32": 3784991226
+  },
+  {
+    "name": "RGB/a3_s5_t2_color.avi",
+    "offset": 856200461,
+    "compressed_bytes": 1535924,
+    "bytes": 1660464,
+    "crc32": 3513282714
+  },
+  {
+    "name": "RGB/a3_s5_t3_color.avi",
+    "offset": 857736437,
+    "compressed_bytes": 1359288,
+    "bytes": 1476378,
+    "crc32": 1601910802
+  },
+  {
+    "name": "RGB/a3_s5_t4_color.avi",
+    "offset": 859095777,
+    "compressed_bytes": 1460943,
+    "bytes": 1582284,
+    "crc32": 2495675250
+  },
+  {
+    "name": "RGB/a3_s6_t1_color.avi",
+    "offset": 860556772,
+    "compressed_bytes": 1544001,
+    "bytes": 1670008,
+    "crc32": 2128196783
+  },
+  {
+    "name": "RGB/a3_s6_t2_color.avi",
+    "offset": 862100825,
+    "compressed_bytes": 1394362,
+    "bytes": 1514418,
+    "crc32": 3285188880
+  },
+  {
+    "name": "RGB/a3_s6_t3_color.avi",
+    "offset": 863495239,
+    "compressed_bytes": 1519508,
+    "bytes": 1644268,
+    "crc32": 1723742413
+  },
+  {
+    "name": "RGB/a3_s6_t4_color.avi",
+    "offset": 865014799,
+    "compressed_bytes": 1350203,
+    "bytes": 1467774,
+    "crc32": 4226911763
+  },
+  {
+    "name": "RGB/a3_s7_t1_color.avi",
+    "offset": 866365054,
+    "compressed_bytes": 884459,
+    "bytes": 985326,
+    "crc32": 3137853726
+  },
+  {
+    "name": "RGB/a3_s7_t2_color.avi",
+    "offset": 867249565,
+    "compressed_bytes": 1143163,
+    "bytes": 1253938,
+    "crc32": 2900963709
+  },
+  {
+    "name": "RGB/a3_s7_t3_color.avi",
+    "offset": 868392780,
+    "compressed_bytes": 964770,
+    "bytes": 1069096,
+    "crc32": 1874202825
+  },
+  {
+    "name": "RGB/a3_s7_t4_color.avi",
+    "offset": 869357602,
+    "compressed_bytes": 1143527,
+    "bytes": 1254194,
+    "crc32": 959393131
+  },
+  {
+    "name": "RGB/a3_s8_t1_color.avi",
+    "offset": 870501181,
+    "compressed_bytes": 1282544,
+    "bytes": 1400128,
+    "crc32": 3314806748
+  },
+  {
+    "name": "RGB/a3_s8_t2_color.avi",
+    "offset": 871783777,
+    "compressed_bytes": 1159082,
+    "bytes": 1270856,
+    "crc32": 412678806
+  },
+  {
+    "name": "RGB/a3_s8_t3_color.avi",
+    "offset": 872942911,
+    "compressed_bytes": 1108473,
+    "bytes": 1217894,
+    "crc32": 2102561234
+  },
+  {
+    "name": "RGB/a3_s8_t4_color.avi",
+    "offset": 874051436,
+    "compressed_bytes": 1034778,
+    "bytes": 1141966,
+    "crc32": 3085236926
+  },
+  {
+    "name": "RGB/a4_s1_t1_color.avi",
+    "offset": 875086266,
+    "compressed_bytes": 1033402,
+    "bytes": 1140578,
+    "crc32": 1652379444
+  },
+  {
+    "name": "RGB/a4_s1_t2_color.avi",
+    "offset": 876119720,
+    "compressed_bytes": 983511,
+    "bytes": 1088540,
+    "crc32": 1399920694
+  },
+  {
+    "name": "RGB/a4_s1_t3_color.avi",
+    "offset": 877103283,
+    "compressed_bytes": 1157391,
+    "bytes": 1269424,
+    "crc32": 1493967267
+  },
+  {
+    "name": "RGB/a4_s1_t4_color.avi",
+    "offset": 878260726,
+    "compressed_bytes": 1157343,
+    "bytes": 1269332,
+    "crc32": 1429229853
+  },
+  {
+    "name": "RGB/a4_s2_t1_color.avi",
+    "offset": 879418121,
+    "compressed_bytes": 996439,
+    "bytes": 1102762,
+    "crc32": 611580718
+  },
+  {
+    "name": "RGB/a4_s2_t2_color.avi",
+    "offset": 880414612,
+    "compressed_bytes": 923082,
+    "bytes": 1025826,
+    "crc32": 2749353807
+  },
+  {
+    "name": "RGB/a4_s2_t3_color.avi",
+    "offset": 881337746,
+    "compressed_bytes": 947931,
+    "bytes": 1051886,
+    "crc32": 858367410
+  },
+  {
+    "name": "RGB/a4_s2_t4_color.avi",
+    "offset": 882285729,
+    "compressed_bytes": 1092963,
+    "bytes": 1203078,
+    "crc32": 304523240
+  },
+  {
+    "name": "RGB/a4_s3_t1_color.avi",
+    "offset": 883378744,
+    "compressed_bytes": 1038439,
+    "bytes": 1147228,
+    "crc32": 103092397
+  },
+  {
+    "name": "RGB/a4_s3_t2_color.avi",
+    "offset": 884417235,
+    "compressed_bytes": 1015112,
+    "bytes": 1122688,
+    "crc32": 1262959488
+  },
+  {
+    "name": "RGB/a4_s3_t3_color.avi",
+    "offset": 885432399,
+    "compressed_bytes": 1183026,
+    "bytes": 1296924,
+    "crc32": 87969278
+  },
+  {
+    "name": "RGB/a4_s3_t4_color.avi",
+    "offset": 886615477,
+    "compressed_bytes": 1184188,
+    "bytes": 1298244,
+    "crc32": 1566680314
+  },
+  {
+    "name": "RGB/a4_s4_t1_color.avi",
+    "offset": 887799717,
+    "compressed_bytes": 1082033,
+    "bytes": 1193126,
+    "crc32": 757978344
+  },
+  {
+    "name": "RGB/a4_s4_t2_color.avi",
+    "offset": 888881802,
+    "compressed_bytes": 1148717,
+    "bytes": 1264410,
+    "crc32": 2475221902
+  },
+  {
+    "name": "RGB/a4_s4_t3_color.avi",
+    "offset": 890030571,
+    "compressed_bytes": 976839,
+    "bytes": 1086494,
+    "crc32": 3183849860
+  },
+  {
+    "name": "RGB/a4_s4_t4_color.avi",
+    "offset": 891007462,
+    "compressed_bytes": 1000512,
+    "bytes": 1111312,
+    "crc32": 2998050374
+  },
+  {
+    "name": "RGB/a4_s5_t1_color.avi",
+    "offset": 892008026,
+    "compressed_bytes": 971235,
+    "bytes": 1075438,
+    "crc32": 3733703640
+  },
+  {
+    "name": "RGB/a4_s5_t2_color.avi",
+    "offset": 892979313,
+    "compressed_bytes": 895976,
+    "bytes": 996862,
+    "crc32": 2467688003
+  },
+  {
+    "name": "RGB/a4_s5_t3_color.avi",
+    "offset": 893875341,
+    "compressed_bytes": 1145487,
+    "bytes": 1255612,
+    "crc32": 2113492168
+  },
+  {
+    "name": "RGB/a4_s5_t4_color.avi",
+    "offset": 895020880,
+    "compressed_bytes": 1198525,
+    "bytes": 1311168,
+    "crc32": 3480584405
+  },
+  {
+    "name": "RGB/a4_s6_t1_color.avi",
+    "offset": 896219457,
+    "compressed_bytes": 1521290,
+    "bytes": 1647440,
+    "crc32": 3832232555
+  },
+  {
+    "name": "RGB/a4_s6_t2_color.avi",
+    "offset": 897740799,
+    "compressed_bytes": 1496662,
+    "bytes": 1620974,
+    "crc32": 4203808329
+  },
+  {
+    "name": "RGB/a4_s6_t3_color.avi",
+    "offset": 899237513,
+    "compressed_bytes": 1447167,
+    "bytes": 1569786,
+    "crc32": 2775703230
+  },
+  {
+    "name": "RGB/a4_s6_t4_color.avi",
+    "offset": 900684732,
+    "compressed_bytes": 1321702,
+    "bytes": 1439080,
+    "crc32": 2620242564
+  },
+  {
+    "name": "RGB/a4_s7_t1_color.avi",
+    "offset": 902006486,
+    "compressed_bytes": 1213583,
+    "bytes": 1329352,
+    "crc32": 327203686
+  },
+  {
+    "name": "RGB/a4_s7_t2_color.avi",
+    "offset": 903220121,
+    "compressed_bytes": 1314082,
+    "bytes": 1434034,
+    "crc32": 328291429
+  },
+  {
+    "name": "RGB/a4_s7_t3_color.avi",
+    "offset": 904534255,
+    "compressed_bytes": 1262446,
+    "bytes": 1380302,
+    "crc32": 859593758
+  },
+  {
+    "name": "RGB/a4_s7_t4_color.avi",
+    "offset": 905796753,
+    "compressed_bytes": 1140914,
+    "bytes": 1252934,
+    "crc32": 1683982170
+  },
+  {
+    "name": "RGB/a4_s8_t1_color.avi",
+    "offset": 906937719,
+    "compressed_bytes": 1336464,
+    "bytes": 1455776,
+    "crc32": 332632528
+  },
+  {
+    "name": "RGB/a4_s8_t2_color.avi",
+    "offset": 908274235,
+    "compressed_bytes": 1414443,
+    "bytes": 1537098,
+    "crc32": 1572124356
+  },
+  {
+    "name": "RGB/a4_s8_t3_color.avi",
+    "offset": 909688730,
+    "compressed_bytes": 1138905,
+    "bytes": 1249548,
+    "crc32": 3006233510
+  },
+  {
+    "name": "RGB/a4_s8_t4_color.avi",
+    "offset": 910827687,
+    "compressed_bytes": 1238463,
+    "bytes": 1353430,
+    "crc32": 617528246
+  },
+  {
+    "name": "RGB/a5_s1_t1_color.avi",
+    "offset": 912066202,
+    "compressed_bytes": 1280805,
+    "bytes": 1397142,
+    "crc32": 2312349811
+  },
+  {
+    "name": "RGB/a5_s1_t2_color.avi",
+    "offset": 913347059,
+    "compressed_bytes": 1137771,
+    "bytes": 1247276,
+    "crc32": 1308495112
+  },
+  {
+    "name": "RGB/a5_s1_t3_color.avi",
+    "offset": 914484882,
+    "compressed_bytes": 1209771,
+    "bytes": 1322194,
+    "crc32": 3187668554
+  },
+  {
+    "name": "RGB/a5_s1_t4_color.avi",
+    "offset": 915694705,
+    "compressed_bytes": 1138675,
+    "bytes": 1248210,
+    "crc32": 368275875
+  },
+  {
+    "name": "RGB/a5_s2_t1_color.avi",
+    "offset": 916833432,
+    "compressed_bytes": 933468,
+    "bytes": 1036088,
+    "crc32": 3063371142
+  },
+  {
+    "name": "RGB/a5_s2_t2_color.avi",
+    "offset": 917766952,
+    "compressed_bytes": 987390,
+    "bytes": 1091760,
+    "crc32": 2779265451
+  },
+  {
+    "name": "RGB/a5_s2_t3_color.avi",
+    "offset": 918754394,
+    "compressed_bytes": 890158,
+    "bytes": 990214,
+    "crc32": 3709007575
+  },
+  {
+    "name": "RGB/a5_s2_t4_color.avi",
+    "offset": 919644604,
+    "compressed_bytes": 979809,
+    "bytes": 1086346,
+    "crc32": 314375060
+  },
+  {
+    "name": "RGB/a5_s3_t1_color.avi",
+    "offset": 920624465,
+    "compressed_bytes": 995877,
+    "bytes": 1102220,
+    "crc32": 3664076815
+  },
+  {
+    "name": "RGB/a5_s3_t2_color.avi",
+    "offset": 921620394,
+    "compressed_bytes": 1215800,
+    "bytes": 1330630,
+    "crc32": 2553841034
+  },
+  {
+    "name": "RGB/a5_s3_t3_color.avi",
+    "offset": 922836246,
+    "compressed_bytes": 971616,
+    "bytes": 1076818,
+    "crc32": 3271803266
+  },
+  {
+    "name": "RGB/a5_s3_t4_color.avi",
+    "offset": 923807914,
+    "compressed_bytes": 1142262,
+    "bytes": 1254182,
+    "crc32": 56694260
+  },
+  {
+    "name": "RGB/a5_s4_t1_color.avi",
+    "offset": 924950228,
+    "compressed_bytes": 910205,
+    "bytes": 1013558,
+    "crc32": 2518647709
+  },
+  {
+    "name": "RGB/a5_s4_t2_color.avi",
+    "offset": 925860485,
+    "compressed_bytes": 935831,
+    "bytes": 1040422,
+    "crc32": 160964011
+  },
+  {
+    "name": "RGB/a5_s4_t3_color.avi",
+    "offset": 926796368,
+    "compressed_bytes": 957071,
+    "bytes": 1062590,
+    "crc32": 856295730
+  },
+  {
+    "name": "RGB/a5_s4_t4_color.avi",
+    "offset": 927753491,
+    "compressed_bytes": 814675,
+    "bytes": 914052,
+    "crc32": 856586528
+  },
+  {
+    "name": "RGB/a5_s5_t1_color.avi",
+    "offset": 928568218,
+    "compressed_bytes": 1097119,
+    "bytes": 1205120,
+    "crc32": 1384354760
+  },
+  {
+    "name": "RGB/a5_s5_t2_color.avi",
+    "offset": 929665389,
+    "compressed_bytes": 1024915,
+    "bytes": 1129904,
+    "crc32": 2576963667
+  },
+  {
+    "name": "RGB/a5_s5_t3_color.avi",
+    "offset": 930690356,
+    "compressed_bytes": 1175309,
+    "bytes": 1285948,
+    "crc32": 3095054731
+  },
+  {
+    "name": "RGB/a5_s5_t4_color.avi",
+    "offset": 931865717,
+    "compressed_bytes": 1127049,
+    "bytes": 1235544,
+    "crc32": 744824742
+  },
+  {
+    "name": "RGB/a5_s6_t1_color.avi",
+    "offset": 932992818,
+    "compressed_bytes": 1362435,
+    "bytes": 1479528,
+    "crc32": 487637755
+  },
+  {
+    "name": "RGB/a5_s6_t2_color.avi",
+    "offset": 934355305,
+    "compressed_bytes": 1296238,
+    "bytes": 1410130,
+    "crc32": 3977383818
+  },
+  {
+    "name": "RGB/a5_s6_t3_color.avi",
+    "offset": 935651595,
+    "compressed_bytes": 1322293,
+    "bytes": 1437468,
+    "crc32": 1297679853
+  },
+  {
+    "name": "RGB/a5_s6_t4_color.avi",
+    "offset": 936973940,
+    "compressed_bytes": 1247084,
+    "bytes": 1358918,
+    "crc32": 2576210278
+  },
+  {
+    "name": "RGB/a5_s7_t1_color.avi",
+    "offset": 938221076,
+    "compressed_bytes": 1133504,
+    "bytes": 1243648,
+    "crc32": 3247236237
+  },
+  {
+    "name": "RGB/a5_s7_t2_color.avi",
+    "offset": 939354632,
+    "compressed_bytes": 1108994,
+    "bytes": 1217854,
+    "crc32": 220947121
+  },
+  {
+    "name": "RGB/a5_s7_t3_color.avi",
+    "offset": 940463678,
+    "compressed_bytes": 1385010,
+    "bytes": 1505548,
+    "crc32": 3841518508
+  },
+  {
+    "name": "RGB/a5_s7_t4_color.avi",
+    "offset": 941848740,
+    "compressed_bytes": 1232756,
+    "bytes": 1347426,
+    "crc32": 1527310211
+  },
+  {
+    "name": "RGB/a5_s8_t1_color.avi",
+    "offset": 943081548,
+    "compressed_bytes": 1215923,
+    "bytes": 1329104,
+    "crc32": 1579178615
+  },
+  {
+    "name": "RGB/a5_s8_t2_color.avi",
+    "offset": 944297523,
+    "compressed_bytes": 1116271,
+    "bytes": 1225386,
+    "crc32": 3198969552
+  },
+  {
+    "name": "RGB/a5_s8_t3_color.avi",
+    "offset": 945413846,
+    "compressed_bytes": 1064456,
+    "bytes": 1172344,
+    "crc32": 3849281066
+  },
+  {
+    "name": "RGB/a5_s8_t4_color.avi",
+    "offset": 946478354,
+    "compressed_bytes": 990182,
+    "bytes": 1094890,
+    "crc32": 3049240726
+  },
+  {
+    "name": "RGB/a6_s1_t1_color.avi",
+    "offset": 947468588,
+    "compressed_bytes": 1221800,
+    "bytes": 1338872,
+    "crc32": 1219544135
+  },
+  {
+    "name": "RGB/a6_s1_t2_color.avi",
+    "offset": 948690440,
+    "compressed_bytes": 1416513,
+    "bytes": 1543352,
+    "crc32": 2364761360
+  },
+  {
+    "name": "RGB/a6_s1_t3_color.avi",
+    "offset": 950107005,
+    "compressed_bytes": 1513148,
+    "bytes": 1644422,
+    "crc32": 2770339229
+  },
+  {
+    "name": "RGB/a6_s1_t4_color.avi",
+    "offset": 951620205,
+    "compressed_bytes": 1441286,
+    "bytes": 1569660,
+    "crc32": 3628410132
+  },
+  {
+    "name": "RGB/a6_s2_t1_color.avi",
+    "offset": 953061543,
+    "compressed_bytes": 1091066,
+    "bytes": 1200944,
+    "crc32": 1090233892
+  },
+  {
+    "name": "RGB/a6_s2_t2_color.avi",
+    "offset": 954152661,
+    "compressed_bytes": 920808,
+    "bytes": 1023304,
+    "crc32": 994004170
+  },
+  {
+    "name": "RGB/a6_s2_t3_color.avi",
+    "offset": 955073521,
+    "compressed_bytes": 1042320,
+    "bytes": 1150032,
+    "crc32": 775456089
+  },
+  {
+    "name": "RGB/a6_s2_t4_color.avi",
+    "offset": 956115893,
+    "compressed_bytes": 993877,
+    "bytes": 1099648,
+    "crc32": 674740951
+  },
+  {
+    "name": "RGB/a6_s3_t1_color.avi",
+    "offset": 957109822,
+    "compressed_bytes": 1088533,
+    "bytes": 1199048,
+    "crc32": 842142793
+  },
+  {
+    "name": "RGB/a6_s3_t2_color.avi",
+    "offset": 958198407,
+    "compressed_bytes": 1087047,
+    "bytes": 1197826,
+    "crc32": 3886641123
+  },
+  {
+    "name": "RGB/a6_s3_t3_color.avi",
+    "offset": 959285506,
+    "compressed_bytes": 1061509,
+    "bytes": 1171138,
+    "crc32": 3536057400
+  },
+  {
+    "name": "RGB/a6_s3_t4_color.avi",
+    "offset": 960347067,
+    "compressed_bytes": 1110618,
+    "bytes": 1221932,
+    "crc32": 3138935818
+  },
+  {
+    "name": "RGB/a6_s4_t1_color.avi",
+    "offset": 961457737,
+    "compressed_bytes": 1075598,
+    "bytes": 1186706,
+    "crc32": 1707781041
+  },
+  {
+    "name": "RGB/a6_s4_t2_color.avi",
+    "offset": 962533387,
+    "compressed_bytes": 979880,
+    "bytes": 1086842,
+    "crc32": 3166250951
+  },
+  {
+    "name": "RGB/a6_s4_t3_color.avi",
+    "offset": 963513319,
+    "compressed_bytes": 979782,
+    "bytes": 1086834,
+    "crc32": 633782341
+  },
+  {
+    "name": "RGB/a6_s4_t4_color.avi",
+    "offset": 964493153,
+    "compressed_bytes": 980008,
+    "bytes": 1086838,
+    "crc32": 933048761
+  },
+  {
+    "name": "RGB/a6_s5_t1_color.avi",
+    "offset": 965473213,
+    "compressed_bytes": 1394792,
+    "bytes": 1515876,
+    "crc32": 3933578338
+  },
+  {
+    "name": "RGB/a6_s5_t2_color.avi",
+    "offset": 966868057,
+    "compressed_bytes": 1394903,
+    "bytes": 1515494,
+    "crc32": 142629708
+  },
+  {
+    "name": "RGB/a6_s5_t3_color.avi",
+    "offset": 968263012,
+    "compressed_bytes": 1170957,
+    "bytes": 1282582,
+    "crc32": 1845501632
+  },
+  {
+    "name": "RGB/a6_s5_t4_color.avi",
+    "offset": 969434021,
+    "compressed_bytes": 1370058,
+    "bytes": 1490118,
+    "crc32": 1572255028
+  },
+  {
+    "name": "RGB/a6_s6_t1_color.avi",
+    "offset": 970804131,
+    "compressed_bytes": 1294613,
+    "bytes": 1411192,
+    "crc32": 234088837
+  },
+  {
+    "name": "RGB/a6_s6_t2_color.avi",
+    "offset": 972098796,
+    "compressed_bytes": 1394131,
+    "bytes": 1514472,
+    "crc32": 315871749
+  },
+  {
+    "name": "RGB/a6_s6_t3_color.avi",
+    "offset": 973492979,
+    "compressed_bytes": 1370923,
+    "bytes": 1490304,
+    "crc32": 2912741416
+  },
+  {
+    "name": "RGB/a6_s6_t4_color.avi",
+    "offset": 974863954,
+    "compressed_bytes": 1473923,
+    "bytes": 1597880,
+    "crc32": 2770240444
+  },
+  {
+    "name": "RGB/a6_s7_t1_color.avi",
+    "offset": 976337929,
+    "compressed_bytes": 1141980,
+    "bytes": 1253908,
+    "crc32": 2169586449
+  },
+  {
+    "name": "RGB/a6_s7_t2_color.avi",
+    "offset": 977479961,
+    "compressed_bytes": 1214069,
+    "bytes": 1329730,
+    "crc32": 2744122896
+  },
+  {
+    "name": "RGB/a6_s7_t3_color.avi",
+    "offset": 978694082,
+    "compressed_bytes": 1265244,
+    "bytes": 1382578,
+    "crc32": 815148811
+  },
+  {
+    "name": "RGB/a6_s7_t4_color.avi",
+    "offset": 979959378,
+    "compressed_bytes": 1352378,
+    "bytes": 1476762,
+    "crc32": 3328349355
+  },
+  {
+    "name": "RGB/a6_s8_t1_color.avi",
+    "offset": 981311808,
+    "compressed_bytes": 1237460,
+    "bytes": 1352298,
+    "crc32": 4041976844
+  },
+  {
+    "name": "RGB/a6_s8_t2_color.avi",
+    "offset": 982549320,
+    "compressed_bytes": 1312243,
+    "bytes": 1430568,
+    "crc32": 824330404
+  },
+  {
+    "name": "RGB/a6_s8_t3_color.avi",
+    "offset": 983861615,
+    "compressed_bytes": 957155,
+    "bytes": 1061238,
+    "crc32": 340639297
+  },
+  {
+    "name": "RGB/a6_s8_t4_color.avi",
+    "offset": 984818822,
+    "compressed_bytes": 1184718,
+    "bytes": 1297796,
+    "crc32": 466711510
+  },
+  {
+    "name": "RGB/a7_s1_t1_color.avi",
+    "offset": 986003592,
+    "compressed_bytes": 1154319,
+    "bytes": 1265840,
+    "crc32": 2467490660
+  },
+  {
+    "name": "RGB/a7_s1_t2_color.avi",
+    "offset": 987157963,
+    "compressed_bytes": 1209041,
+    "bytes": 1322836,
+    "crc32": 1688019003
+  },
+  {
+    "name": "RGB/a7_s1_t3_color.avi",
+    "offset": 988367056,
+    "compressed_bytes": 1134758,
+    "bytes": 1245614,
+    "crc32": 4265026650
+  },
+  {
+    "name": "RGB/a7_s1_t4_color.avi",
+    "offset": 989501866,
+    "compressed_bytes": 961178,
+    "bytes": 1065282,
+    "crc32": 3753023853
+  },
+  {
+    "name": "RGB/a7_s2_t1_color.avi",
+    "offset": 990463096,
+    "compressed_bytes": 1029183,
+    "bytes": 1136008,
+    "crc32": 2231250063
+  },
+  {
+    "name": "RGB/a7_s2_t2_color.avi",
+    "offset": 991492331,
+    "compressed_bytes": 1057787,
+    "bytes": 1165424,
+    "crc32": 1673199178
+  },
+  {
+    "name": "RGB/a7_s2_t3_color.avi",
+    "offset": 992550170,
+    "compressed_bytes": 1052528,
+    "bytes": 1161400,
+    "crc32": 2573636755
+  },
+  {
+    "name": "RGB/a7_s2_t4_color.avi",
+    "offset": 993602750,
+    "compressed_bytes": 997720,
+    "bytes": 1105992,
+    "crc32": 3007145915
+  },
+  {
+    "name": "RGB/a7_s3_t1_color.avi",
+    "offset": 994600522,
+    "compressed_bytes": 1108454,
+    "bytes": 1218652,
+    "crc32": 3256612515
+  },
+  {
+    "name": "RGB/a7_s3_t2_color.avi",
+    "offset": 995709028,
+    "compressed_bytes": 1085995,
+    "bytes": 1196116,
+    "crc32": 3166614247
+  },
+  {
+    "name": "RGB/a7_s3_t3_color.avi",
+    "offset": 996795075,
+    "compressed_bytes": 1109461,
+    "bytes": 1219848,
+    "crc32": 2051627838
+  },
+  {
+    "name": "RGB/a7_s3_t4_color.avi",
+    "offset": 997904588,
+    "compressed_bytes": 1131990,
+    "bytes": 1244074,
+    "crc32": 486232645
+  },
+  {
+    "name": "RGB/a7_s4_t1_color.avi",
+    "offset": 999036630,
+    "compressed_bytes": 918308,
+    "bytes": 1021380,
+    "crc32": 3533415246
+  },
+  {
+    "name": "RGB/a7_s4_t2_color.avi",
+    "offset": 999954990,
+    "compressed_bytes": 918499,
+    "bytes": 1021740,
+    "crc32": 3187813025
+  },
+  {
+    "name": "RGB/a7_s4_t3_color.avi",
+    "offset": 1000873541,
+    "compressed_bytes": 965418,
+    "bytes": 1070420,
+    "crc32": 3541019725
+  },
+  {
+    "name": "RGB/a7_s4_t4_color.avi",
+    "offset": 1001839011,
+    "compressed_bytes": 868782,
+    "bytes": 969788,
+    "crc32": 3795182699
+  },
+  {
+    "name": "RGB/a7_s5_t1_color.avi",
+    "offset": 1002707845,
+    "compressed_bytes": 1122934,
+    "bytes": 1231802,
+    "crc32": 3034635543
+  },
+  {
+    "name": "RGB/a7_s5_t2_color.avi",
+    "offset": 1003830831,
+    "compressed_bytes": 1149232,
+    "bytes": 1260194,
+    "crc32": 1249259979
+  },
+  {
+    "name": "RGB/a7_s5_t3_color.avi",
+    "offset": 1004980115,
+    "compressed_bytes": 1290944,
+    "bytes": 1410894,
+    "crc32": 312117322
+  },
+  {
+    "name": "RGB/a7_s5_t4_color.avi",
+    "offset": 1006271111,
+    "compressed_bytes": 1292027,
+    "bytes": 1411082,
+    "crc32": 1855523072
+  },
+  {
+    "name": "RGB/a7_s6_t1_color.avi",
+    "offset": 1007563190,
+    "compressed_bytes": 1205549,
+    "bytes": 1317406,
+    "crc32": 4089661515
+  },
+  {
+    "name": "RGB/a7_s6_t2_color.avi",
+    "offset": 1008768791,
+    "compressed_bytes": 1182321,
+    "bytes": 1292960,
+    "crc32": 4165688905
+  },
+  {
+    "name": "RGB/a7_s6_t3_color.avi",
+    "offset": 1009951164,
+    "compressed_bytes": 1155493,
+    "bytes": 1265244,
+    "crc32": 3497843901
+  },
+  {
+    "name": "RGB/a7_s6_t4_color.avi",
+    "offset": 1011106709,
+    "compressed_bytes": 1079696,
+    "bytes": 1187170,
+    "crc32": 1552594623
+  },
+  {
+    "name": "RGB/a7_s7_t1_color.avi",
+    "offset": 1012186457,
+    "compressed_bytes": 1333516,
+    "bytes": 1452372,
+    "crc32": 1957275112
+  },
+  {
+    "name": "RGB/a7_s7_t2_color.avi",
+    "offset": 1013520025,
+    "compressed_bytes": 1409968,
+    "bytes": 1531960,
+    "crc32": 2797546257
+  },
+  {
+    "name": "RGB/a7_s7_t3_color.avi",
+    "offset": 1014930045,
+    "compressed_bytes": 1560926,
+    "bytes": 1689054,
+    "crc32": 2772534438
+  },
+  {
+    "name": "RGB/a7_s7_t4_color.avi",
+    "offset": 1016491023,
+    "compressed_bytes": 1460966,
+    "bytes": 1584504,
+    "crc32": 874411306
+  },
+  {
+    "name": "RGB/a7_s8_t1_color.avi",
+    "offset": 1017952041,
+    "compressed_bytes": 1237257,
+    "bytes": 1351488,
+    "crc32": 3378959295
+  },
+  {
+    "name": "RGB/a7_s8_t2_color.avi",
+    "offset": 1019189350,
+    "compressed_bytes": 1214374,
+    "bytes": 1327400,
+    "crc32": 2642766614
+  },
+  {
+    "name": "RGB/a7_s8_t3_color.avi",
+    "offset": 1020403776,
+    "compressed_bytes": 1089324,
+    "bytes": 1197960,
+    "crc32": 3069001145
+  },
+  {
+    "name": "RGB/a7_s8_t4_color.avi",
+    "offset": 1021493152,
+    "compressed_bytes": 1139309,
+    "bytes": 1249050,
+    "crc32": 477903888
+  },
+  {
+    "name": "RGB/a8_s1_t1_color.avi",
+    "offset": 1022632513,
+    "compressed_bytes": 1056217,
+    "bytes": 1164906,
+    "crc32": 401399849
+  },
+  {
+    "name": "RGB/a8_s1_t2_color.avi",
+    "offset": 1023688782,
+    "compressed_bytes": 1106345,
+    "bytes": 1215948,
+    "crc32": 143535238
+  },
+  {
+    "name": "RGB/a8_s1_t3_color.avi",
+    "offset": 1024795179,
+    "compressed_bytes": 1158685,
+    "bytes": 1270730,
+    "crc32": 32978926
+  },
+  {
+    "name": "RGB/a8_s2_t1_color.avi",
+    "offset": 1025953916,
+    "compressed_bytes": 1260257,
+    "bytes": 1381240,
+    "crc32": 2182723203
+  },
+  {
+    "name": "RGB/a8_s2_t2_color.avi",
+    "offset": 1027214225,
+    "compressed_bytes": 1189214,
+    "bytes": 1306504,
+    "crc32": 4178585294
+  },
+  {
+    "name": "RGB/a8_s2_t3_color.avi",
+    "offset": 1028403491,
+    "compressed_bytes": 1117512,
+    "bytes": 1232054,
+    "crc32": 411306392
+  },
+  {
+    "name": "RGB/a8_s2_t4_color.avi",
+    "offset": 1029521055,
+    "compressed_bytes": 1213353,
+    "bytes": 1332222,
+    "crc32": 1756018888
+  },
+  {
+    "name": "RGB/a8_s3_t1_color.avi",
+    "offset": 1030734460,
+    "compressed_bytes": 1046767,
+    "bytes": 1154814,
+    "crc32": 300384056
+  },
+  {
+    "name": "RGB/a8_s3_t2_color.avi",
+    "offset": 1031781279,
+    "compressed_bytes": 1095147,
+    "bytes": 1205232,
+    "crc32": 851133630
+  },
+  {
+    "name": "RGB/a8_s3_t3_color.avi",
+    "offset": 1032876478,
+    "compressed_bytes": 974261,
+    "bytes": 1079212,
+    "crc32": 4152035527
+  },
+  {
+    "name": "RGB/a8_s3_t4_color.avi",
+    "offset": 1033850791,
+    "compressed_bytes": 1169317,
+    "bytes": 1281714,
+    "crc32": 357333812
+  },
+  {
+    "name": "RGB/a8_s4_t1_color.avi",
+    "offset": 1035020160,
+    "compressed_bytes": 1109674,
+    "bytes": 1220268,
+    "crc32": 3423282799
+  },
+  {
+    "name": "RGB/a8_s4_t2_color.avi",
+    "offset": 1036129886,
+    "compressed_bytes": 1204217,
+    "bytes": 1319180,
+    "crc32": 3150515780
+  },
+  {
+    "name": "RGB/a8_s4_t3_color.avi",
+    "offset": 1037334155,
+    "compressed_bytes": 1108750,
+    "bytes": 1219578,
+    "crc32": 3183613801
+  },
+  {
+    "name": "RGB/a8_s4_t4_color.avi",
+    "offset": 1038442957,
+    "compressed_bytes": 1131861,
+    "bytes": 1243694,
+    "crc32": 4094540258
+  },
+  {
+    "name": "RGB/a8_s5_t1_color.avi",
+    "offset": 1039574870,
+    "compressed_bytes": 1274533,
+    "bytes": 1389628,
+    "crc32": 4172290758
+  },
+  {
+    "name": "RGB/a8_s5_t2_color.avi",
+    "offset": 1040849455,
+    "compressed_bytes": 1123169,
+    "bytes": 1232172,
+    "crc32": 329188365
+  },
+  {
+    "name": "RGB/a8_s5_t3_color.avi",
+    "offset": 1041972676,
+    "compressed_bytes": 1048909,
+    "bytes": 1155408,
+    "crc32": 658918973
+  },
+  {
+    "name": "RGB/a8_s5_t4_color.avi",
+    "offset": 1043021637,
+    "compressed_bytes": 1197201,
+    "bytes": 1309354,
+    "crc32": 2658850800
+  },
+  {
+    "name": "RGB/a8_s6_t1_color.avi",
+    "offset": 1044218890,
+    "compressed_bytes": 1534272,
+    "bytes": 1659278,
+    "crc32": 3270236223
+  },
+  {
+    "name": "RGB/a8_s6_t2_color.avi",
+    "offset": 1045753214,
+    "compressed_bytes": 1611918,
+    "bytes": 1739942,
+    "crc32": 838816269
+  },
+  {
+    "name": "RGB/a8_s6_t3_color.avi",
+    "offset": 1047365184,
+    "compressed_bytes": 1488822,
+    "bytes": 1611354,
+    "crc32": 2075745475
+  },
+  {
+    "name": "RGB/a8_s6_t4_color.avi",
+    "offset": 1048854058,
+    "compressed_bytes": 1261154,
+    "bytes": 1374680,
+    "crc32": 1975747727
+  },
+  {
+    "name": "RGB/a8_s7_t1_color.avi",
+    "offset": 1050115264,
+    "compressed_bytes": 1256911,
+    "bytes": 1372032,
+    "crc32": 2958197459
+  },
+  {
+    "name": "RGB/a8_s7_t2_color.avi",
+    "offset": 1051372227,
+    "compressed_bytes": 1202149,
+    "bytes": 1318096,
+    "crc32": 3857738495
+  },
+  {
+    "name": "RGB/a8_s7_t3_color.avi",
+    "offset": 1052574428,
+    "compressed_bytes": 1278486,
+    "bytes": 1398796,
+    "crc32": 3814427221
+  },
+  {
+    "name": "RGB/a8_s7_t4_color.avi",
+    "offset": 1053852966,
+    "compressed_bytes": 1307339,
+    "bytes": 1425710,
+    "crc32": 3214592862
+  },
+  {
+    "name": "RGB/a8_s8_t1_color.avi",
+    "offset": 1055160357,
+    "compressed_bytes": 1421130,
+    "bytes": 1542444,
+    "crc32": 2114815176
+  },
+  {
+    "name": "RGB/a8_s8_t2_color.avi",
+    "offset": 1056581539,
+    "compressed_bytes": 1412690,
+    "bytes": 1536830,
+    "crc32": 249316715
+  },
+  {
+    "name": "RGB/a8_s8_t3_color.avi",
+    "offset": 1057994281,
+    "compressed_bytes": 1357427,
+    "bytes": 1480556,
+    "crc32": 2778830458
+  },
+  {
+    "name": "RGB/a8_s8_t4_color.avi",
+    "offset": 1059351760,
+    "compressed_bytes": 1332045,
+    "bytes": 1454116,
+    "crc32": 2886132864
+  },
+  {
+    "name": "RGB/a9_s1_t1_color.avi",
+    "offset": 1060683857,
+    "compressed_bytes": 1464927,
+    "bytes": 1590742,
+    "crc32": 3981934791
+  },
+  {
+    "name": "RGB/a9_s1_t2_color.avi",
+    "offset": 1062148836,
+    "compressed_bytes": 1343082,
+    "bytes": 1463702,
+    "crc32": 3035999036
+  },
+  {
+    "name": "RGB/a9_s1_t3_color.avi",
+    "offset": 1063491970,
+    "compressed_bytes": 1343982,
+    "bytes": 1464198,
+    "crc32": 2129027364
+  },
+  {
+    "name": "RGB/a9_s1_t4_color.avi",
+    "offset": 1064836004,
+    "compressed_bytes": 1196338,
+    "bytes": 1310816,
+    "crc32": 656493569
+  },
+  {
+    "name": "RGB/a9_s2_t1_color.avi",
+    "offset": 1066032394,
+    "compressed_bytes": 1362382,
+    "bytes": 1482956,
+    "crc32": 576453470
+  },
+  {
+    "name": "RGB/a9_s2_t2_color.avi",
+    "offset": 1067394828,
+    "compressed_bytes": 1383216,
+    "bytes": 1505306,
+    "crc32": 2937938081
+  },
+  {
+    "name": "RGB/a9_s2_t3_color.avi",
+    "offset": 1068778096,
+    "compressed_bytes": 1263398,
+    "bytes": 1379756,
+    "crc32": 3080926565
+  },
+  {
+    "name": "RGB/a9_s2_t4_color.avi",
+    "offset": 1070041546,
+    "compressed_bytes": 1262369,
+    "bytes": 1378750,
+    "crc32": 2547115884
+  },
+  {
+    "name": "RGB/a9_s3_t1_color.avi",
+    "offset": 1071303967,
+    "compressed_bytes": 1432053,
+    "bytes": 1556312,
+    "crc32": 2381906103
+  },
+  {
+    "name": "RGB/a9_s3_t2_color.avi",
+    "offset": 1072736072,
+    "compressed_bytes": 1484158,
+    "bytes": 1610628,
+    "crc32": 238611347
+  },
+  {
+    "name": "RGB/a9_s3_t3_color.avi",
+    "offset": 1074220282,
+    "compressed_bytes": 1481868,
+    "bytes": 1608434,
+    "crc32": 669110657
+  },
+  {
+    "name": "RGB/a9_s3_t4_color.avi",
+    "offset": 1075702202,
+    "compressed_bytes": 1554334,
+    "bytes": 1683802,
+    "crc32": 2601506577
+  },
+  {
+    "name": "RGB/a9_s4_t1_color.avi",
+    "offset": 1077256588,
+    "compressed_bytes": 1422028,
+    "bytes": 1546284,
+    "crc32": 3251719634
+  },
+  {
+    "name": "RGB/a9_s4_t2_color.avi",
+    "offset": 1078678668,
+    "compressed_bytes": 1301284,
+    "bytes": 1419996,
+    "crc32": 2955500459
+  },
+  {
+    "name": "RGB/a9_s4_t3_color.avi",
+    "offset": 1079980004,
+    "compressed_bytes": 1251207,
+    "bytes": 1368290,
+    "crc32": 874661562
+  },
+  {
+    "name": "RGB/a9_s4_t4_color.avi",
+    "offset": 1081231263,
+    "compressed_bytes": 1324179,
+    "bytes": 1443954,
+    "crc32": 3636667667
+  },
+  {
+    "name": "RGB/a9_s5_t1_color.avi",
+    "offset": 1082555494,
+    "compressed_bytes": 1439001,
+    "bytes": 1561992,
+    "crc32": 305155163
+  },
+  {
+    "name": "RGB/a9_s5_t2_color.avi",
+    "offset": 1083994547,
+    "compressed_bytes": 1417320,
+    "bytes": 1539438,
+    "crc32": 940455488
+  },
+  {
+    "name": "RGB/a9_s5_t3_color.avi",
+    "offset": 1085411919,
+    "compressed_bytes": 1617195,
+    "bytes": 1747142,
+    "crc32": 253199915
+  },
+  {
+    "name": "RGB/a9_s5_t4_color.avi",
+    "offset": 1087029166,
+    "compressed_bytes": 1591126,
+    "bytes": 1720498,
+    "crc32": 2900028614
+  },
+  {
+    "name": "RGB/a9_s6_t1_color.avi",
+    "offset": 1088620344,
+    "compressed_bytes": 1775073,
+    "bytes": 1910196,
+    "crc32": 4116288014
+  },
+  {
+    "name": "RGB/a9_s6_t2_color.avi",
+    "offset": 1090395469,
+    "compressed_bytes": 1741677,
+    "bytes": 1874856,
+    "crc32": 1416496925
+  },
+  {
+    "name": "RGB/a9_s6_t3_color.avi",
+    "offset": 1092137198,
+    "compressed_bytes": 1837829,
+    "bytes": 1975356,
+    "crc32": 2753156269
+  },
+  {
+    "name": "RGB/a9_s6_t4_color.avi",
+    "offset": 1093975079,
+    "compressed_bytes": 1764795,
+    "bytes": 1903480,
+    "crc32": 6922953
+  },
+  {
+    "name": "RGB/a9_s7_t1_color.avi",
+    "offset": 1095739926,
+    "compressed_bytes": 1455019,
+    "bytes": 1579082,
+    "crc32": 2648405386
+  },
+  {
+    "name": "RGB/a9_s7_t2_color.avi",
+    "offset": 1097194997,
+    "compressed_bytes": 1583551,
+    "bytes": 1712866,
+    "crc32": 318702328
+  },
+  {
+    "name": "RGB/a9_s7_t3_color.avi",
+    "offset": 1098778600,
+    "compressed_bytes": 1357221,
+    "bytes": 1476832,
+    "crc32": 274950366
+  },
+  {
+    "name": "RGB/a9_s7_t4_color.avi",
+    "offset": 1100135873,
+    "compressed_bytes": 1457653,
+    "bytes": 1581546,
+    "crc32": 2277757857
+  },
+  {
+    "name": "RGB/a9_s8_t1_color.avi",
+    "offset": 1101593578,
+    "compressed_bytes": 1320683,
+    "bytes": 1437306,
+    "crc32": 1243179315
+  },
+  {
+    "name": "RGB/a9_s8_t2_color.avi",
+    "offset": 1102914313,
+    "compressed_bytes": 1325334,
+    "bytes": 1441922,
+    "crc32": 2854169967
+  },
+  {
+    "name": "RGB/a9_s8_t3_color.avi",
+    "offset": 1104239699,
+    "compressed_bytes": 1319748,
+    "bytes": 1437802,
+    "crc32": 4169289465
+  },
+  {
+    "name": "RGB/a9_s8_t4_color.avi",
+    "offset": 1105559499,
+    "compressed_bytes": 1235722,
+    "bytes": 1353340,
+    "crc32": 594120397
+  }
+]

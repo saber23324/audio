@@ -1,0 +1,5 @@
+{
+  "git_commit": "016e6b483768a5918cdec55c40de156014f9d3ff",
+  "git_diff_stat": "",
+  "git_status": "?? .gitignore\n?? .gitmodules\n?? .vscode/\n?? AGENTS_IMU_AS_IMAGE_CAUSAL_GATE_ROUTER_NEXT_PHASE.md\n?? artifacts/\n?? tests/test_imu_visual_contract.py\n?? utility_gate/imu_visual/\n"
+}

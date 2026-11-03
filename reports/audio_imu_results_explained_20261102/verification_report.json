@@ -1,0 +1,118 @@
+{
+  "audit_date": "2026-11-02",
+  "status": "complete_with_disclosed_historical_metadata_issue",
+  "new_training_runs": 0,
+  "new_model_inference_runs": 0,
+  "checkpoint_mutations": 0,
+  "completeness": {
+    "README.md": true,
+    "audio_results.md": true,
+    "imu_results.md": true,
+    "metric_dictionary.md": true,
+    "strategy_name_mapping.csv": true,
+    "evidence_index.csv": true,
+    "architecture_audio_imu.md": true
+  },
+  "primary_aggregate_groups": 421,
+  "primary_stored_paired_contrasts": 942,
+  "imu_paid_records": 9724,
+  "imu_paid_policies_per_role": 44,
+  "strategy_mapping_rows": 209,
+  "mapping_missing_chinese_names": [],
+  "checks": {
+    "total": 175808,
+    "passed": 175807,
+    "failed_metadata_semantics": 1,
+    "unexpected_failed": 0,
+    "unexpected_failures": [],
+    "all_kinds": {
+      "score_rule": 121978,
+      "aggregate": 2828,
+      "paired_key_set": 1998,
+      "paired_metric": 3608,
+      "three_random_seeds": 6209,
+      "training_steps": 7,
+      "frozen_gradient_log": 7,
+      "selected_checkpoint_sha": 12,
+      "gate_update_count": 4,
+      "paid_score_rule": 9724,
+      "paid_window_counts": 9282,
+      "paid_token_budget": 9282,
+      "paid_extra_encodes": 9282,
+      "paid_summary": 408,
+      "cost_saving_formula": 4,
+      "VGG_spatial_mean": 63,
+      "LLP_AUROC": 12,
+      "LLP_AUPRC": 12,
+      "proxy_QA_accuracy": 13,
+      "proxy_QA_NLL": 13,
+      "trace_window_denominator": 97,
+      "trace_ON_numerator": 97,
+      "trace_causality_and_conditional_calls": 3,
+      "timing_sample_size": 7,
+      "timing_recompute": 79,
+      "complete_16_utility": 666,
+      "utility_train_val_counts": 1,
+      "frozen_baseline_summary": 24,
+      "historical_gate2_correct": 12,
+      "historical_64_accuracy": 18,
+      "historical_197_accuracy": 27,
+      "historical_197_NLL": 27,
+      "source_input_sha_unchanged": 3,
+      "all_local_links_exist": 1
+    }
+  },
+  "disclosed_historical_metadata_discrepancy": [
+    {
+      "kind": "trace_causality_and_conditional_calls",
+      "passed": false,
+      "stage": "gatefirst",
+      "violations": {
+        "extra_encode_OFF": 1379
+      },
+      "classification": "historical_metadata_semantics_not_physical_extra_call",
+      "interpretation": "C_DEPLOY在1379个OFF窗只用1图，但旧actual_second_encoder_called=bool(native or ese>0)恒真；按native_image_count和源码识别。旧字段原样保留。"
+    }
+  ],
+  "source_asset_protection": {
+    "scope": "本轮实际读取的原始预测、配置、日志、源码及选定小模型checkpoint；读取前与报告完成前逐文件SHA256比较；不等同重新核验全部7B权重分片或未读媒体",
+    "files": 10988,
+    "changed": [],
+    "missing": [],
+    "old_experiment_writes": 0,
+    "new_files_only_under": "reports/audio_imu_results_explained_20261102"
+  },
+  "statistical_scope": {
+    "Audio": "按同一来源聚类，通常2000次bootstrap、seed1234；各队列独立，不合算排名",
+    "IMU": "55QA/7录制/4保守录制家族；10000次家族bootstrap；参与者未知；功效有限",
+    "random_means": "同QA三个seed的平均，非额外独立样本",
+    "CIs_not_created": "本轮只引用原有CI，未伪造未存区间"
+  },
+  "missing_or_not_reverified": [
+    "旧Stage3历史实际活跃训练参数与旧checkpoint最优选择未核验；元数据无optimizer状态",
+    "最早UTD/Holo零样本聚合仅引用，未重复跑模型／未全量重算逐题",
+    "旧Gate2 FullVision256/随机/能量及109空间/617点时序附录聚合明确未逐题重验",
+    "LLP六模型有30轮历史及选定轮，逐optimizer更新计数未保存，未补推",
+    "7B冻结主干参数量来自已有运行审计，本轮未加载主干重新核数／未重新hash全部大分片",
+    "原生、部分cap等策略主聚合未存每项CI；明确留空，不补造",
+    "LLP代理阶段same_stage3_null_audio实际直接置零causal_audio特征；与主MUSIC/Valor及VGG-SS零波形经BEATs的null不同，报告已分别解释",
+    "未测能耗，未包含网络、冷加载、物理采集等待；不可跨阶段排名延迟"
+  ],
+  "comparison_integrity": {
+    "separate_confirmation_cohorts": true,
+    "sensor_specific_vs_task_adaptation_separated": true,
+    "Oracle_and_proxy_separate_from_QA": true,
+    "Audio_B8_inference_intervention_not_DUP_training": true,
+    "IMU_DUP_ZERO_independently_trained": true,
+    "same_IMU_Accuracy_Cost_Gate_named_explicitly": true
+  },
+  "broken_links": [],
+  "scripts": [
+    "audit_tools/audit.py",
+    "audit_tools/supplement.py",
+    "audit_tools/render_report.py",
+    "audit_tools/architecture.py",
+    "audit_tools/enrich.py",
+    "audit_tools/finalize.py"
+  ]
+}

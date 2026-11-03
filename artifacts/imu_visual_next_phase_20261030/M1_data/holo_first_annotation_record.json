@@ -1,0 +1,2862 @@
+{
+  "batch": "202301_2221_10fps",
+  "videoMetadata": {
+    "audio": {
+      "codec": "aac",
+      "bitrate": "70",
+      "sample_rate": 48000,
+      "stream": 0,
+      "channels": {
+        "raw": "mono",
+        "value": 1
+      }
+    },
+    "video": {
+      "container": "mov",
+      "bitrate": 2257,
+      "stream": 0,
+      "codec": "h264",
+      "resolution": {
+        "w": 896,
+        "h": 504
+      },
+      "resolutionSquare": {
+        "w": 896,
+        "h": 504
+      },
+      "aspect": {
+        "x": 16,
+        "y": 9,
+        "string": "16:9",
+        "value": 1.7777777777777777
+      },
+      "rotate": 0,
+      "fps": 24.46,
+      "pixelString": "1:1",
+      "pixel": 1
+    },
+    "duration": {
+      "raw": "00:06:46.21",
+      "seconds": 406
+    }
+  },
+  "events": [
+    {
+      "id": 1,
+      "label": "Narration",
+      "start": 0.002,
+      "type": "range",
+      "attributes": {
+        "Long form description": "The student grabs the GoPro from the packaging and holds it in his hands with a little difficulty, grabs the camera and opens it, and just touches the battery, holds the GoPro in his hands for a few minutes, then removes the battery and the SD card, placing them on the table, inserts the battery and turns on the GoPro, and turns it off, take the lock screw and inserts it, removes it, places the stick, puts the lock screw, removes it and finally places it on the table."
+      },
+      "end": 406.135
+    },
+    {
+      "id": 116,
+      "label": "Conversation",
+      "start": 7.451,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "*unintelligible*",
+        "Transcription Confidence": "low-confidence-transcription",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 8.872
+    },
+    {
+      "id": 117,
+      "label": "Conversation",
+      "start": 9.392,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "Huh?",
+        "Transcription Confidence": "none",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 9.902
+    },
+    {
+      "id": 3,
+      "label": "Coarse grained action",
+      "start": 10.975,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student grabs the GoPro.",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "gopro"
+      },
+      "end": 28.21
+    },
+    {
+      "id": 119,
+      "label": "Fine grained action",
+      "start": 11.01,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "approach",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 12.21
+    },
+    {
+      "id": 4,
+      "label": "Fine grained action",
+      "start": 12.224,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "touch",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 16.1
+    },
+    {
+      "id": 118,
+      "label": "Conversation",
+      "start": 13.294,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_opening remarks",
+        "sequence": "nn none",
+        "Transcription": "Okay.",
+        "Transcription Confidence": "none"
+      },
+      "end": 14.01
+    },
+    {
+      "id": 5,
+      "label": "Conversation",
+      "start": 14.2,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "You can pull the GoPro.",
+        "Transcription Confidence": "none"
+      },
+      "end": 15.967
+    },
+    {
+      "id": 120,
+      "label": "Conversation",
+      "start": 16.598,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "student-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "GoPro.",
+        "Transcription Confidence": "none",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 17.167
+    },
+    {
+      "id": 6,
+      "label": "Fine grained action",
+      "start": 17,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 22.175
+    },
+    {
+      "id": 7,
+      "label": "Fine grained action",
+      "start": 22.2,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "flip",
+        "Adjective": "none",
+        "Noun": "bag",
+        "adverbial": "none"
+      },
+      "end": 23.518
+    },
+    {
+      "id": 121,
+      "label": "Fine grained action",
+      "start": 23.539,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 25.667
+    },
+    {
+      "id": 122,
+      "label": "Fine grained action",
+      "start": 25.696,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 28.039
+    },
+    {
+      "id": 8,
+      "label": "Conversation",
+      "start": 29.4,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Change the Battery.",
+        "Transcription Confidence": "none"
+      },
+      "end": 31.024
+    },
+    {
+      "id": 9,
+      "label": "Coarse grained action",
+      "start": 29.914,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student changes the battery for the GoPro.",
+        "Verb": "exchange",
+        "Adjective": "none",
+        "Noun": "battery"
+      },
+      "end": 66.202
+    },
+    {
+      "id": 10,
+      "label": "Fine grained action",
+      "start": 29.994,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 38.771
+    },
+    {
+      "id": 11,
+      "label": "Fine grained action",
+      "start": 34.249,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "pull",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "right hand"
+      },
+      "end": 40.985
+    },
+    {
+      "id": 12,
+      "label": "Fine grained action",
+      "start": 41.022,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "right hand"
+      },
+      "end": 42.349
+    },
+    {
+      "id": 123,
+      "label": "Fine grained action",
+      "start": 41.843,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "left hand"
+      },
+      "end": 43.457
+    },
+    {
+      "id": 124,
+      "label": "Fine grained action",
+      "start": 43.486,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 45.041
+    },
+    {
+      "id": 13,
+      "label": "Conversation",
+      "start": 44.584,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Take out the battery.",
+        "Transcription Confidence": "none"
+      },
+      "end": 46.6
+    },
+    {
+      "id": 14,
+      "label": "Fine grained action",
+      "start": 45.063,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 46.069
+    },
+    {
+      "id": 126,
+      "label": "Fine grained action",
+      "start": 46.078,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 47.44
+    },
+    {
+      "id": 125,
+      "label": "Fine grained action",
+      "start": 47.461,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 49.627
+    },
+    {
+      "id": 15,
+      "label": "Conversation",
+      "start": 48.204,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Now, put it down",
+        "Transcription Confidence": "none"
+      },
+      "end": 49.3
+    },
+    {
+      "id": 16,
+      "label": "Fine grained action",
+      "start": 49.743,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "lift",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 50.92
+    },
+    {
+      "id": 127,
+      "label": "Fine grained action",
+      "start": 50.931,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 51.657
+    },
+    {
+      "id": 128,
+      "label": "Fine grained action",
+      "start": 51.676,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "inspect",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 52.941
+    },
+    {
+      "id": 129,
+      "label": "Fine grained action",
+      "start": 52.96,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 56.039
+    },
+    {
+      "id": 18,
+      "label": "Conversation",
+      "start": 58.2,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Close it.",
+        "Transcription Confidence": "none"
+      },
+      "end": 59.4
+    },
+    {
+      "id": 17,
+      "label": "Fine grained action",
+      "start": 59.808,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 60.994
+    },
+    {
+      "id": 19,
+      "label": "Fine grained action",
+      "start": 61.002,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 62.202
+    },
+    {
+      "id": 130,
+      "label": "Fine grained action",
+      "start": 62.225,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "push",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 63.451
+    },
+    {
+      "id": 131,
+      "label": "Fine grained action",
+      "start": 63.48,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 66.206
+    },
+    {
+      "id": 20,
+      "label": "Conversation",
+      "start": 65.749,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Now change the micro SD.",
+        "Transcription Confidence": "none"
+      },
+      "end": 68.343
+    },
+    {
+      "id": 21,
+      "label": "Coarse grained action",
+      "start": 68.379,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student opens the GoPro.",
+        "Verb": "exchange",
+        "Adjective": "none",
+        "Noun": "sd_card"
+      },
+      "end": 304.325
+    },
+    {
+      "id": 22,
+      "label": "Fine grained action",
+      "start": 68.583,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 70.802
+    },
+    {
+      "id": 132,
+      "label": "Fine grained action",
+      "start": 70.824,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 72.656
+    },
+    {
+      "id": 133,
+      "label": "Fine grained action",
+      "start": 72.676,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "The student presses the wrong place.",
+        "Incorrect Action Corrected by": "23",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 73.853
+    },
+    {
+      "id": 23,
+      "label": "Conversation",
+      "start": 73.1,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_correct the wrong action",
+        "sequence": "133",
+        "Transcription": "No that one.",
+        "Transcription Confidence": "none"
+      },
+      "end": 74.8
+    },
+    {
+      "id": 134,
+      "label": "Conversation",
+      "start": 75.284,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Close it.",
+        "Transcription Confidence": "none"
+      },
+      "end": 75.853
+    },
+    {
+      "id": 135,
+      "label": "Fine grained action",
+      "start": 75.941,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 77.236
+    },
+    {
+      "id": 24,
+      "label": "Fine grained action",
+      "start": 77.257,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 80.498
+    },
+    {
+      "id": 26,
+      "label": "Fine grained action",
+      "start": 80.512,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 84.712
+    },
+    {
+      "id": 27,
+      "label": "Conversation",
+      "start": 81.2,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "And press that.",
+        "Transcription Confidence": "none"
+      },
+      "end": 82.3
+    },
+    {
+      "id": 29,
+      "label": "Fine grained action",
+      "start": 84.729,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 95.692
+    },
+    {
+      "id": 30,
+      "label": "Conversation",
+      "start": 93.237,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "That's the idea, go.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 96
+    },
+    {
+      "id": 136,
+      "label": "Fine grained action",
+      "start": 95.706,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 98.706
+    },
+    {
+      "id": 32,
+      "label": "Conversation",
+      "start": 98.2,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "The one under down.",
+        "Transcription Confidence": "none"
+      },
+      "end": 99.827
+    },
+    {
+      "id": 31,
+      "label": "Fine grained action",
+      "start": 98.727,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 100.52
+    },
+    {
+      "id": 33,
+      "label": "Fine grained action",
+      "start": 100.552,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 102.637
+    },
+    {
+      "id": 137,
+      "label": "Fine grained action",
+      "start": 102.647,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 104.488
+    },
+    {
+      "id": 139,
+      "label": "Fine grained action",
+      "start": 104.52,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "left hand"
+      },
+      "end": 117.824
+    },
+    {
+      "id": 34,
+      "label": "Fine grained action",
+      "start": 106.083,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "right hand"
+      },
+      "end": 108.165
+    },
+    {
+      "id": 138,
+      "label": "Fine grained action",
+      "start": 109.52,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "right hand"
+      },
+      "end": 111.472
+    },
+    {
+      "id": 37,
+      "label": "Fine grained action",
+      "start": 117.855,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 118.792
+    },
+    {
+      "id": 38,
+      "label": "Fine grained action",
+      "start": 118.818,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 126.116
+    },
+    {
+      "id": 140,
+      "label": "Conversation",
+      "start": 122.951,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "*unintelligible* it.",
+        "Transcription Confidence": "low-confidence-transcription",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 124.069
+    },
+    {
+      "id": 141,
+      "label": "Fine grained action",
+      "start": 126.137,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 131.529
+    },
+    {
+      "id": 39,
+      "label": "Fine grained action",
+      "start": 131.551,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 134.27
+    },
+    {
+      "id": 40,
+      "label": "Fine grained action",
+      "start": 134.3,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 141.459
+    },
+    {
+      "id": 41,
+      "label": "Fine grained action",
+      "start": 141.474,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 142.829
+    },
+    {
+      "id": 142,
+      "label": "Fine grained action",
+      "start": 142.853,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 147.284
+    },
+    {
+      "id": 42,
+      "label": "Fine grained action",
+      "start": 147.296,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 155.655
+    },
+    {
+      "id": 44,
+      "label": "Fine grained action",
+      "start": 155.69,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "flip",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 156.494
+    },
+    {
+      "id": 46,
+      "label": "Fine grained action",
+      "start": 156.512,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 165.847
+    },
+    {
+      "id": 45,
+      "label": "Conversation",
+      "start": 157.1,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Is on the bottom.",
+        "Transcription Confidence": "none"
+      },
+      "end": 158.4
+    },
+    {
+      "id": 143,
+      "label": "Fine grained action",
+      "start": 165.853,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "Wrong place.",
+        "Incorrect Action Corrected by": "144",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 167.568
+    },
+    {
+      "id": 146,
+      "label": "Fine grained action",
+      "start": 167.578,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "Wrong place.",
+        "Incorrect Action Corrected by": "144",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 168.686
+    },
+    {
+      "id": 144,
+      "label": "Conversation",
+      "start": 168.539,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_correct the wrong action",
+        "sequence": "143,146",
+        "Transcription": "Not that one.",
+        "Transcription Confidence": "none"
+      },
+      "end": 169.628
+    },
+    {
+      "id": 145,
+      "label": "Fine grained action",
+      "start": 169.392,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 170.186
+    },
+    {
+      "id": 48,
+      "label": "Fine grained action",
+      "start": 170.22,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 171.82
+    },
+    {
+      "id": 49,
+      "label": "Fine grained action",
+      "start": 171.845,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 176.045
+    },
+    {
+      "id": 50,
+      "label": "Conversation",
+      "start": 172.818,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "It's on to your right.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 174.518
+    },
+    {
+      "id": 51,
+      "label": "Conversation",
+      "start": 175.222,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "Rightly.",
+        "Transcription Confidence": "none"
+      },
+      "end": 176.13
+    },
+    {
+      "id": 52,
+      "label": "Fine grained action",
+      "start": 176.051,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 177.002
+    },
+    {
+      "id": 147,
+      "label": "Conversation",
+      "start": 176.441,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_confirming the previous action",
+        "sequence": "none",
+        "Transcription": "Yeah right on.",
+        "Transcription Confidence": "none"
+      },
+      "end": 178.912
+    },
+    {
+      "id": 148,
+      "label": "Fine grained action",
+      "start": 177.01,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 179.202
+    },
+    {
+      "id": 149,
+      "label": "Fine grained action",
+      "start": 179.216,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 183.235
+    },
+    {
+      "id": 54,
+      "label": "Fine grained action",
+      "start": 183.267,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "Wrong place.",
+        "Incorrect Action Corrected by": "55",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 184.943
+    },
+    {
+      "id": 150,
+      "label": "Fine grained action",
+      "start": 184.96,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "Wrong place.",
+        "Incorrect Action Corrected by": "55",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 186.637
+    },
+    {
+      "id": 55,
+      "label": "Conversation",
+      "start": 186.3,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_correct the wrong action",
+        "sequence": "54,150",
+        "Transcription": "That's not the sd, that's the battery, close it.",
+        "Transcription Confidence": "none"
+      },
+      "end": 188.8
+    },
+    {
+      "id": 151,
+      "label": "Fine grained action",
+      "start": 188.47,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 189.157
+    },
+    {
+      "id": 152,
+      "label": "Fine grained action",
+      "start": 189.167,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 190.157
+    },
+    {
+      "id": 56,
+      "label": "Fine grained action",
+      "start": 190.171,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 195.714
+    },
+    {
+      "id": 57,
+      "label": "Conversation",
+      "start": 190.276,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "On the other site.",
+        "Transcription Confidence": "none"
+      },
+      "end": 191.569
+    },
+    {
+      "id": 58,
+      "label": "Conversation",
+      "start": 193.1,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "There you see that?",
+        "Transcription Confidence": "none"
+      },
+      "end": 194.7
+    },
+    {
+      "id": 59,
+      "label": "Conversation",
+      "start": 194.841,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_confirming the previous action",
+        "sequence": "none",
+        "Transcription": "on there yeah, yeah.",
+        "Transcription Confidence": "none"
+      },
+      "end": 196.751
+    },
+    {
+      "id": 61,
+      "label": "Fine grained action",
+      "start": 196.257,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 211.81
+    },
+    {
+      "id": 62,
+      "label": "Conversation",
+      "start": 197.494,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_confirming the previous action",
+        "sequence": "none",
+        "Transcription": "Yeah on your thumb, that the thumb.",
+        "Transcription Confidence": "none"
+      },
+      "end": 200.341
+    },
+    {
+      "id": 153,
+      "label": "Conversation",
+      "start": 207.186,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "*unintelligible*",
+        "Transcription Confidence": "low-confidence-transcription",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 208.196
+    },
+    {
+      "id": 64,
+      "label": "Fine grained action",
+      "start": 211.825,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "inspect",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 217.063
+    },
+    {
+      "id": 65,
+      "label": "Fine grained action",
+      "start": 217.071,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 218.12
+    },
+    {
+      "id": 154,
+      "label": "Fine grained action",
+      "start": 218.127,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 219.039
+    },
+    {
+      "id": 155,
+      "label": "Fine grained action",
+      "start": 219.058,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 221.094
+    },
+    {
+      "id": 66,
+      "label": "Fine grained action",
+      "start": 222.437,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 223.492
+    },
+    {
+      "id": 156,
+      "label": "Fine grained action",
+      "start": 223.499,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "inspect",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 225.951
+    },
+    {
+      "id": 67,
+      "label": "Fine grained action",
+      "start": 225.963,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 229.014
+    },
+    {
+      "id": 157,
+      "label": "Fine grained action",
+      "start": 229.029,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 233.166
+    },
+    {
+      "id": 69,
+      "label": "Fine grained action",
+      "start": 233.2,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 235.48
+    },
+    {
+      "id": 158,
+      "label": "Fine grained action",
+      "start": 235.49,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 237.863
+    },
+    {
+      "id": 70,
+      "label": "Fine grained action",
+      "start": 237.886,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 239.972
+    },
+    {
+      "id": 159,
+      "label": "Fine grained action",
+      "start": 239.99,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 242.653
+    },
+    {
+      "id": 71,
+      "label": "Fine grained action",
+      "start": 245.012,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 251.292
+    },
+    {
+      "id": 72,
+      "label": "Fine grained action",
+      "start": 251.335,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 255.153
+    },
+    {
+      "id": 160,
+      "label": "Conversation",
+      "start": 252.794,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "*unintelligible*",
+        "Transcription Confidence": "low-confidence-transcription",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 253.794
+    },
+    {
+      "id": 73,
+      "label": "Fine grained action",
+      "start": 255.19,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "wrong",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 258.557
+    },
+    {
+      "id": 161,
+      "label": "Conversation",
+      "start": 258.392,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "student-start-conversation_other",
+        "sequence": "none",
+        "Transcription": "Huh?",
+        "Transcription Confidence": "none",
+        "Conversation Purpose -- Other": "none"
+      },
+      "end": 259.166
+    },
+    {
+      "id": 162,
+      "label": "Fine grained action",
+      "start": 258.578,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 261.582
+    },
+    {
+      "id": 74,
+      "label": "Fine grained action",
+      "start": 261.59,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 263.663
+    },
+    {
+      "id": 163,
+      "label": "Fine grained action",
+      "start": 263.676,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 265.352
+    },
+    {
+      "id": 164,
+      "label": "Fine grained action",
+      "start": 266.098,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Wrong Action, corrected by instructor verbally",
+        "Incorrect Action Explanation": "that's remove the battery, the student already did it.",
+        "Incorrect Action Corrected by": "77",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 268.627
+    },
+    {
+      "id": 77,
+      "label": "Conversation",
+      "start": 267.367,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_correct the wrong action",
+        "sequence": "164",
+        "Transcription": "No, that's remove the battery, you already did it.",
+        "Transcription Confidence": "none"
+      },
+      "end": 270.157
+    },
+    {
+      "id": 76,
+      "label": "Fine grained action",
+      "start": 268.661,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 270.929
+    },
+    {
+      "id": 165,
+      "label": "Fine grained action",
+      "start": 270.951,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 272.519
+    },
+    {
+      "id": 78,
+      "label": "Fine grained action",
+      "start": 272.533,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 275.567
+    },
+    {
+      "id": 79,
+      "label": "Fine grained action",
+      "start": 275.6,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 280.204
+    },
+    {
+      "id": 166,
+      "label": "Fine grained action",
+      "start": 280.235,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 282.235
+    },
+    {
+      "id": 167,
+      "label": "Fine grained action",
+      "start": 280.265,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 283.284
+    },
+    {
+      "id": 80,
+      "label": "Fine grained action",
+      "start": 283.308,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "left hand"
+      },
+      "end": 289.998
+    },
+    {
+      "id": 82,
+      "label": "Conversation",
+      "start": 288.498,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "No pick that.",
+        "Transcription Confidence": "none"
+      },
+      "end": 289.998
+    },
+    {
+      "id": 81,
+      "label": "Fine grained action",
+      "start": 290.014,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "right hand"
+      },
+      "end": 291.445
+    },
+    {
+      "id": 83,
+      "label": "Fine grained action",
+      "start": 291.463,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 293.463
+    },
+    {
+      "id": 168,
+      "label": "Fine grained action",
+      "start": 293.46,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "sd_card",
+        "adverbial": "none"
+      },
+      "end": 294.705
+    },
+    {
+      "id": 84,
+      "label": "Fine grained action",
+      "start": 294.719,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 295.643
+    },
+    {
+      "id": 169,
+      "label": "Fine grained action",
+      "start": 295.656,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 298.588
+    },
+    {
+      "id": 85,
+      "label": "Fine grained action",
+      "start": 298.612,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "battery",
+        "adverbial": "none"
+      },
+      "end": 300.353
+    },
+    {
+      "id": 170,
+      "label": "Fine grained action",
+      "start": 300.362,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 301.427
+    },
+    {
+      "id": 171,
+      "label": "Fine grained action",
+      "start": 301.451,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "battery_door",
+        "adverbial": "none"
+      },
+      "end": 302.705
+    },
+    {
+      "id": 172,
+      "label": "Fine grained action",
+      "start": 302.715,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 304.074
+    },
+    {
+      "id": 86,
+      "label": "Conversation",
+      "start": 306.1,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Turn on the GoPro.",
+        "Transcription Confidence": "none"
+      },
+      "end": 307.8
+    },
+    {
+      "id": 87,
+      "label": "Coarse grained action",
+      "start": 306.48,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student turns on their GoPro.",
+        "Verb": "turn_on",
+        "Adjective": "none",
+        "Noun": "gopro"
+      },
+      "end": 313.438
+    },
+    {
+      "id": 173,
+      "label": "Fine grained action",
+      "start": 306.597,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 308.097
+    },
+    {
+      "id": 88,
+      "label": "Fine grained action",
+      "start": 308.12,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "recording",
+        "Noun": "button",
+        "adverbial": "none"
+      },
+      "end": 311.125
+    },
+    {
+      "id": 89,
+      "label": "Fine grained action",
+      "start": 311.139,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 313.369
+    },
+    {
+      "id": 90,
+      "label": "Conversation",
+      "start": 313.414,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Turn it off.",
+        "Transcription Confidence": "none"
+      },
+      "end": 314.678
+    },
+    {
+      "id": 175,
+      "label": "Coarse grained action",
+      "start": 314.196,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student turns off the gopro.",
+        "Verb": "turn_off",
+        "Adjective": "none",
+        "Noun": "gopro"
+      },
+      "end": 325.265
+    },
+    {
+      "id": 174,
+      "label": "Fine grained action",
+      "start": 314.235,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 316.437
+    },
+    {
+      "id": 91,
+      "label": "Fine grained action",
+      "start": 316.465,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "press",
+        "Adjective": "none",
+        "Noun": "power_button",
+        "adverbial": "none"
+      },
+      "end": 321.861
+    },
+    {
+      "id": 176,
+      "label": "Fine grained action",
+      "start": 321.882,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 325.068
+    },
+    {
+      "id": 93,
+      "label": "Conversation",
+      "start": 325.092,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Now put it on *unintelligible*.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 327.092
+    },
+    {
+      "id": 94,
+      "label": "Coarse grained action",
+      "start": 326.578,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student assembles the mounting_peg.",
+        "Verb": "assemble",
+        "Adjective": "none",
+        "Noun": "mounting_peg"
+      },
+      "end": 351.749
+    },
+    {
+      "id": 177,
+      "label": "Fine grained action",
+      "start": 326.745,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 328.019
+    },
+    {
+      "id": 95,
+      "label": "Fine grained action",
+      "start": 328.061,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "open",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 332.18
+    },
+    {
+      "id": 96,
+      "label": "Conversation",
+      "start": 329.239,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_confirming the previous action",
+        "sequence": "none",
+        "Transcription": "Yeah, put it on.",
+        "Transcription Confidence": "none"
+      },
+      "end": 331.3
+    },
+    {
+      "id": 97,
+      "label": "Fine grained action",
+      "start": 332.208,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "approach",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 333.098
+    },
+    {
+      "id": 178,
+      "label": "Fine grained action",
+      "start": 333.118,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 334.931
+    },
+    {
+      "id": 179,
+      "label": "Fine grained action",
+      "start": 334.941,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 336.961
+    },
+    {
+      "id": 180,
+      "label": "Fine grained action",
+      "start": 336.97,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 338.647
+    },
+    {
+      "id": 98,
+      "label": "Fine grained action",
+      "start": 338.659,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 339.296
+    },
+    {
+      "id": 99,
+      "label": "Fine grained action",
+      "start": 339.306,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "screw",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 347.369
+    },
+    {
+      "id": 100,
+      "label": "Fine grained action",
+      "start": 347.386,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 349.416
+    },
+    {
+      "id": 102,
+      "label": "Fine grained action",
+      "start": 349.433,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "slide",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 351.455
+    },
+    {
+      "id": 181,
+      "label": "Conversation",
+      "start": 353.843,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Now detach it.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 355.461
+    },
+    {
+      "id": 101,
+      "label": "Coarse grained action",
+      "start": 354.835,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student disassemble the mounting_peg.",
+        "Verb": "disassemble",
+        "Adjective": "none",
+        "Noun": "mounting_peg"
+      },
+      "end": 362.375
+    },
+    {
+      "id": 182,
+      "label": "Fine grained action",
+      "start": 355.029,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 356.019
+    },
+    {
+      "id": 103,
+      "label": "Fine grained action",
+      "start": 356.031,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "unscrew",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 358.782
+    },
+    {
+      "id": 184,
+      "label": "Fine grained action",
+      "start": 358.784,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 359.382
+    },
+    {
+      "id": 185,
+      "label": "Fine grained action",
+      "start": 359.402,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 360.049
+    },
+    {
+      "id": 186,
+      "label": "Fine grained action",
+      "start": 360.068,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "mounting_peg",
+        "adverbial": "none"
+      },
+      "end": 360.833
+    },
+    {
+      "id": 183,
+      "label": "Fine grained action",
+      "start": 360.853,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 362.284
+    },
+    {
+      "id": 187,
+      "label": "Conversation",
+      "start": 362.627,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Place the grip on.",
+        "Transcription Confidence": "none"
+      },
+      "end": 364
+    },
+    {
+      "id": 104,
+      "label": "Fine grained action",
+      "start": 362.68,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "hold",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 367.91
+    },
+    {
+      "id": 189,
+      "label": "Coarse grained action",
+      "start": 363.177,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The student assemble handheld_grip.",
+        "Verb": "assemble",
+        "Adjective": "none",
+        "Noun": "handheld_grip"
+      },
+      "end": 389.441
+    },
+    {
+      "id": 188,
+      "label": "Conversation",
+      "start": 366.646,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "It's on the left side.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 368.323
+    },
+    {
+      "id": 190,
+      "label": "Fine grained action",
+      "start": 367.912,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "approach",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 368.549
+    },
+    {
+      "id": 106,
+      "label": "Fine grained action",
+      "start": 368.561,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 370.71
+    },
+    {
+      "id": 191,
+      "label": "Conversation",
+      "start": 370.176,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_follow-up instruction",
+        "sequence": "none",
+        "Transcription": "*unintelligible* it.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 371.333
+    },
+    {
+      "id": 192,
+      "label": "Fine grained action",
+      "start": 370.715,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 371.725
+    },
+    {
+      "id": 107,
+      "label": "Fine grained action",
+      "start": 371.737,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 376.153
+    },
+    {
+      "id": 193,
+      "label": "Fine grained action",
+      "start": 376.166,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 378.58
+    },
+    {
+      "id": 194,
+      "label": "Fine grained action",
+      "start": 378.588,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "insert",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 380.211
+    },
+    {
+      "id": 109,
+      "label": "Fine grained action",
+      "start": 380.229,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "screw",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 384.804
+    },
+    {
+      "id": 110,
+      "label": "Fine grained action",
+      "start": 384.825,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "grab",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 389.325
+    },
+    {
+      "id": 111,
+      "label": "Conversation",
+      "start": 388.996,
+      "type": "range",
+      "attributes": {
+        "Conversation Purpose": "instructor-start-conversation_describing high-level instruction",
+        "sequence": "none",
+        "Transcription": "Now disassemble it.",
+        "Transcription Confidence": "low-confidence-transcription"
+      },
+      "end": 392.329
+    },
+    {
+      "id": 195,
+      "label": "Coarse grained action",
+      "start": 390.157,
+      "type": "range",
+      "attributes": {
+        "Action sentence": "The students disassemble the handheld_grip.",
+        "Verb": "disassemble",
+        "Adjective": "none",
+        "Noun": "handheld_grip"
+      },
+      "end": 404.558
+    },
+    {
+      "id": 112,
+      "label": "Fine grained action",
+      "start": 390.239,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 392.263
+    },
+    {
+      "id": 196,
+      "label": "Fine grained action",
+      "start": 392.274,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "unscrew",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 396.147
+    },
+    {
+      "id": 113,
+      "label": "Fine grained action",
+      "start": 396.171,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 396.571
+    },
+    {
+      "id": 197,
+      "label": "Fine grained action",
+      "start": 396.578,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "screw",
+        "adverbial": "none"
+      },
+      "end": 397.006
+    },
+    {
+      "id": 114,
+      "label": "Fine grained action",
+      "start": 397.023,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "withdraw",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 398.211
+    },
+    {
+      "id": 198,
+      "label": "Fine grained action",
+      "start": 398.235,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "handheld_grip",
+        "adverbial": "none"
+      },
+      "end": 398.97
+    },
+    {
+      "id": 199,
+      "label": "Fine grained action",
+      "start": 398.98,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "close",
+        "Adjective": "none",
+        "Noun": "leg",
+        "adverbial": "none"
+      },
+      "end": 399.667
+    },
+    {
+      "id": 115,
+      "label": "Fine grained action",
+      "start": 400.571,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "rotate",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 402.996
+    },
+    {
+      "id": 200,
+      "label": "Fine grained action",
+      "start": 403.01,
+      "type": "range",
+      "attributes": {
+        "Action Correctness": "Correct Action",
+        "Incorrect Action Explanation": "none",
+        "Incorrect Action Corrected by": "none",
+        "Verb": "place",
+        "Adjective": "none",
+        "Noun": "gopro",
+        "adverbial": "none"
+      },
+      "end": 404.382
+    }
+  ],
+  "taskId": "63dadf3f4cc12c20152c3aab",
+  "taskType": "setup gopro",
+  "video_name": "R0027-12-GoPro"
+}

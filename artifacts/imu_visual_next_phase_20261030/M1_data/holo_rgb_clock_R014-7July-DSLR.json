@@ -1,0 +1,18 @@
+{
+  "session_id": "R014-7July-DSLR",
+  "pose_sync_sha256": "bb52686832b4f67e068612163cf15f8b0fe2b06e5b8c81fb1304e73a71df1015",
+  "retained_unique_original_camera_ticks": 10617,
+  "MP4_frame_count": 10618,
+  "one_to_one_count_equal": false,
+  "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R014-7July-DSLR.npz",
+  "capture_clock_sha256": "54dc6d009a8061cf6dbe1b1c49b044013b1d345131f983adb5f9b0e392323caf",
+  "origin_tick": 637928198854677596,
+  "MP4_rate": "29957/1000",
+  "first_capture_s": 0.0,
+  "last_capture_s": 354.4135552,
+  "camera_interval_range_s": [
+    0.033331299999986186,
+    0.4999729
+  ],
+  "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+}

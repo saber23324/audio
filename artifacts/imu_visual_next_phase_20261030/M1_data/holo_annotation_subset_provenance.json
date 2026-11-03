@@ -1,0 +1,8 @@
+{
+  "original_url": "https://hl2data.z5.web.core.windows.net/holoassist-data-release/data-annotation-trainval-v1_1.json",
+  "partial_download_bytes": 12582912,
+  "complete_objects_recovered": 243,
+  "recovered_subset_sha256": "ce65129031cccfa47fb4bf3bcc79a5ca7fd9fd526a904b8ddd972cb609f9800f",
+  "full_original_annotation_file_downloaded": false,
+  "no_model_score_used_to_choose_records": true
+}

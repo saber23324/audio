@@ -1,0 +1,99 @@
+{
+  "traces": [
+    {
+      "offset": 77642568704,
+      "nontext_fraction": 0.652587890625
+    },
+    {
+      "offset": 38821284352,
+      "nontext_fraction": 0.634521484375
+    },
+    {
+      "offset": 19410641920,
+      "nontext_fraction": 0.6513671875
+    },
+    {
+      "offset": 9705320960,
+      "nontext_fraction": 0.6317138671875
+    },
+    {
+      "offset": 4852660224,
+      "nontext_fraction": 0.6357421875
+    },
+    {
+      "offset": 2426330112,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 3639495168,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4246077440,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4549368832,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4701014528,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4776837120,
+      "nontext_fraction": 0.636962890625
+    },
+    {
+      "offset": 4738925568,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4757881344,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4767358976,
+      "nontext_fraction": 0.634033203125
+    },
+    {
+      "offset": 4762619904,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4764989440,
+      "nontext_fraction": 0.643798828125
+    },
+    {
+      "offset": 4763804672,
+      "nontext_fraction": 0.0
+    },
+    {
+      "offset": 4764397056,
+      "nontext_fraction": 0.642822265625
+    },
+    {
+      "offset": 4764100608,
+      "nontext_fraction": 0.6431884765625
+    },
+    {
+      "offset": 4763952640,
+      "nontext_fraction": 0.6353759765625
+    },
+    {
+      "offset": 4763878400,
+      "nontext_fraction": 0.6636962890625
+    }
+  ],
+  "lo": 4763804672,
+  "hi": 4763878400,
+  "validated_mp4_headers": [
+    {
+      "name": "R0027-12-GoPro/Export_py/Video_compress.mp4",
+      "size": 93620115,
+      "offset": 4763879424,
+      "offset_data": 4763879936
+    }
+  ],
+  "heuristic_search_only_validated_tar_headers_accepted": true
+}

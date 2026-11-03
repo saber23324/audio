@@ -1,0 +1,12 @@
+{
+  "stage": "M4",
+  "state": "not_run",
+  "reason": "M2没有建立冻结视觉骨干可利用的稳定IMU特异桥接，任务书§6.3(a)推进前提未满足。UTD主条件真实图63/108、重复RGB66/108、零图63/108、错误图64/108；图单独28/108，零图36/108，先验32/108。W4有弱logit/个例趋势，但精度差的受试者→来源CI跨0，RGB融合无稳定独特收益。Holo正确性真实/零/错误均24/64且逐题完全一致，真实Gold NLL1.965642高于RGB1.864270与零图1.945589；P1/P2、提示诊断未提供稳健证据。两库都只有4个父簇；UTD缺原始同步时钟，WEAR缺插值前时间，Holo只有4个精确时钟且有标注的开发session，尚未建立足量独立训练/验证/确认队列。依据§6.3的弱桥接诊断约束及§11的条件性not_run规则，停止扩大本配置训练；不训练任意Router/Gate或拿旧音频Utility代替新IMU监督。此为本配置的研究推进判断，不证明所有IMU任务/表示无效。",
+  "checkpoint": null,
+  "optimizer_steps": 0,
+  "fitted_models": 0,
+  "complete_mask_utility_QA_calls": 0,
+  "pretest_confirmation_lock": null,
+  "not_zero_accuracy_or_zero_ON_rate": true,
+  "taskbook_condition": "§6.3 and §11 upstream feasibility condition"
+}

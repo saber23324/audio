@@ -1,0 +1,505 @@
+{
+  "Stage1_original": {
+    "epoch": 2,
+    "global_step": 6480,
+    "args": {
+      "pretrained": "lmms-lab/llava-onevision-qwen2-7b-ov",
+      "hf_cache": "/home/yxd/.cache/huggingface",
+      "beats_checkpoint": "/nvme_data/pkt/huggingface/modules/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt1.pt",
+      "split_file": "./results/adbt_videomme_split.json",
+      "output_dir": "results/exp01_visiononly64_train_epoch3_lr1e5",
+      "epochs": 3,
+      "max_train_samples": 0,
+      "train_max_frames": 32,
+      "num_queries": 64,
+      "bottleneck_hidden": 256,
+      "num_heads": 8,
+      "bottleneck_stage": 1,
+      "architecture": "phase4",
+      "attention_temperature": 0.05,
+      "value_mode": "native",
+      "latent_norm": "none",
+      "training_objective": "phase4",
+      "av_loss_weight": 0.02,
+      "av_temperature": 0.07,
+      "av_min_temporal_offset": 5.0,
+      "av_queue_size": 256,
+      "cf_loss_weight": 0.2,
+      "cf_margin": 0.2,
+      "cf_objective": "qa_margin",
+      "cf_kd_temperature": 1.0,
+      "route_loss_weight": 0.1,
+      "feature_loss_weight": 0.05,
+      "av_routing_loss_weight": 0.05,
+      "teacher_importance_topk": 64,
+      "av_routing_temperature": 0.07,
+      "cf_negative": "cycle",
+      "vision_batch_size": 16,
+      "beats_batch_size": 8,
+      "learning_rate": 1e-05,
+      "weight_decay": 0.01,
+      "gradient_accumulation_steps": 1,
+      "gradient_checkpointing": true,
+      "max_grad_norm": 1.0,
+      "log_every": 10,
+      "rank_log_every": 30,
+      "module_log_every": 30,
+      "save_every_videos": 20,
+      "eval_every_steps": 100,
+      "eval_max_videos": 4,
+      "eval_max_frames": 32,
+      "resume": "results/exp01_visiononly64_train_epoch2/adbt_epoch_2_video_720.pt",
+      "init_adapter": "",
+      "override_resume_learning_rate": true,
+      "seed": 1234,
+      "wandb": true,
+      "wandb_project": "streamingtom-videomme",
+      "wandb_entity": "amd_yes",
+      "wandb_run_name": "exp01_visiononly64_train_epoch3_lr1e5",
+      "wandb_run_id": "",
+      "wandb_mode": "online",
+      "wandb_log_every": 1
+    },
+    "payload_keys": [
+      "audio_bottleneck",
+      "epoch",
+      "video_idx",
+      "global_step",
+      "args",
+      "init_adapter",
+      "split_file"
+    ],
+    "optimizer_metadata": {},
+    "scheduler_keys": []
+  },
+  "V1_retrained": {
+    "mode": "warm_start_adaptation",
+    "epoch": 3,
+    "global_step": 1968,
+    "args": {
+      "pretrained": "lmms-lab/llava-onevision-qwen2-7b-ov",
+      "hf_cache": "/home/yxd/.cache/huggingface",
+      "beats_checkpoint": "/nvme_data/pkt/huggingface/modules/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt1.pt",
+      "split_file": "./results/adbt_videomme_split.json",
+      "output_dir": "/home/yxd/audio_pic_gate/artifacts/utility_gate/adaptive_grounded64_stage1_retrain_20261029_v1/models/stage1_vision64_retrained",
+      "epochs": 3,
+      "max_train_samples": 0,
+      "train_max_frames": 32,
+      "num_queries": 64,
+      "bottleneck_hidden": 256,
+      "num_heads": 8,
+      "bottleneck_stage": 1,
+      "architecture": "phase4",
+      "attention_temperature": 0.05,
+      "value_mode": "native",
+      "latent_norm": "none",
+      "training_objective": "phase4",
+      "av_loss_weight": 0.02,
+      "av_temperature": 0.07,
+      "av_min_temporal_offset": 5.0,
+      "av_queue_size": 256,
+      "cf_loss_weight": 0.2,
+      "cf_margin": 0.2,
+      "cf_objective": "qa_margin",
+      "cf_kd_temperature": 1.0,
+      "route_loss_weight": 0.1,
+      "feature_loss_weight": 0.05,
+      "av_routing_loss_weight": 0.05,
+      "teacher_importance_topk": 64,
+      "av_routing_temperature": 0.07,
+      "cf_negative": "cycle",
+      "vision_batch_size": 16,
+      "beats_batch_size": 8,
+      "learning_rate": 1e-05,
+      "weight_decay": 0.01,
+      "gradient_accumulation_steps": 1,
+      "gradient_checkpointing": true,
+      "max_grad_norm": 1.0,
+      "log_every": 10,
+      "rank_log_every": 30,
+      "module_log_every": 30,
+      "save_every_videos": 20,
+      "eval_every_steps": 100,
+      "eval_max_videos": 4,
+      "eval_max_frames": 32,
+      "resume": "",
+      "init_adapter": "/home/yxd/audio_pic_gate/results/exp01_visiononly64_train_epoch3_lr1e5/adbt_epoch_3.pt",
+      "override_resume_learning_rate": true,
+      "seed": 1234,
+      "wandb": false,
+      "wandb_project": "streamingtom-videomme",
+      "wandb_entity": "amd_yes",
+      "wandb_run_name": "exp01_visiononly64_train_epoch3_lr1e5",
+      "wandb_run_id": "",
+      "wandb_mode": "online",
+      "wandb_log_every": 1,
+      "dataset_name": "MUSIC-AVQA official train, new source-disjoint local roles"
+    },
+    "payload_keys": [
+      "audio_bottleneck",
+      "optimizer",
+      "epoch",
+      "global_step",
+      "args",
+      "completed_source_ids",
+      "training_manifest_sha256",
+      "validation_manifest_sha256",
+      "warm_start_sha256",
+      "rng_torch",
+      "rng_numpy",
+      "rng_python",
+      "rng_cuda",
+      "mode",
+      "trainable_names"
+    ],
+    "optimizer_metadata": {
+      "optimizer": [
+        {
+          "lr": 1e-05,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 2
+        }
+      ]
+    },
+    "scheduler_keys": []
+  },
+  "Stage3_original_AudioRouter": {
+    "epoch": 2,
+    "global_step": 6480,
+    "args": {
+      "pretrained": "lmms-lab/llava-onevision-qwen2-7b-ov",
+      "hf_cache": "/home/yxd/.cache/huggingface",
+      "beats_checkpoint": "/nvme_data/pkt/huggingface/modules/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt1.pt",
+      "split_file": "./results/adbt_videomme_split.json",
+      "output_dir": "./results/adbt-phase4.1-q64-tau005-epoch3-lr1e5",
+      "epochs": 3,
+      "max_train_samples": 0,
+      "train_max_frames": 32,
+      "num_queries": 64,
+      "bottleneck_hidden": 256,
+      "num_heads": 8,
+      "architecture": "phase4",
+      "attention_temperature": 0.05,
+      "value_mode": "native",
+      "latent_norm": "none",
+      "vision_batch_size": 16,
+      "beats_batch_size": 8,
+      "learning_rate": 1e-05,
+      "weight_decay": 0.01,
+      "gradient_accumulation_steps": 1,
+      "gradient_checkpointing": true,
+      "max_grad_norm": 1.0,
+      "log_every": 30,
+      "rank_log_every": 30,
+      "module_log_every": 30,
+      "save_every_videos": 20,
+      "eval_every_steps": 100,
+      "eval_max_videos": 4,
+      "eval_max_frames": 32,
+      "resume": "./results/adbt-phase4.1-q64-tau005-full/adbt_epoch_2_video_720.pt",
+      "init_adapter": "",
+      "override_resume_learning_rate": true,
+      "seed": 1234,
+      "wandb": true,
+      "wandb_project": "streamingtom-videomme",
+      "wandb_entity": "amd_yes",
+      "wandb_run_name": "adbt-phase4.1-q64-tau005-epoch3-lr1e5",
+      "wandb_run_id": "",
+      "wandb_mode": "online",
+      "wandb_log_every": 1
+    },
+    "payload_keys": [
+      "audio_bottleneck",
+      "epoch",
+      "video_idx",
+      "global_step",
+      "args",
+      "init_adapter",
+      "split_file"
+    ],
+    "optimizer_metadata": {},
+    "scheduler_keys": []
+  },
+  "R_A": {
+    "kind": "gate_first_grounded_fusion_RA",
+    "spec": {
+      "dim": 3584,
+      "key_dim": 128,
+      "rank": 32
+    },
+    "epoch": 3,
+    "seed": 1234,
+    "payload_keys": [
+      "kind",
+      "spec",
+      "state_dict",
+      "optimizer",
+      "epoch",
+      "step",
+      "completed_sources",
+      "configuration",
+      "frozen_gate_lock_sha256",
+      "frozen_Gate_main_sha256",
+      "frozen_V1_sha256",
+      "train_manifest_sha256",
+      "seed",
+      "rng_torch",
+      "rng_cuda"
+    ],
+    "optimizer_metadata": {
+      "optimizer": [
+        {
+          "lr": 1e-05,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 4
+        }
+      ]
+    },
+    "scheduler_keys": []
+  },
+  "old_LLP_AVS_proxy": {
+    "kind": "audiorouter_dual_head",
+    "spec": {
+      "visual_dim": 3584,
+      "audio_dim": 768,
+      "hidden": 64,
+      "utility_scale": 0.0934606214363769,
+      "dropout": 0.1
+    },
+    "payload_keys": [
+      "kind",
+      "spec",
+      "state_dict",
+      "head_status",
+      "provenance",
+      "best_epoch"
+    ],
+    "optimizer_metadata": {},
+    "scheduler_keys": []
+  },
+  "old_G_A_F0_target": {
+    "kind": "gate_first_policy_gate",
+    "mode": "dual_rank",
+    "epoch": 30,
+    "seed": 1234,
+    "payload_keys": [
+      "kind",
+      "mode",
+      "scale",
+      "state_dict",
+      "optimizer",
+      "epoch",
+      "optimizer_steps",
+      "seed",
+      "configuration",
+      "policy_label_lock_sha256",
+      "V1_sha256"
+    ],
+    "optimizer_metadata": {
+      "optimizer": [
+        {
+          "lr": 0.001,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 10
+        }
+      ]
+    },
+    "scheduler_keys": []
+  },
+  "latest_accuracy_first": {
+    "kind": "fixed_router_sequence_gate",
+    "spec": {
+      "family": "history",
+      "hidden": 64,
+      "dropout": 0.1
+    },
+    "epoch": 1,
+    "lambda": 0.0,
+    "temperature": 0.25,
+    "seed": 1234,
+    "trainable_whitelist": [
+      "visual_projection.1.weight",
+      "visual_projection.1.bias",
+      "audio_projection.1.weight",
+      "audio_projection.1.bias",
+      "comparison.0.weight",
+      "comparison.0.bias",
+      "decision.0.weight",
+      "decision.0.bias",
+      "decision.2.weight",
+      "decision.2.bias"
+    ],
+    "payload_keys": [
+      "kind",
+      "spec",
+      "state_dict",
+      "optimizer_state",
+      "epoch",
+      "lambda",
+      "temperature",
+      "seed",
+      "target_protocol_sha256",
+      "train_manifest_sha256",
+      "trainable_whitelist",
+      "torch_rng_state",
+      "sampler_rng_state"
+    ],
+    "optimizer_metadata": {
+      "optimizer_state": [
+        {
+          "lr": 0.001,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 10
+        }
+      ]
+    },
+    "scheduler_keys": []
+  },
+  "latest_cost_aware": {
+    "kind": "fixed_router_sequence_gate",
+    "spec": {
+      "family": "acoustic",
+      "hidden": 64,
+      "dropout": 0.1
+    },
+    "epoch": 20,
+    "lambda": 1.0,
+    "temperature": 0.25,
+    "seed": 1234,
+    "trainable_whitelist": [
+      "visual_projection.1.weight",
+      "visual_projection.1.bias",
+      "audio_projection.1.weight",
+      "audio_projection.1.bias",
+      "comparison.0.weight",
+      "comparison.0.bias",
+      "decision.0.weight",
+      "decision.0.bias",
+      "decision.2.weight",
+      "decision.2.bias"
+    ],
+    "payload_keys": [
+      "kind",
+      "spec",
+      "state_dict",
+      "optimizer_state",
+      "epoch",
+      "lambda",
+      "temperature",
+      "seed",
+      "target_protocol_sha256",
+      "train_manifest_sha256",
+      "trainable_whitelist",
+      "torch_rng_state",
+      "sampler_rng_state"
+    ],
+    "optimizer_metadata": {
+      "optimizer_state": [
+        {
+          "lr": 0.001,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 10
+        }
+      ]
+    },
+    "scheduler_keys": []
+  },
+  "historical_u_only": {
+    "kind": "audiorouter_dual_head",
+    "spec": {
+      "visual_dim": 3584,
+      "audio_dim": 768,
+      "hidden": 64,
+      "utility_scale": 0.00958964228630066,
+      "dropout": 0.1
+    },
+    "seed": 1234,
+    "payload_keys": [
+      "kind",
+      "spec",
+      "state_dict",
+      "head_status",
+      "provenance",
+      "optimizer",
+      "configuration",
+      "best_epoch",
+      "seed"
+    ],
+    "optimizer_metadata": {
+      "optimizer": [
+        {
+          "lr": 0.001,
+          "betas": [
+            0.9,
+            0.999
+          ],
+          "eps": 1e-08,
+          "weight_decay": 0.01,
+          "amsgrad": false,
+          "foreach": null,
+          "maximize": false,
+          "capturable": false,
+          "differentiable": false,
+          "fused": null,
+          "parameter_tensor_count": 8
+        }
+      ]
+    },
+    "scheduler_keys": []
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "source_id": "holo:R014-7July-DSLR",
+  "sensor_full_streams_read": true,
+  "video_full_duration_s": 354.44136595787296,
+  "video_thumbnails_across_full_timeline": 3,
+  "whole_video_downloaded_or_all_frames_decoded": false,
+  "clock_count_match": false,
+  "frames": [
+    {
+      "playback_time_s": 17.725406415862736,
+      "capture_time_s": null
+    },
+    {
+      "playback_time_s": 177.22068297893648,
+      "capture_time_s": null
+    },
+    {
+      "playback_time_s": 336.7493407217011,
+      "capture_time_s": null
+    }
+  ],
+  "manual_physical_alignment": "qualitative gallery only; not a calibrated residual sync error measurement",
+  "plot_not_used_in_model": true,
+  "gallery": "/home/yxd/audio_pic_gate/artifacts/imu_visual_next_phase_20261030/M1_data/timeline_R014-7July-DSLR.png"
+}

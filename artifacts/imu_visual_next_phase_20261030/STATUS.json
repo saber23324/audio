@@ -1,0 +1,53 @@
+{
+  "M0": {
+    "state": "completed",
+    "utc": "2026-10-30T04:26:21.515666+00:00",
+    "actual_components": 14,
+    "old_assets": 24584
+  },
+  "M1": {
+    "state": "diagnostic_complete_with_limits",
+    "utc": "2026-10-30T05:29:37.630083+00:00",
+    "UTD_full_sensor_recordings": 861,
+    "UTD_dev_paired_recordings": 108,
+    "Holo_paired_sessions_audited": 10,
+    "Holo_exact_camera_frame_clock_matches": 6,
+    "Holo_QA_development_sessions": 4,
+    "WEAR_strict_original_clock": "unverified",
+    "no_training_started": true
+  },
+  "M2": {
+    "state": "completed_development_diagnostics",
+    "utc": "2026-10-30T05:36:08.902439+00:00",
+    "UTD_QA_generations": 3240,
+    "Holo_QA_generations": 1280,
+    "no_model_training": true
+  },
+  "M3": {
+    "state": "not_run",
+    "utc": "2026-10-30T05:36:07.878444+00:00",
+    "reason": "M2没有建立冻结视觉骨干可利用的稳定IMU特异桥接，任务书§6.3(a)推进前提未满足。UTD主条件真实图63/108、重复RGB66/108、零图63/108、错误图64/108；图单独28/108，零图36/108，先验32/108。W4有弱logit/个例趋势，但精度差的受试者→来源CI跨0，RGB融合无稳定独特收益。Holo正确性真实/零/错误均24/64且逐题完全一致，真实Gold NLL1.965642高于RGB1.864270与零图1.945589；P1/P2、提示诊断未提供稳健证据。两库都只有4个父簇；UTD缺原始同步时钟，WEAR缺插值前时间，Holo只有4个精确时钟且有标注的开发session，尚未建立足量独立训练/验证/确认队列。依据§6.3的弱桥接诊断约束及§11的条件性not_run规则，停止扩大本配置训练；不训练任意Router/Gate或拿旧音频Utility代替新IMU监督。此为本配置的研究推进判断，不证明所有IMU任务/表示无效。"
+  },
+  "M4": {
+    "state": "not_run",
+    "utc": "2026-10-30T05:36:07.878811+00:00",
+    "reason": "M2没有建立冻结视觉骨干可利用的稳定IMU特异桥接，任务书§6.3(a)推进前提未满足。UTD主条件真实图63/108、重复RGB66/108、零图63/108、错误图64/108；图单独28/108，零图36/108，先验32/108。W4有弱logit/个例趋势，但精度差的受试者→来源CI跨0，RGB融合无稳定独特收益。Holo正确性真实/零/错误均24/64且逐题完全一致，真实Gold NLL1.965642高于RGB1.864270与零图1.945589；P1/P2、提示诊断未提供稳健证据。两库都只有4个父簇；UTD缺原始同步时钟，WEAR缺插值前时间，Holo只有4个精确时钟且有标注的开发session，尚未建立足量独立训练/验证/确认队列。依据§6.3的弱桥接诊断约束及§11的条件性not_run规则，停止扩大本配置训练；不训练任意Router/Gate或拿旧音频Utility代替新IMU监督。此为本配置的研究推进判断，不证明所有IMU任务/表示无效。"
+  },
+  "M5": {
+    "state": "not_run",
+    "utc": "2026-10-30T05:36:07.879133+00:00",
+    "reason": "M2没有建立冻结视觉骨干可利用的稳定IMU特异桥接，任务书§6.3(a)推进前提未满足。UTD主条件真实图63/108、重复RGB66/108、零图63/108、错误图64/108；图单独28/108，零图36/108，先验32/108。W4有弱logit/个例趋势，但精度差的受试者→来源CI跨0，RGB融合无稳定独特收益。Holo正确性真实/零/错误均24/64且逐题完全一致，真实Gold NLL1.965642高于RGB1.864270与零图1.945589；P1/P2、提示诊断未提供稳健证据。两库都只有4个父簇；UTD缺原始同步时钟，WEAR缺插值前时间，Holo只有4个精确时钟且有标注的开发session，尚未建立足量独立训练/验证/确认队列。依据§6.3的弱桥接诊断约束及§11的条件性not_run规则，停止扩大本配置训练；不训练任意Router/Gate或拿旧音频Utility代替新IMU监督。此为本配置的研究推进判断，不证明所有IMU任务/表示无效。"
+  },
+  "M6": {
+    "state": "completed_native_reference_only",
+    "utc": "2026-10-30T05:36:08.902711+00:00",
+    "actual_measured_pipeline_runs": 72,
+    "trained_IMU_Gate_pipeline": "not_run"
+  },
+  "M7": {
+    "state": "completed_conditional_report",
+    "utc": "2026-10-30T05:36:08.902914+00:00",
+    "independent_generalization": "not_run",
+    "overall": "NO-GO for scaling this frozen zero-shot plot configuration into Router/Gate training"
+  }
+}

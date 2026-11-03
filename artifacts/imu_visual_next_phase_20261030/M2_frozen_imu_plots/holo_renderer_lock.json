@@ -1,0 +1,84 @@
+{
+  "config": {
+    "kind": "P1",
+    "y_limits": {
+      "head:acc": 11.251977939605725,
+      "head:gyro": 1.232016816139234
+    },
+    "size_px": [
+      768,
+      768
+    ],
+    "dpi": 120,
+    "font_size": 11,
+    "line_width": 1.5,
+    "scale_fit_role": "two separate calibration-only sessions, fixed abs99.5percentile*1.1"
+  },
+  "calibration_sessions": [
+    "R016-7July-Navvis",
+    "R028-12July-Switch"
+  ],
+  "development_sessions": [
+    "R0027-12-GoPro",
+    "R005-7July-GoPro",
+    "R007-7July-DSLR",
+    "R012-7July-Nespresso"
+  ],
+  "vocabulary": [
+    "adjust",
+    "align",
+    "approach",
+    "assemble",
+    "clean",
+    "click",
+    "close",
+    "disassemble",
+    "drop",
+    "empty",
+    "flip",
+    "grab",
+    "hit",
+    "hold",
+    "insert",
+    "inspect",
+    "lift",
+    "load",
+    "lock",
+    "make",
+    "mix/stir",
+    "open",
+    "place",
+    "point",
+    "pour",
+    "press",
+    "pull",
+    "push",
+    "rotate",
+    "screw",
+    "shift",
+    "slide",
+    "stack/pile",
+    "stand",
+    "tap",
+    "touch",
+    "turn",
+    "turn_off",
+    "turn_on",
+    "unlock",
+    "unscrew",
+    "validate",
+    "withdraw"
+  ],
+  "manifest_sha256": "69bf5918343be7914c933d164e8bf31348067a5d95ef1c615c1b4c22fa1185b1",
+  "no_model_scores_used": true,
+  "W_primary": 2,
+  "representations": [
+    "P1",
+    "P2"
+  ],
+  "prompts": [
+    "sensor_instructions",
+    "neutral"
+  ],
+  "plan": "I0-I7 plus preregistered P2 sensor and P1 neutral (only/real/zero/wrong). No additional search. No independent confirmation claim."
+}

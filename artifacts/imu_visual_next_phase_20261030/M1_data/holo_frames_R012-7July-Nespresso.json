@@ -1,0 +1,578 @@
+{
+  "2.9662345000000006": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_2.966235.png",
+    "pts_s": 2.9331925,
+    "capture_time_s": 2.9331925,
+    "requested_s": 2.9662345000000006,
+    "frame_index": 88,
+    "media_pts_s": 2.9332355588147063,
+    "sha256": "a23c7be41cdeea4f55f6b972462aab67c20ccf8de1452d51534dad35aa3b96a0"
+  },
+  "4.3328349": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_4.332835.png",
+    "pts_s": 4.2997934,
+    "capture_time_s": 4.2997934,
+    "requested_s": 4.3328349,
+    "frame_index": 129,
+    "media_pts_s": 4.299856671444285,
+    "sha256": "08f8b9343f797c0c9af3aafcd32f3b77cbf26326cbc1c37752215e0b680cf8a9"
+  },
+  "4.9662345000000006": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_4.966235.png",
+    "pts_s": 4.9330962,
+    "capture_time_s": 4.9330962,
+    "requested_s": 4.9662345000000006,
+    "frame_index": 148,
+    "media_pts_s": 4.933168894370188,
+    "sha256": "5c838dfc6765114ef141f6ac045e5c95e80845d4a3e8af8d018655f01061d296"
+  },
+  "6.3328349": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_6.332835.png",
+    "pts_s": 6.2996969,
+    "capture_time_s": 6.2996969,
+    "requested_s": 6.3328349,
+    "frame_index": 189,
+    "media_pts_s": 6.299790006999767,
+    "sha256": "1b1b219a67b09dc76631d86a84404adefa7073801474d3e8b057a0019abce3e4"
+  },
+  "6.9662345000000006": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_6.966235.png",
+    "pts_s": 6.9329996,
+    "capture_time_s": 6.9329996,
+    "requested_s": 6.9662345000000006,
+    "frame_index": 208,
+    "media_pts_s": 6.9331022299256695,
+    "sha256": "f53f8f176f82b4beec3b6e5d35d69ef0b6b53c056eedb298ed4ab3c69dca8ba1"
+  },
+  "8.3328349": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_8.332835.png",
+    "pts_s": 8.2996001,
+    "capture_time_s": 8.2996001,
+    "requested_s": 8.3328349,
+    "frame_index": 249,
+    "media_pts_s": 8.299723342555248,
+    "sha256": "6b16b7b50c5edbffe214a52457302b033e604cc9436b087b430ccd28988d88e4"
+  },
+  "8.9662345": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_8.966235.png",
+    "pts_s": 8.9662345,
+    "capture_time_s": 8.9662345,
+    "requested_s": 8.9662345,
+    "frame_index": 269,
+    "media_pts_s": 8.966367787740408,
+    "sha256": "3880f5e95780b06af6514afc05716db8193e1a8c59efb9b1e548d1359d3863ce"
+  },
+  "10.3328349": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_10.332835.png",
+    "pts_s": 10.3328349,
+    "capture_time_s": 10.3328349,
+    "requested_s": 10.3328349,
+    "frame_index": 310,
+    "media_pts_s": 10.332988900369987,
+    "sha256": "6f2b458d097a2cfca77ae17b82a9f55a66769e222c6977a828e128aee3beb450"
+  },
+  "11.9324647": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_11.932465.png",
+    "pts_s": 11.8994255,
+    "capture_time_s": 11.8994255,
+    "requested_s": 11.9324647,
+    "frame_index": 357,
+    "media_pts_s": 11.899603346555114,
+    "sha256": "0c779e47ccc2aba9507b912f683b1425a75892cbee15013b25a4d8640f5a034e"
+  },
+  "13.9324647": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_13.932465.png",
+    "pts_s": 13.8993282,
+    "capture_time_s": 13.8993282,
+    "requested_s": 13.9324647,
+    "frame_index": 417,
+    "media_pts_s": 13.899536682110597,
+    "sha256": "15f6b08876a7cd96c1b681b10c7fa6d80454bda6e58fee037660ad6a5d75e4ca"
+  },
+  "15.9324647": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_15.932465.png",
+    "pts_s": 15.8992307,
+    "capture_time_s": 15.8992307,
+    "requested_s": 15.9324647,
+    "frame_index": 477,
+    "media_pts_s": 15.899470017666077,
+    "sha256": "732cb91644ea8541c1da6912ab172fadd7a52510e248214f348dd293f93b4194"
+  },
+  "16.2322539": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_16.232254.png",
+    "pts_s": 16.199216,
+    "capture_time_s": 16.199216,
+    "requested_s": 16.2322539,
+    "frame_index": 486,
+    "media_pts_s": 16.1994600179994,
+    "sha256": "034b8c367052168ca1fec8e33b50b80d9de2669764d09f41f93bd201bbf069e7"
+  },
+  "17.9324647": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_17.932465.png",
+    "pts_s": 17.9324647,
+    "capture_time_s": 17.9324647,
+    "requested_s": 17.9324647,
+    "frame_index": 538,
+    "media_pts_s": 17.932735575480816,
+    "sha256": "e74c292c8455047d98f13d573455a5db47194574f122583c681666787fe6f382"
+  },
+  "18.2322539": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_18.232254.png",
+    "pts_s": 18.1991183,
+    "capture_time_s": 18.1991183,
+    "requested_s": 18.2322539,
+    "frame_index": 546,
+    "media_pts_s": 18.199393353554882,
+    "sha256": "97ccae1afa7844dc448b530133ba0cb3518c6eb61049970cb292f17cdc709b7c"
+  },
+  "20.2322539": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_20.232254.png",
+    "pts_s": 20.1990203,
+    "capture_time_s": 20.1990203,
+    "requested_s": 20.2322539,
+    "frame_index": 606,
+    "media_pts_s": 20.199326689110364,
+    "sha256": "f5728da333e7ea03851f6f7e1616dc1f7a0616ec1adbec227c868c6305d70ecc"
+  },
+  "22.2322539": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_22.232254.png",
+    "pts_s": 22.2322539,
+    "capture_time_s": 22.2322539,
+    "requested_s": 22.2322539,
+    "frame_index": 667,
+    "media_pts_s": 22.2325922469251,
+    "sha256": "b18a7b0455dabd4fe695afa0274d0234c9d1662cfac789b04d231efed51b0c0c"
+  },
+  "30.498216499999998": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_30.498216.png",
+    "pts_s": 30.4651817,
+    "capture_time_s": 30.4651817,
+    "requested_s": 30.498216499999998,
+    "frame_index": 914,
+    "media_pts_s": 30.465651144961836,
+    "sha256": "271ebf92cc11088c40e0247dcad26a23d367c439db59956094df6b1f1155e27d"
+  },
+  "32.431454": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_32.431454.png",
+    "pts_s": 32.3984196,
+    "capture_time_s": 32.3984196,
+    "requested_s": 32.431454,
+    "frame_index": 972,
+    "media_pts_s": 32.3989200359988,
+    "sha256": "5507c51e4087ad2d6801b51881c2e4641a0a0cbe674f02860728cf9a17a8af66"
+  },
+  "32.4982165": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_32.498216.png",
+    "pts_s": 32.4650829,
+    "capture_time_s": 32.4650829,
+    "requested_s": 32.4982165,
+    "frame_index": 974,
+    "media_pts_s": 32.465584480517315,
+    "sha256": "80609e1b43f7d20147b38d0ba0c113f07afba56d088a4cd10479a3917304b6ea"
+  },
+  "34.431454": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_34.431454.png",
+    "pts_s": 34.3983206,
+    "capture_time_s": 34.3983206,
+    "requested_s": 34.431454,
+    "frame_index": 1032,
+    "media_pts_s": 34.39885337155428,
+    "sha256": "dd133f82fc2184126cf7e0a6dc14458d3dc6003dc26c6ace81eace94de16c8d4"
+  },
+  "34.4982165": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_34.498216.png",
+    "pts_s": 34.4649839,
+    "capture_time_s": 34.4649839,
+    "requested_s": 34.4982165,
+    "frame_index": 1034,
+    "media_pts_s": 34.4655178160728,
+    "sha256": "277cd555b562d8cdd3fc0b5f91c5f4887cf0984b6756b9b4940d5c2836357e1c"
+  },
+  "36.431454": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_36.431454.png",
+    "pts_s": 36.3982215,
+    "capture_time_s": 36.3982215,
+    "requested_s": 36.431454,
+    "frame_index": 1092,
+    "media_pts_s": 36.398786707109764,
+    "sha256": "afb7e3cb6bb7f9f72a6a2a7122cc3c8614089517c4f9ccb0662ff1b6a1e81973"
+  },
+  "36.4982165": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_36.498216.png",
+    "pts_s": 36.4982165,
+    "capture_time_s": 36.4982165,
+    "requested_s": 36.4982165,
+    "frame_index": 1095,
+    "media_pts_s": 36.498783373887534,
+    "sha256": "796be66ffc01f87c83d96441f9860467ddc0ff8db414e7f9a6ccb7d2e687c7ce"
+  },
+  "38.431454": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_38.431454.png",
+    "pts_s": 38.431454,
+    "capture_time_s": 38.431454,
+    "requested_s": 38.431454,
+    "frame_index": 1153,
+    "media_pts_s": 38.4320522649245,
+    "sha256": "437da6738c18c2d29fd49efbb1a816c98a27f2d6ebfb7af0d7be091e12de4590"
+  },
+  "39.6310959": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_39.631096.png",
+    "pts_s": 39.5980627,
+    "capture_time_s": 39.5980627,
+    "requested_s": 39.6310959,
+    "frame_index": 1188,
+    "media_pts_s": 39.598680043998534,
+    "sha256": "f3e7fb68409dfc6ba8dcac2a2cbe198227571754e990b39ab284aaf7050c0678"
+  },
+  "41.6310959": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_41.631096.png",
+    "pts_s": 41.5979633,
+    "capture_time_s": 41.5979633,
+    "requested_s": 41.6310959,
+    "frame_index": 1248,
+    "media_pts_s": 41.59861337955402,
+    "sha256": "86322cad9ece8adcb347f477cde5a933c1222d108b39d0f0f7c12723838f7d6e"
+  },
+  "43.6310959": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_43.631096.png",
+    "pts_s": 43.5978638,
+    "capture_time_s": 43.5978638,
+    "requested_s": 43.6310959,
+    "frame_index": 1308,
+    "media_pts_s": 43.5985467151095,
+    "sha256": "8f32f78446b2087b35e543cb4fd7aa860a3fbec28202fb67470d0ca3d54b09e7"
+  },
+  "45.6310959": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_45.631096.png",
+    "pts_s": 45.6310959,
+    "capture_time_s": 45.6310959,
+    "requested_s": 45.6310959,
+    "frame_index": 1369,
+    "media_pts_s": 45.631812272924236,
+    "sha256": "298ca5d0203ee64be3ec9fd5f6d6b2f375ecd08050715d13aa44ee97353e6958"
+  },
+  "75.6959544": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_75.695954.png",
+    "pts_s": 75.6629248,
+    "capture_time_s": 75.6629248,
+    "requested_s": 75.6959544,
+    "frame_index": 2270,
+    "media_pts_s": 75.66414452851572,
+    "sha256": "210ea057a4fa4c0f2bc7c44e6674e6e270920da3358e53ddfaf657ad8d472024"
+  },
+  "77.2292104": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_77.229210.png",
+    "pts_s": 77.196181,
+    "capture_time_s": 77.196181,
+    "requested_s": 77.2292104,
+    "frame_index": 2316,
+    "media_pts_s": 77.19742675244159,
+    "sha256": "c36f7a064dce5c82d702eb7a1e96f366f23f7117e2dfc5da5c05e10c717defe4"
+  },
+  "77.6959544": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_77.695954.png",
+    "pts_s": 77.6628242,
+    "capture_time_s": 77.6628242,
+    "requested_s": 77.6959544,
+    "frame_index": 2330,
+    "media_pts_s": 77.6640778640712,
+    "sha256": "0e1d4090975f68312ebad8e158d77c84a03db7955cf828ae01ebe5499ccc0db8"
+  },
+  "79.2292104": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_79.229210.png",
+    "pts_s": 79.1960803,
+    "capture_time_s": 79.1960803,
+    "requested_s": 79.2292104,
+    "frame_index": 2376,
+    "media_pts_s": 79.19736008799707,
+    "sha256": "752d063cde2bcdcdd6c9d1adf44d456a77050d5f3f3ec916d4318b88bf37a69f"
+  },
+  "79.4290995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_79.429100.png",
+    "pts_s": 79.3960703,
+    "capture_time_s": 79.3960703,
+    "requested_s": 79.4290995,
+    "frame_index": 2382,
+    "media_pts_s": 79.39735342155261,
+    "sha256": "78b03a4936d485a176767374dcac32173fa446f479e881d18abb9c08e435dc02"
+  },
+  "79.6959544": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_79.695954.png",
+    "pts_s": 79.6627235,
+    "capture_time_s": 79.6627235,
+    "requested_s": 79.6959544,
+    "frame_index": 2390,
+    "media_pts_s": 79.66401119962669,
+    "sha256": "f46791bc392065c4e5470157f8885805385ff34864a1cc802c64fec041649c84"
+  },
+  "81.2292104": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_81.229210.png",
+    "pts_s": 81.1959796,
+    "capture_time_s": 81.1959796,
+    "requested_s": 81.2292104,
+    "frame_index": 2436,
+    "media_pts_s": 81.19729342355255,
+    "sha256": "9a62cea0a60a97064b9c36025c5ec970992643885140700fe83ab51b3fc6e02a"
+  },
+  "81.4290995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_81.429100.png",
+    "pts_s": 81.3959695,
+    "capture_time_s": 81.3959695,
+    "requested_s": 81.4290995,
+    "frame_index": 2442,
+    "media_pts_s": 81.39728675710809,
+    "sha256": "eea6b2d7ea52955e5d983a1a42f0ff94d2386f486700c4957460dcb95969cd49"
+  },
+  "81.6959544": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_81.695954.png",
+    "pts_s": 81.6959544,
+    "capture_time_s": 81.6959544,
+    "requested_s": 81.6959544,
+    "frame_index": 2451,
+    "media_pts_s": 81.69727675744141,
+    "sha256": "d1ea2380f8b9db7a6e018d2f3d703efef443ca5f60a93bde0297d0b63a3cee59"
+  },
+  "81.9956365": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_81.995637.png",
+    "pts_s": 81.9626076,
+    "capture_time_s": 81.9626076,
+    "requested_s": 81.9956365,
+    "frame_index": 2459,
+    "media_pts_s": 81.96393453551548,
+    "sha256": "8a25ff73f1fdb02a0532b3b9262e311d691aec5c88f6c00514e0add24fd8cd05"
+  },
+  "83.2292104": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_83.229210.png",
+    "pts_s": 83.2292104,
+    "capture_time_s": 83.2292104,
+    "requested_s": 83.2292104,
+    "frame_index": 2497,
+    "media_pts_s": 83.23055898136728,
+    "sha256": "66d2aeddc12ab4c9339cb659da3fcff2d24aff5235196a65d5c441f85491dd04"
+  },
+  "83.4290995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_83.429100.png",
+    "pts_s": 83.3958687,
+    "capture_time_s": 83.3958687,
+    "requested_s": 83.4290995,
+    "frame_index": 2502,
+    "media_pts_s": 83.39722009266357,
+    "sha256": "a35eb843fbeeccbbc298b880f7a0af87c01aba117228066f7d8ddb17518c41cd"
+  },
+  "83.9956365": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_83.995637.png",
+    "pts_s": 83.9625068,
+    "capture_time_s": 83.9625068,
+    "requested_s": 83.9956365,
+    "frame_index": 2519,
+    "media_pts_s": 83.96386787107096,
+    "sha256": "f536ef851790df50b14697342f1fbe167362a1edd07a354573c23ddcd8ba5935"
+  },
+  "84.0621987": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_84.062199.png",
+    "pts_s": 84.0291701,
+    "capture_time_s": 84.0291701,
+    "requested_s": 84.0621987,
+    "frame_index": 2521,
+    "media_pts_s": 84.03053231558948,
+    "sha256": "868d3b875aea19226877c9acb48bf30a1a1a0ab49b6bd0495962d84b7f8742d5"
+  },
+  "85.4290995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_85.429100.png",
+    "pts_s": 85.4290995,
+    "capture_time_s": 85.4290995,
+    "requested_s": 85.4290995,
+    "frame_index": 2563,
+    "media_pts_s": 85.43048565047832,
+    "sha256": "e3f95c7cfb9d4b19fc0d3bb9454f0febcbfebc5bfe49232a5fdaf83e94f8796d"
+  },
+  "85.9956365": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_85.995637.png",
+    "pts_s": 85.9624059,
+    "capture_time_s": 85.9624059,
+    "requested_s": 85.9956365,
+    "frame_index": 2579,
+    "media_pts_s": 85.96380120662644,
+    "sha256": "2ea74c1a80e3c65ac1eec060b59fef8e6f4f3476990b19f1975d575756d2e899"
+  },
+  "86.0621987": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_86.062199.png",
+    "pts_s": 86.0290691,
+    "capture_time_s": 86.0290691,
+    "requested_s": 86.0621987,
+    "frame_index": 2581,
+    "media_pts_s": 86.03046565114497,
+    "sha256": "41dec970d61aca5afd4c1035bfacf14e9eb140fbb5b1e6f78378a083aa667928"
+  },
+  "86.1954241": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_86.195424.png",
+    "pts_s": 86.1623958,
+    "capture_time_s": 86.1623958,
+    "requested_s": 86.1954241,
+    "frame_index": 2585,
+    "media_pts_s": 86.163794540182,
+    "sha256": "decd6b6d44dd0fda33a620d596841c6a8a6a91a60a36a20b4aadaa574ca8e4c7"
+  },
+  "87.9956365": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_87.995637.png",
+    "pts_s": 87.9956365,
+    "capture_time_s": 87.9956365,
+    "requested_s": 87.9956365,
+    "frame_index": 2640,
+    "media_pts_s": 87.99706676444119,
+    "sha256": "9e663aa135d740d8701c38b259a20bd0785861f3a62f43b2900dc2d2696709f7"
+  },
+  "88.0621987": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_88.062199.png",
+    "pts_s": 88.0289682,
+    "capture_time_s": 88.0289682,
+    "requested_s": 88.0621987,
+    "frame_index": 2641,
+    "media_pts_s": 88.03039898670045,
+    "sha256": "0eb174c209b18f5447642f31f7619284217e813d8c8cafd69770ccfb271654e7"
+  },
+  "88.1954241": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_88.195424.png",
+    "pts_s": 88.1622948,
+    "capture_time_s": 88.1622948,
+    "requested_s": 88.1954241,
+    "frame_index": 2645,
+    "media_pts_s": 88.16372787573748,
+    "sha256": "de50b9f484b9b7aa4d243a92f6403b0f8510ef2c37f3ca25b3272384d83ee001"
+  },
+  "90.0621987": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_90.062199.png",
+    "pts_s": 90.0621987,
+    "capture_time_s": 90.0621987,
+    "requested_s": 90.0621987,
+    "frame_index": 2702,
+    "media_pts_s": 90.06366454451518,
+    "sha256": "d56a5be1cf05b9c92ee1c5cec8c8f75e0b5e060939cb04d32720888fb2be0122"
+  },
+  "90.1954241": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_90.195424.png",
+    "pts_s": 90.1621937,
+    "capture_time_s": 90.1621937,
+    "requested_s": 90.1954241,
+    "frame_index": 2705,
+    "media_pts_s": 90.16366121129296,
+    "sha256": "8e69b61143caa0fb79b050fdf579ff2c5be320795f5390a701cb6d260c9248dd"
+  },
+  "90.9951811": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_90.995181.png",
+    "pts_s": 90.9621532,
+    "capture_time_s": 90.9621532,
+    "requested_s": 90.9951811,
+    "frame_index": 2729,
+    "media_pts_s": 90.96363454551515,
+    "sha256": "e0f48059d5a83361d54f39c7bbbaf1fa3078da559b55a5e10acd4f2f25bfeb47"
+  },
+  "92.1954241": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_92.195424.png",
+    "pts_s": 92.1954241,
+    "capture_time_s": 92.1954241,
+    "requested_s": 92.1954241,
+    "frame_index": 2766,
+    "media_pts_s": 92.19692676910769,
+    "sha256": "a983b2aa470aa8448ffc86b116cd48471467d4dd01b33774fd99d903700c210b"
+  },
+  "92.9951811": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_92.995181.png",
+    "pts_s": 92.962052,
+    "capture_time_s": 92.962052,
+    "requested_s": 92.9951811,
+    "frame_index": 2789,
+    "media_pts_s": 92.96356788107063,
+    "sha256": "5f4537b7e45acba3d9956f26f9c6c49238b1c56f82fe78aba0addac71423d088"
+  },
+  "94.9283146": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_94.928315.png",
+    "pts_s": 94.8952875,
+    "capture_time_s": 94.8952875,
+    "requested_s": 94.9283146,
+    "frame_index": 2847,
+    "media_pts_s": 94.89683677210759,
+    "sha256": "27afc87f24f59bc2aaf199f0249e94fd64a7f6222aeef7e9de4dacafd7ca73f2"
+  },
+  "94.9951811": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_94.995181.png",
+    "pts_s": 94.9619508,
+    "capture_time_s": 94.9619508,
+    "requested_s": 94.9951811,
+    "frame_index": 2849,
+    "media_pts_s": 94.96350121662611,
+    "sha256": "eca30a2b08d7af270392d217b3ef0613fa117d59caeafbaa014bdc87a4b454c3"
+  },
+  "95.728274": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_95.728274.png",
+    "pts_s": 95.695247,
+    "capture_time_s": 95.695247,
+    "requested_s": 95.728274,
+    "frame_index": 2871,
+    "media_pts_s": 95.69681010632979,
+    "sha256": "a9267d9a6863d579ee1bc6adeaa32b7f9667ebd7913dce35c219bba84f319317"
+  },
+  "96.9283146": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_96.928315.png",
+    "pts_s": 96.8951861,
+    "capture_time_s": 96.8951861,
+    "requested_s": 96.9283146,
+    "frame_index": 2907,
+    "media_pts_s": 96.89677010766307,
+    "sha256": "235cb05c32526e7a377b884cd8e644966f102522415f7d58d36e74ce96fe17e0"
+  },
+  "96.9951811": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_96.995181.png",
+    "pts_s": 96.9951811,
+    "capture_time_s": 96.9951811,
+    "requested_s": 96.9951811,
+    "frame_index": 2910,
+    "media_pts_s": 96.99676677444086,
+    "sha256": "2c2ca9a5073c1c5359d0dfef6026a1aec8ac6f2536e3fd5c24ff053688cb6ffc"
+  },
+  "97.728274": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_97.728274.png",
+    "pts_s": 97.6951455,
+    "capture_time_s": 97.6951455,
+    "requested_s": 97.728274,
+    "frame_index": 2931,
+    "media_pts_s": 97.69674344188527,
+    "sha256": "cc1adc4677a068f979e1e598307b2d755539a8c909731169cfb0c960f60119b1"
+  },
+  "98.9283146": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_98.928315.png",
+    "pts_s": 98.8950846,
+    "capture_time_s": 98.8950846,
+    "requested_s": 98.9283146,
+    "frame_index": 2967,
+    "media_pts_s": 98.89670344321856,
+    "sha256": "10b8d3c00254bd23b807882fdf59f24242b0720c174b7dfe2eb3b7cfd2990b71"
+  },
+  "99.728274": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_99.728274.png",
+    "pts_s": 99.6950439,
+    "capture_time_s": 99.6950439,
+    "requested_s": 99.728274,
+    "frame_index": 2991,
+    "media_pts_s": 99.69667677744076,
+    "sha256": "d6ede3b2512b20548d5a2835c22d38836e3ed9233ca3c63c776e5c758510b824"
+  },
+  "100.9283146": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_100.928315.png",
+    "pts_s": 100.9283146,
+    "capture_time_s": 100.9283146,
+    "requested_s": 100.9283146,
+    "frame_index": 3028,
+    "media_pts_s": 100.9299690010333,
+    "sha256": "c8640485882e78c61a5f9368007bceb6baff751d7443aaad79240dacf64e561b"
+  },
+  "101.728274": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R012-7July-Nespresso_101.728274.png",
+    "pts_s": 101.728274,
+    "capture_time_s": 101.728274,
+    "requested_s": 101.728274,
+    "frame_index": 3052,
+    "media_pts_s": 101.72994233525549,
+    "sha256": "ee6a497a989fac8e37331a51bcb176729060f6852fdd48ee5902460155cba50a"
+  }
+}

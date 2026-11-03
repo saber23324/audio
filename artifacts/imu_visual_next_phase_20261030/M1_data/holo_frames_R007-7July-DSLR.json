@@ -1,0 +1,578 @@
+{
+  "4.632745": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_4.632745.png",
+    "pts_s": 4.5997459,
+    "capture_time_s": 4.5997459,
+    "requested_s": 4.632745,
+    "frame_index": 138,
+    "media_pts_s": 4.599693353776415,
+    "sha256": "0c030ca18329a9808b6e6598ac6fb145d7dee55ae5443d5003999d782c0ed3f8"
+  },
+  "6.632745": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_6.632745.png",
+    "pts_s": 6.5996351,
+    "capture_time_s": 6.5996351,
+    "requested_s": 6.632745,
+    "frame_index": 198,
+    "media_pts_s": 6.599560029331378,
+    "sha256": "25d169dba4158110b7ed77a3ad4bc1e46ec29daf35451f3939e0f0e88f2b70ed"
+  },
+  "8.632745": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_8.632745.png",
+    "pts_s": 8.5995244,
+    "capture_time_s": 8.5995244,
+    "requested_s": 8.632745,
+    "frame_index": 258,
+    "media_pts_s": 8.59942670488634,
+    "sha256": "ce6cbd7840ecf36cb9531168f702c09592d4398042b95deef12389856714ca12"
+  },
+  "9.6324675": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_9.632468.png",
+    "pts_s": 9.599469,
+    "capture_time_s": 9.599469,
+    "requested_s": 9.6324675,
+    "frame_index": 288,
+    "media_pts_s": 9.599360042663822,
+    "sha256": "d07c759fd5dbbd48aad9bffe91233b636f3f3558d44fb8fb26ee0da9963cdae0"
+  },
+  "10.632745": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_10.632745.png",
+    "pts_s": 10.632745,
+    "capture_time_s": 10.632745,
+    "requested_s": 10.632745,
+    "frame_index": 319,
+    "media_pts_s": 10.632624491700554,
+    "sha256": "b0efc179acb0d37d49b71ecd233716c1bf2bf6bc72595417144678343c3b9c5d"
+  },
+  "11.6324675": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_11.632468.png",
+    "pts_s": 11.5993581,
+    "capture_time_s": 11.5993581,
+    "requested_s": 11.6324675,
+    "frame_index": 348,
+    "media_pts_s": 11.599226718218786,
+    "sha256": "2cc45f2ff2262545653c92431f6c2d5c0d52fbfe3a95bfaec6aa3e711e73e6b6"
+  },
+  "12.0989972": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_12.098997.png",
+    "pts_s": 12.0659988,
+    "capture_time_s": 12.0659988,
+    "requested_s": 12.0989972,
+    "frame_index": 362,
+    "media_pts_s": 12.065862275848277,
+    "sha256": "95cb83d7529bee357fe628f2e4cedb23a643b8536fad4f51cda6db510db265c3"
+  },
+  "13.6324675": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_13.632468.png",
+    "pts_s": 13.5992471,
+    "capture_time_s": 13.5992471,
+    "requested_s": 13.6324675,
+    "frame_index": 408,
+    "media_pts_s": 13.599093393773748,
+    "sha256": "7256943c842ee07116f9c2e30765c6c7f101bfab7774b399c3e1a62132b8d83c"
+  },
+  "14.0989972": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_14.098997.png",
+    "pts_s": 14.0658879,
+    "capture_time_s": 14.0658879,
+    "requested_s": 14.0989972,
+    "frame_index": 422,
+    "media_pts_s": 14.06572895140324,
+    "sha256": "8b4295d886723dfe350f54018ac66db99646ca3d49a66514a1f72ad595a0fe7a"
+  },
+  "14.732184199999999": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_14.732184.png",
+    "pts_s": 14.699186,
+    "capture_time_s": 14.699186,
+    "requested_s": 14.732184199999999,
+    "frame_index": 441,
+    "media_pts_s": 14.699020065328979,
+    "sha256": "7fe1936db1a5b782c68251f229548b4babd440bfa3b5000b0f8c70a834e8d7a3"
+  },
+  "15.6324675": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_15.632468.png",
+    "pts_s": 15.6324675,
+    "capture_time_s": 15.6324675,
+    "requested_s": 15.6324675,
+    "frame_index": 469,
+    "media_pts_s": 15.632291180587961,
+    "sha256": "8d55984eccd9979b6472c15b30fb807ac3b054e765c26d57fd8a9e93178e45ef"
+  },
+  "16.0989972": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_16.098997.png",
+    "pts_s": 16.0657768,
+    "capture_time_s": 16.0657768,
+    "requested_s": 16.0989972,
+    "frame_index": 482,
+    "media_pts_s": 16.065595626958203,
+    "sha256": "89c18666540218263ec599030289fb485f4158e4c6081bf9b78c87f3ade04a22"
+  },
+  "16.7321842": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_16.732184.png",
+    "pts_s": 16.6990749,
+    "capture_time_s": 16.6990749,
+    "requested_s": 16.7321842,
+    "frame_index": 501,
+    "media_pts_s": 16.698886740883943,
+    "sha256": "2a5625b285bd11f1659ae23fc6392c3a9a52474d36b3d85f322412ee8ad62a74"
+  },
+  "17.0653876": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_17.065388.png",
+    "pts_s": 17.0323898,
+    "capture_time_s": 17.0323898,
+    "requested_s": 17.0653876,
+    "frame_index": 511,
+    "media_pts_s": 17.032197853476436,
+    "sha256": "c7fd7db75cc191fed07ff5c3dd80a1f5b2200e3566dca4a92eec1d1b2fb0e76e"
+  },
+  "18.0989972": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_18.098997.png",
+    "pts_s": 18.0989972,
+    "capture_time_s": 18.0989972,
+    "requested_s": 18.0989972,
+    "frame_index": 543,
+    "media_pts_s": 18.098793413772416,
+    "sha256": "f1c873793cc9587506a61d44df974523dee36eff9b42de5c8976d1a44eb51db4"
+  },
+  "18.3319838": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_18.331984.png",
+    "pts_s": 18.298986,
+    "capture_time_s": 18.298986,
+    "requested_s": 18.3319838,
+    "frame_index": 549,
+    "media_pts_s": 18.298780081327912,
+    "sha256": "2bb6c2d4c8d4374490f10ab561abe615acd6b75f128b41b33e4506f0e1790972"
+  },
+  "18.7321842": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_18.732184.png",
+    "pts_s": 18.6989638,
+    "capture_time_s": 18.6989638,
+    "requested_s": 18.7321842,
+    "frame_index": 561,
+    "media_pts_s": 18.698753416438905,
+    "sha256": "c910f720968d4004cf1706f3379d4f09f43f4c254310c6f7251ebe2c13f1d47b"
+  },
+  "19.0653876": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_19.065388.png",
+    "pts_s": 19.0322786,
+    "capture_time_s": 19.0322786,
+    "requested_s": 19.0653876,
+    "frame_index": 571,
+    "media_pts_s": 19.0320645290314,
+    "sha256": "163ce73e8da634a8b9944080bcad0a799841fd1d8440319270aaccdd192b6486"
+  },
+  "20.3319838": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_20.331984.png",
+    "pts_s": 20.2988749,
+    "capture_time_s": 20.2988749,
+    "requested_s": 20.3319838,
+    "frame_index": 609,
+    "media_pts_s": 20.298646756882874,
+    "sha256": "10cb21593643ce308ded0f6cb8f87a0940b1dd82b903d0f09d6b3126b22f732c"
+  },
+  "20.7318502": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_20.731850.png",
+    "pts_s": 20.6988526,
+    "capture_time_s": 20.6988526,
+    "requested_s": 20.7318502,
+    "frame_index": 621,
+    "media_pts_s": 20.698620091993867,
+    "sha256": "72b1473ad77a9264ce3fa9759970e7cccc5615eb0d21264badb31401117f9e67"
+  },
+  "20.7321842": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_20.732184.png",
+    "pts_s": 20.7321842,
+    "capture_time_s": 20.7321842,
+    "requested_s": 20.7321842,
+    "frame_index": 622,
+    "media_pts_s": 20.731951203253118,
+    "sha256": "8f2ecc21e64f0466055dec42c4a37b95a4cf6acac221ea675a5eafc29eef8600"
+  },
+  "21.0653876": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_21.065388.png",
+    "pts_s": 21.0321674,
+    "capture_time_s": 21.0321674,
+    "requested_s": 21.0653876,
+    "frame_index": 631,
+    "media_pts_s": 21.03193120458636,
+    "sha256": "2051f761b949d637a89eec6465597635de7bf0a131d64791327057d96cfa1cee"
+  },
+  "22.3319838": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_22.331984.png",
+    "pts_s": 22.2987636,
+    "capture_time_s": 22.2987636,
+    "requested_s": 22.3319838,
+    "frame_index": 669,
+    "media_pts_s": 22.298513432437836,
+    "sha256": "57fa7a4aafdbfd4c6474d4a4afa68069df2bde699e4bc070e1de865c6de534e2"
+  },
+  "22.7318502": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_22.731850.png",
+    "pts_s": 22.6987413,
+    "capture_time_s": 22.6987413,
+    "requested_s": 22.7318502,
+    "frame_index": 681,
+    "media_pts_s": 22.69848676754883,
+    "sha256": "501850c735e795c9b642284d6e799869f00c1074481cea559927d0cc2af3110d"
+  },
+  "23.0653876": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_23.065388.png",
+    "pts_s": 23.0653876,
+    "capture_time_s": 23.0653876,
+    "requested_s": 23.0653876,
+    "frame_index": 692,
+    "media_pts_s": 23.065128991400574,
+    "sha256": "ae2e4aaab29cbcda6ed0bcd8c6355318cf8c7bbadaeff13ff3f6a1bdf77e81da"
+  },
+  "24.2316552": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_24.231655.png",
+    "pts_s": 24.1986579,
+    "capture_time_s": 24.1986579,
+    "requested_s": 24.2316552,
+    "frame_index": 726,
+    "media_pts_s": 24.198386774215052,
+    "sha256": "8090f8f74a4ec3983234fe5435b9b4383498c67391d8b6a32a96da83e322a9ec"
+  },
+  "24.3319838": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_24.331984.png",
+    "pts_s": 24.3319838,
+    "capture_time_s": 24.3319838,
+    "requested_s": 24.3319838,
+    "frame_index": 730,
+    "media_pts_s": 24.33171121925205,
+    "sha256": "9f6e33249bf07c11d93ff75a9afe91a6c391b4beabd213ae20ade6ec7101cc5f"
+  },
+  "24.7318502": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_24.731850.png",
+    "pts_s": 24.69863,
+    "capture_time_s": 24.69863,
+    "requested_s": 24.7318502,
+    "frame_index": 741,
+    "media_pts_s": 24.698353443103795,
+    "sha256": "5a65c157c3e1c66975dd1c1dbb90702ecd06ca2459d28fff2da01845ff877997"
+  },
+  "26.2316552": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_26.231655.png",
+    "pts_s": 26.1985466,
+    "capture_time_s": 26.1985466,
+    "requested_s": 26.2316552,
+    "frame_index": 786,
+    "media_pts_s": 26.198253449770014,
+    "sha256": "43ee341f146f3385c3eea744bb42abb637ff4a24fd9ccf0bf17d4ae2da0e04f8"
+  },
+  "26.7318502": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_26.731850.png",
+    "pts_s": 26.7318502,
+    "capture_time_s": 26.7318502,
+    "requested_s": 26.7318502,
+    "frame_index": 802,
+    "media_pts_s": 26.731551229918004,
+    "sha256": "38294e50c1d599a5a1d6b5b0bd6427d5af67f678cf0d1ca4294dd14e53600dfa"
+  },
+  "28.2316552": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_28.231655.png",
+    "pts_s": 28.1984351,
+    "capture_time_s": 28.1984351,
+    "requested_s": 28.2316552,
+    "frame_index": 846,
+    "media_pts_s": 28.19812012532498,
+    "sha256": "667681e1794db27900d62ba05ba9f518311253b88a7db877a6938d7c5996fe1b"
+  },
+  "29.631354199999997": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_29.631354.png",
+    "pts_s": 29.5983572,
+    "capture_time_s": 29.5983572,
+    "requested_s": 29.631354199999997,
+    "frame_index": 888,
+    "media_pts_s": 29.598026798213454,
+    "sha256": "edcf781fd69ee263975a96b33bf859d33db523a297f9066a6aa323f69971f03a"
+  },
+  "30.2316552": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_30.231655.png",
+    "pts_s": 30.2316552,
+    "capture_time_s": 30.2316552,
+    "requested_s": 30.2316552,
+    "frame_index": 907,
+    "media_pts_s": 30.23131791213919,
+    "sha256": "ad836b341ee7e21a479c4d895b71dceb5690f538169c1de07b0750dc465d7656"
+  },
+  "31.097939099999998": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_31.097939.png",
+    "pts_s": 31.0649421,
+    "capture_time_s": 31.0649421,
+    "requested_s": 31.097939099999998,
+    "frame_index": 932,
+    "media_pts_s": 31.064595693620426,
+    "sha256": "679938d9d4aefa0f11bc656b464bfc76c0e0564d3558af512e7ab348ea019194"
+  },
+  "31.631354199999997": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_31.631354.png",
+    "pts_s": 31.5982458,
+    "capture_time_s": 31.5982458,
+    "requested_s": 31.631354199999997,
+    "frame_index": 948,
+    "media_pts_s": 31.597893473768416,
+    "sha256": "f4e42aa9c4e15dc420b3db707c784bfb386ec11d15370a5898638184ae97fd99"
+  },
+  "33.0979391": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_33.097939.png",
+    "pts_s": 33.0648307,
+    "capture_time_s": 33.0648307,
+    "requested_s": 33.0979391,
+    "frame_index": 992,
+    "media_pts_s": 33.06446236917539,
+    "sha256": "8d3135d31a388a15700f89ba098358be698a7ab04b584ca749898e6ecd22bd65"
+  },
+  "33.6313542": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_33.631354.png",
+    "pts_s": 33.5981343,
+    "capture_time_s": 33.5981343,
+    "requested_s": 33.6313542,
+    "frame_index": 1008,
+    "media_pts_s": 33.59776014932338,
+    "sha256": "6a3e3e5cbdb274f7281181822e999abf00128a9fa689680b7c2c983a248ee985"
+  },
+  "34.4310864": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_34.431086.png",
+    "pts_s": 34.3980897,
+    "capture_time_s": 34.3980897,
+    "requested_s": 34.4310864,
+    "frame_index": 1032,
+    "media_pts_s": 34.39770681954536,
+    "sha256": "9cdf166b3afa4c12232c01daeae391274767b77d93ba92bf075b011b0de86f53"
+  },
+  "35.0979391": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_35.097939.png",
+    "pts_s": 35.0647192,
+    "capture_time_s": 35.0647192,
+    "requested_s": 35.0979391,
+    "frame_index": 1052,
+    "media_pts_s": 35.06432904473035,
+    "sha256": "2fd05f0a541a1c07b0838f911508487d0aac06053b27572d16d30838e8cc0da5"
+  },
+  "35.6313542": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_35.631354.png",
+    "pts_s": 35.6313542,
+    "capture_time_s": 35.6313542,
+    "requested_s": 35.6313542,
+    "frame_index": 1069,
+    "media_pts_s": 35.63095793613759,
+    "sha256": "811d335a6c868a7e6260f72e1cba80b0732ee721e4a86e6cdf1f41ec395a2fae"
+  },
+  "36.4310864": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_36.431086.png",
+    "pts_s": 36.3979781,
+    "capture_time_s": 36.3979781,
+    "requested_s": 36.4310864,
+    "frame_index": 1092,
+    "media_pts_s": 36.397573495100325,
+    "sha256": "0112fb053f442e79ced475c02a57249ea7b91e507164f8a7dc67606f861ceca4"
+  },
+  "37.0979391": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_37.097939.png",
+    "pts_s": 37.0979391,
+    "capture_time_s": 37.0979391,
+    "requested_s": 37.0979391,
+    "frame_index": 1113,
+    "media_pts_s": 37.09752683154456,
+    "sha256": "0af0efe1b25826ee48ce0fd876f06b7c7a35d59c470a4567ff556ba330f7fbcc"
+  },
+  "37.8308965": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_37.830897.png",
+    "pts_s": 37.7979,
+    "capture_time_s": 37.7979,
+    "requested_s": 37.8308965,
+    "frame_index": 1134,
+    "media_pts_s": 37.7974801679888,
+    "sha256": "e92e996892ec40152ca1f7a482a198e5db252a5c176eb0ae4916349011e7ca75"
+  },
+  "38.4310864": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_38.431086.png",
+    "pts_s": 38.3978665,
+    "capture_time_s": 38.3978665,
+    "requested_s": 38.4310864,
+    "frame_index": 1152,
+    "media_pts_s": 38.39744017065529,
+    "sha256": "9a55d6adc2ec8bc36e5a825bf53e4d8bb89b8cb9d42c33a9a68a017720d8c81b"
+  },
+  "39.5308016": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_39.530802.png",
+    "pts_s": 39.4978051,
+    "capture_time_s": 39.4978051,
+    "requested_s": 39.5308016,
+    "frame_index": 1185,
+    "media_pts_s": 39.49736684221052,
+    "sha256": "321e3b121f5db0dd77c0078935efa787b3a4537cd146f26c45c5e0893c2eb6b8"
+  },
+  "39.8308965": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_39.830897.png",
+    "pts_s": 39.7977884,
+    "capture_time_s": 39.7977884,
+    "requested_s": 39.8308965,
+    "frame_index": 1194,
+    "media_pts_s": 39.797346843543764,
+    "sha256": "4b978cc22645f63c88dab288b6e7d0247d6d6ef07fadefefc5a093e51915589f"
+  },
+  "40.4310864": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_40.431086.png",
+    "pts_s": 40.4310864,
+    "capture_time_s": 40.4310864,
+    "requested_s": 40.4310864,
+    "frame_index": 1213,
+    "media_pts_s": 40.4306379574695,
+    "sha256": "37062ed9ec2bf6fcc125af69b2386063092dd48137d96c1930e5436acd6ff04c"
+  },
+  "41.5308016": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_41.530802.png",
+    "pts_s": 41.4976935,
+    "capture_time_s": 41.4976935,
+    "requested_s": 41.5308016,
+    "frame_index": 1245,
+    "media_pts_s": 41.49723351776548,
+    "sha256": "205b2a9135ebcee131214ac0680054f86ac70c4f6165b483a30a918e7729b539"
+  },
+  "41.8308965": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_41.830897.png",
+    "pts_s": 41.7976768,
+    "capture_time_s": 41.7976768,
+    "requested_s": 41.8308965,
+    "frame_index": 1254,
+    "media_pts_s": 41.797213519098726,
+    "sha256": "ee65f8c485c6b1fb82da8ecbeaf209698497b37cb964631202ca75e6e25906ea"
+  },
+  "42.8306173": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_42.830617.png",
+    "pts_s": 42.7976209,
+    "capture_time_s": 42.7976209,
+    "requested_s": 42.8306173,
+    "frame_index": 1284,
+    "media_pts_s": 42.79714685687621,
+    "sha256": "7925648d8667c64eaaca7d6b588efabf750c1c269ccf47c17841b41bfac52c6c"
+  },
+  "43.5308016": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_43.530802.png",
+    "pts_s": 43.4975818,
+    "capture_time_s": 43.4975818,
+    "requested_s": 43.5308016,
+    "frame_index": 1305,
+    "media_pts_s": 43.49710019332044,
+    "sha256": "57435e526b6874e45ad3cbabf33dc1541102552541ee21f7416e7a869eb94af8"
+  },
+  "43.8308965": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_43.830897.png",
+    "pts_s": 43.8308965,
+    "capture_time_s": 43.8308965,
+    "requested_s": 43.8308965,
+    "frame_index": 1315,
+    "media_pts_s": 43.83041130591294,
+    "sha256": "dbcb2b0511c865c354cc6ac6549a7b0708863fbb95075d9b8a90c1a505b5bfa6"
+  },
+  "44.8306173": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_44.830617.png",
+    "pts_s": 44.7975093,
+    "capture_time_s": 44.7975093,
+    "requested_s": 44.8306173,
+    "frame_index": 1344,
+    "media_pts_s": 44.79701353243117,
+    "sha256": "5afe7a9780ddbc0d6c4fcb7c22f8bb58c82b6a50a72f3491be79b333ddc89d2e"
+  },
+  "45.5308016": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_45.530802.png",
+    "pts_s": 45.5308016,
+    "capture_time_s": 45.5308016,
+    "requested_s": 45.5308016,
+    "frame_index": 1366,
+    "media_pts_s": 45.530297980134655,
+    "sha256": "738ef0ad92d495ffec49c745e5ec6d3dc120580fbb31cae67c2f0c045ba69504"
+  },
+  "46.8306173": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_46.830617.png",
+    "pts_s": 46.7973975,
+    "capture_time_s": 46.7973975,
+    "requested_s": 46.8306173,
+    "frame_index": 1404,
+    "media_pts_s": 46.796880207986135,
+    "sha256": "99a1493d344213c97ef35cf502db4fdad74f033c41d57a198025ec2fc2495d4b"
+  },
+  "48.8306173": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_48.830617.png",
+    "pts_s": 48.8306173,
+    "capture_time_s": 48.8306173,
+    "requested_s": 48.8306173,
+    "frame_index": 1465,
+    "media_pts_s": 48.83007799480035,
+    "sha256": "0e7364507d92124d114c39ac70545c2838a42485abf01fbc513238c369b65a79"
+  },
+  "49.5302428": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_49.530243.png",
+    "pts_s": 49.4972467,
+    "capture_time_s": 49.4972467,
+    "requested_s": 49.5302428,
+    "frame_index": 1485,
+    "media_pts_s": 49.496700219985335,
+    "sha256": "a6b5c9d841ba751380ff64f5750c9ade091bf68866f994b31a3aa0de7623ba07"
+  },
+  "51.5302428": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_51.530243.png",
+    "pts_s": 51.4971349,
+    "capture_time_s": 51.4971349,
+    "requested_s": 51.5302428,
+    "frame_index": 1545,
+    "media_pts_s": 51.4965668955403,
+    "sha256": "8102e9861c7fa7f0a8b01a9a3cf41c2a26eb1b0b2f85a69f7cd490faf79e87fb"
+  },
+  "52.0967659": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_52.096766.png",
+    "pts_s": 52.0637699,
+    "capture_time_s": 52.0637699,
+    "requested_s": 52.0967659,
+    "frame_index": 1562,
+    "media_pts_s": 52.06319578694754,
+    "sha256": "f75b7365b7b7ab55af0d478f155d72f390f71502fff28dd2c37b682879910270"
+  },
+  "53.5302428": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_53.530243.png",
+    "pts_s": 53.4970232,
+    "capture_time_s": 53.4970232,
+    "requested_s": 53.5302428,
+    "frame_index": 1605,
+    "media_pts_s": 53.49643357109526,
+    "sha256": "1214bc4ab264cfe0e5fc8349c0ba5b44101dceff641b66bdde533c25467e3f62"
+  },
+  "54.0967659": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_54.096766.png",
+    "pts_s": 54.0636581,
+    "capture_time_s": 54.0636581,
+    "requested_s": 54.0967659,
+    "frame_index": 1622,
+    "media_pts_s": 54.0630624625025,
+    "sha256": "e2e7a2a7163dc9bebde6ca4b427a692732465ab4b0f9fbea07096dff5bc220a8"
+  },
+  "55.5302428": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_55.530243.png",
+    "pts_s": 55.5302428,
+    "capture_time_s": 55.5302428,
+    "requested_s": 55.5302428,
+    "frame_index": 1666,
+    "media_pts_s": 55.52963135790947,
+    "sha256": "3c94653fa86b9948b99b425071561f5cb3d7c31594521a800f456f9049b352a1"
+  },
+  "56.0967659": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_56.096766.png",
+    "pts_s": 56.0635462,
+    "capture_time_s": 56.0635462,
+    "requested_s": 56.0967659,
+    "frame_index": 1682,
+    "media_pts_s": 56.06292913805746,
+    "sha256": "fed7b3434b95a7d22581cf08e72a40a47b90e1fd3e09d62aa43f89c287a5f0c4"
+  },
+  "58.0967659": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R007-7July-DSLR_58.096766.png",
+    "pts_s": 58.0967659,
+    "capture_time_s": 58.0967659,
+    "requested_s": 58.0967659,
+    "frame_index": 1743,
+    "media_pts_s": 58.096126924871676,
+    "sha256": "1fbdb8ca1e60f43bfedc332caa8f62ab82ce7d33f56170f4e72354ab7e5ead65"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "rows": 576,
+  "roles": {
+    "val": 576
+  },
+  "strategies": [
+    "T0_V1",
+    "T1_REAL_always",
+    "T2_accuracy",
+    "T2_accuracy_same_mask_DUP",
+    "T2_accuracy_same_mask_WRONG",
+    "T2_accuracy_same_mask_ZERO",
+    "T2_cost",
+    "T2_cost_same_mask_DUP",
+    "T2_cost_same_mask_WRONG",
+    "T2_cost_same_mask_ZERO",
+    "T4_random_accuracy_1234",
+    "T4_random_accuracy_2234",
+    "T4_random_accuracy_3234",
+    "T4_random_cost_1234",
+    "T4_random_cost_2234",
+    "T4_random_cost_3234",
+    "T8_DUP_trained_always",
+    "T9_ZERO_trained_always"
+  ]
+}

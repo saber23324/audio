@@ -1,0 +1,18 @@
+{
+  "session_id": "R006-7July-Switch",
+  "pose_sync_sha256": "0978c6b3762e804b2f0ccd74d7ddbcf072a7c01d302605f815d4262e2f75ca5b",
+  "retained_unique_original_camera_ticks": 5335,
+  "MP4_frame_count": 5335,
+  "one_to_one_count_equal": true,
+  "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R006-7July-Switch.npz",
+  "capture_clock_sha256": "e6e81b29ffeffa9861e90b6ff7762a1ec037a7dd3104cce305dadc6c1948e8e8",
+  "origin_tick": 637928145969766178,
+  "MP4_rate": "15001/500",
+  "first_capture_s": 0.0,
+  "last_capture_s": 177.7902298,
+  "camera_interval_range_s": [
+    0.03333139999998025,
+    0.03333170000000152
+  ],
+  "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+}

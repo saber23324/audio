@@ -1,0 +1,34 @@
+{
+  "config": {
+    "kind": "P1",
+    "y_limits": {
+      "right_wrist:acc": 27.273784260800003,
+      "right_wrist:gyro": 508.7736797220016,
+      "right_thigh:acc": 27.273784260800003,
+      "right_thigh:gyro": 508.7736797220016
+    },
+    "size_px": [
+      768,
+      768
+    ],
+    "dpi": 120,
+    "font_size": 11,
+    "line_width": 1.5,
+    "scale_fit_role": "subjects1,3,5 trials2,3,4 only, no probe trial1 or subject7;99.5percentile absolute times1.1",
+    "scale_source_sha256": "1900de05775c04626dee30b34638b79dd739d481786f0a788f2fbb00663abea4"
+  },
+  "W_primary": 2.0,
+  "W_sensitivity": 4.0,
+  "representations": [
+    "P1",
+    "P2"
+  ],
+  "prompt_variants": [
+    "sensor_instructions",
+    "neutral"
+  ],
+  "smoke_sources": 108,
+  "source_sha256": "24fbd9dfdf7c120425ddbb60022eaa59f63c11a0d17da13b121e837cbdd87a18",
+  "not_a_strict_sync_bridge_claim": true,
+  "no_trainable_model": true
+}

@@ -1,0 +1,25 @@
+{
+  "source_id": "holo:R006-7July-Switch",
+  "sensor_full_streams_read": true,
+  "video_full_duration_s": 177.82147856809547,
+  "video_thumbnails_across_full_timeline": 3,
+  "whole_video_downloaded_or_all_frames_decoded": false,
+  "clock_count_match": true,
+  "frames": [
+    {
+      "playback_time_s": 8.899406706219585,
+      "capture_time_s": 8.8995232
+    },
+    {
+      "playback_time_s": 88.92740483967735,
+      "capture_time_s": 88.928491
+    },
+    {
+      "playback_time_s": 168.95540297313514,
+      "capture_time_s": 168.957389
+    }
+  ],
+  "manual_physical_alignment": "qualitative gallery only; not a calibrated residual sync error measurement",
+  "plot_not_used_in_model": true,
+  "gallery": "/home/yxd/audio_pic_gate/artifacts/imu_visual_next_phase_20261030/M1_data/timeline_R006-7July-Switch.png"
+}

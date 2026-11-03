@@ -1,0 +1,6 @@
+{
+  "utc": "2026-10-30T04:18:46.899266+00:00",
+  "commit": "016e6b483768a5918cdec55c40de156014f9d3ff",
+  "git_status": "?? .gitignore\n?? .gitmodules\n?? .vscode/\n?? AGENTS_IMU_AS_IMAGE_CAUSAL_GATE_ROUTER_NEXT_PHASE.md\n?? utility_gate/imu_visual/\n",
+  "taskbook_sha256": "842a97293da943a36b9d5a20a9bda26a8a7af902e637156476cf773bc8d51983"
+}

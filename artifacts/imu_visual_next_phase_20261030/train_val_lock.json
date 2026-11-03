@@ -1,0 +1,19 @@
+{
+  "calibration_only_Holo_sessions": [
+    "R016-7July-Navvis",
+    "R028-12July-Switch"
+  ],
+  "development_Holo_sessions": [
+    "R0027-12-GoPro",
+    "R005-7July-GoPro",
+    "R007-7July-DSLR",
+    "R012-7July-Nespresso"
+  ],
+  "UTD_development_sources_sha256": "24fbd9dfdf7c120425ddbb60022eaa59f63c11a0d17da13b121e837cbdd87a18",
+  "UTD_scale": "subjects1/3/5, takes2/3/4; development trial1 includes some same subjects; no subject-generalization claim",
+  "model_training_QA_sources": [],
+  "confirmation_sources": [],
+  "confirmation_state": "not_run; no independent confirmation pretest lock was issued",
+  "Holo_participant_ID": "not available in inspected metadata; no subject-disjoint claim",
+  "no_source_overlap_between_Holo_scale_and_dev": true
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "R026-11July-Navvis",
+  "pose_sync_sha256": "40d5cf81dd56240598314bcacf93f74af8354c14645358c60d9f88bc7aadb786",
+  "retained_unique_original_camera_ticks": 16504,
+  "MP4_frame_count": 16505,
+  "one_to_one_count_equal": false,
+  "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R026-11July-Navvis.npz",
+  "capture_clock_sha256": "28f08e44f1d1afeff5f4300e101e58d0f0279dc577a036ccd55301f8081439f0",
+  "origin_tick": 637931743402228753,
+  "MP4_rate": "24597/1000",
+  "first_capture_s": 0.0,
+  "last_capture_s": 670.9653212,
+  "camera_interval_range_s": [
+    0.03333139999995183,
+    0.4999773
+  ],
+  "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+}

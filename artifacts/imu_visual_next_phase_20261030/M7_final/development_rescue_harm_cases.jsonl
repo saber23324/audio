@@ -1,0 +1,21 @@
+{"dataset": "utd", "qa_id": "utd:a1_s5_t1", "kind": "rescue", "RGB_prediction": "B", "REAL_prediction": "C", "gold": "C", "source_id": "utd:a1_s5_t1"}
+{"dataset": "utd", "qa_id": "utd:a8_s7_t1", "kind": "harm", "RGB_prediction": "B", "REAL_prediction": "A", "gold": "B", "source_id": "utd:a8_s7_t1"}
+{"dataset": "utd", "qa_id": "utd:a1_s1_t1", "kind": "rescue", "RGB_prediction": "D", "REAL_prediction": "C", "gold": "C", "source_id": "utd:a1_s1_t1"}
+{"dataset": "utd", "qa_id": "utd:a8_s1_t1", "kind": "harm", "RGB_prediction": "C", "REAL_prediction": "A", "gold": "C", "source_id": "utd:a8_s1_t1"}
+{"dataset": "utd", "qa_id": "utd:a2_s7_t1", "kind": "harm", "RGB_prediction": "C", "REAL_prediction": "B", "gold": "C", "source_id": "utd:a2_s7_t1"}
+{"dataset": "utd", "qa_id": "utd:a10_s5_t1", "kind": "rescue", "RGB_prediction": "B", "REAL_prediction": "A", "gold": "A", "source_id": "utd:a10_s5_t1"}
+{"dataset": "utd", "qa_id": "utd:a10_s3_t1", "kind": "rescue", "RGB_prediction": "A", "REAL_prediction": "B", "gold": "B", "source_id": "utd:a10_s3_t1"}
+{"dataset": "utd", "qa_id": "utd:a12_s7_t1", "kind": "harm", "RGB_prediction": "C", "REAL_prediction": "B", "gold": "C", "source_id": "utd:a12_s7_t1"}
+{"dataset": "utd", "qa_id": "utd:a24_s3_t1", "kind": "harm", "RGB_prediction": "C", "REAL_prediction": "A", "gold": "C", "source_id": "utd:a24_s3_t1"}
+{"dataset": "utd", "qa_id": "utd:a16_s7_t1", "kind": "harm", "RGB_prediction": "C", "REAL_prediction": "B", "gold": "C", "source_id": "utd:a16_s7_t1"}
+{"dataset": "utd", "qa_id": "utd:a16_s3_t1", "kind": "harm", "RGB_prediction": "D", "REAL_prediction": "C", "gold": "D", "source_id": "utd:a16_s3_t1"}
+{"dataset": "utd", "qa_id": "utd:a20_s1_t1", "kind": "rescue", "RGB_prediction": "B", "REAL_prediction": "D", "gold": "D", "source_id": "utd:a20_s1_t1"}
+{"dataset": "utd", "qa_id": "utd:a16_s1_t1", "kind": "rescue", "RGB_prediction": "A", "REAL_prediction": "D", "gold": "D", "source_id": "utd:a16_s1_t1"}
+{"dataset": "utd", "qa_id": "utd:a18_s1_t1", "kind": "harm", "RGB_prediction": "A", "REAL_prediction": "D", "gold": "A", "source_id": "utd:a18_s1_t1"}
+{"dataset": "utd", "qa_id": "utd:a26_s3_t1", "kind": "harm", "RGB_prediction": "D", "REAL_prediction": "C", "gold": "D", "source_id": "utd:a26_s3_t1"}
+{"dataset": "holo", "qa_id": "holo:R0027-12-GoPro:completed:4", "kind": "harm", "RGB_prediction": "A", "REAL_prediction": "C", "gold": "A", "zero_prediction": "C", "wrong_prediction": "C", "source_id": "holo:R0027-12-GoPro"}
+{"dataset": "holo", "qa_id": "holo:R007-7July-DSLR:completed:13", "kind": "rescue", "RGB_prediction": "D", "REAL_prediction": "C", "gold": "C", "zero_prediction": "C", "wrong_prediction": "C", "source_id": "holo:R007-7July-DSLR"}
+{"dataset": "holo", "qa_id": "holo:R012-7July-Nespresso:completed:7", "kind": "rescue", "RGB_prediction": "A", "REAL_prediction": "D", "gold": "D", "zero_prediction": "D", "wrong_prediction": "D", "source_id": "holo:R012-7July-Nespresso"}
+{"dataset": "holo", "qa_id": "holo:R012-7July-Nespresso:completed:5", "kind": "harm", "RGB_prediction": "B", "REAL_prediction": "C", "gold": "B", "zero_prediction": "C", "wrong_prediction": "C", "source_id": "holo:R012-7July-Nespresso"}
+{"dataset": "holo", "qa_id": "holo:R005-7July-GoPro:completed:15", "kind": "harm", "RGB_prediction": "D", "REAL_prediction": "A", "gold": "D", "zero_prediction": "A", "wrong_prediction": "A", "source_id": "holo:R005-7July-GoPro"}
+{"dataset": "holo", "qa_id": "holo:R007-7July-DSLR:completed:1", "kind": "rescue", "RGB_prediction": "D", "REAL_prediction": "A", "gold": "A", "zero_prediction": "A", "wrong_prediction": "A", "source_id": "holo:R007-7July-DSLR"}

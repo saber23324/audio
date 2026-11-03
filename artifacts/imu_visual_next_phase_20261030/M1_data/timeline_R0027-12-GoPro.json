@@ -1,0 +1,25 @@
+{
+  "source_id": "holo:R0027-12-GoPro",
+  "sensor_full_streams_read": true,
+  "video_full_duration_s": 406.09157808667214,
+  "video_thumbnails_across_full_timeline": 3,
+  "whole_video_downloaded_or_all_frames_decoded": false,
+  "clock_count_match": true,
+  "frames": [
+    {
+      "playback_time_s": 20.318887980376125,
+      "capture_time_s": 17.5657056
+    },
+    {
+      "playback_time_s": 203.06623058053967,
+      "capture_time_s": 198.1221691
+    },
+    {
+      "playback_time_s": 385.8135731807032,
+      "capture_time_s": 380.4782978
+    }
+  ],
+  "manual_physical_alignment": "qualitative gallery only; not a calibrated residual sync error measurement",
+  "plot_not_used_in_model": true,
+  "gallery": "/home/yxd/audio_pic_gate/artifacts/imu_visual_next_phase_20261030/M1_data/timeline_R0027-12-GoPro.png"
+}

@@ -1,0 +1,20 @@
+{
+  "LLaVA_index": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model.safetensors.index.json",
+  "bundled_vision_keys_in_index": 421,
+  "projector_keys_in_index": 4,
+  "Google_SigLIP_backbone_files": [
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--google--siglip-so400m-patch14-384/snapshots/9fdffc58afc957d1a03a25b10dba0329ab15c2a3/config.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--google--siglip-so400m-patch14-384/blobs/a513b447f6b05f640f9980d25f4d8a5cff6cd25d",
+      "bytes": 576,
+      "sha256": "adc04928d8fd19a61822584fe0cf2e813e5ebac17f3e49fb1ea096860ae6457b"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--google--siglip-so400m-patch14-384/snapshots/9fdffc58afc957d1a03a25b10dba0329ab15c2a3/model.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--google--siglip-so400m-patch14-384/blobs/ea2abad2b7f8a9c1aa5e49a244d5d57ffa71c56f720c94bc5d240ef4d6e1d94a",
+      "bytes": 3511950624,
+      "sha256": "ea2abad2b7f8a9c1aa5e49a244d5d57ffa71c56f720c94bc5d240ef4d6e1d94a"
+    }
+  ],
+  "note": "inventory components reference the LLaVA bundle index; explicit separately loaded Google vision backbone source/hash listed here"
+}

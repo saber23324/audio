@@ -1,0 +1,10 @@
+{
+  "recordings": 861,
+  "participants": 8,
+  "min_nominal_duration_s": 2.14,
+  "max_nominal_duration_s": 6.52,
+  "nominal_duration_ge8": 0,
+  "explicit_sensor_timestamp_fields": false,
+  "clock_limit": "author reports timestamps at acquisition; distributed MAT files inspected here only expose d_iner[N,6]. Nominal50Hz index is not verified original video-clock timing. No strict8s streaming training is justified from this alone.",
+  "class_and_units_source": "official UTD-MHAD page and Sample_Code/show_inertial.m: columns1-3 acceleration g,4-6 gyro deg/s; wrist actions1-21,thigh22-27"
+}

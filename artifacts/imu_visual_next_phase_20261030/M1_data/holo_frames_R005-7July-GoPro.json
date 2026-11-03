@@ -1,0 +1,578 @@
+{
+  "4.7994661999999995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_4.799466.png",
+    "pts_s": 4.766432,
+    "capture_time_s": 4.766432,
+    "requested_s": 4.7994661999999995,
+    "frame_index": 93,
+    "media_pts_s": 3.1174577634754628,
+    "sha256": "bdf9208f3e90e36c1089573b2dd9ded5eae32bd2cae7985a44e3ff89f1260464"
+  },
+  "5.999406499999999": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_5.999406.png",
+    "pts_s": 5.9663728,
+    "capture_time_s": 5.9663728,
+    "requested_s": 5.999406499999999,
+    "frame_index": 129,
+    "media_pts_s": 4.324215607401448,
+    "sha256": "04d9e27b2f5ca192788d51f6c1c1c229e6770a8bf01178b2738072771fec94af"
+  },
+  "6.7994661999999995": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_6.799466.png",
+    "pts_s": 6.7663331,
+    "capture_time_s": 6.7663331,
+    "requested_s": 6.7994661999999995,
+    "frame_index": 153,
+    "media_pts_s": 5.128720836685439,
+    "sha256": "c5a9f6a5c8378e2dfd6e4b6914a08cad5c70f91783905b872f885a9cea5a08ec"
+  },
+  "7.999406499999999": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_7.999406.png",
+    "pts_s": 7.9662736,
+    "capture_time_s": 7.9662736,
+    "requested_s": 7.999406499999999,
+    "frame_index": 189,
+    "media_pts_s": 6.335478680611424,
+    "sha256": "0b528ca4b5c556a1c1baea5bbdfc48ec75e9058ec7667f2a3e9eae09d24da0c1"
+  },
+  "8.7659351": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_8.765935.png",
+    "pts_s": 8.7329023,
+    "capture_time_s": 8.7329023,
+    "requested_s": 8.7659351,
+    "frame_index": 212,
+    "media_pts_s": 7.106462858675248,
+    "sha256": "1e4b0d02b82b910a68b7c1b9292d4553436b90fa42c8f169c7e9f827ffc0b57e"
+  },
+  "8.7994662": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_8.799466.png",
+    "pts_s": 8.7662339,
+    "capture_time_s": 8.7662339,
+    "requested_s": 8.7994662,
+    "frame_index": 213,
+    "media_pts_s": 7.139983909895414,
+    "sha256": "a7d3431c62efb8acbd04f48af15540605173bf4718753e777abba093bdcb4712"
+  },
+  "9.9994065": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_9.999406.png",
+    "pts_s": 9.9661743,
+    "capture_time_s": 9.9661743,
+    "requested_s": 9.9994065,
+    "frame_index": 249,
+    "media_pts_s": 8.3467417538214,
+    "sha256": "7e4c2802e15053ecbe289a12696603f515dc474055c3d6673162eded910c8186"
+  },
+  "10.7659351": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_10.765935.png",
+    "pts_s": 10.7328029,
+    "capture_time_s": 10.7328029,
+    "requested_s": 10.7659351,
+    "frame_index": 272,
+    "media_pts_s": 9.117725931885223,
+    "sha256": "01ad8bc4303acb3de07c41be1cafaf594f20308f34ffac3ac3682c9889447e44"
+  },
+  "10.7994662": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_10.799466.png",
+    "pts_s": 10.7994662,
+    "capture_time_s": 10.7994662,
+    "requested_s": 10.7994662,
+    "frame_index": 274,
+    "media_pts_s": 9.184768034325556,
+    "sha256": "320948a0988d0c8521e27cde2da7f9bd8d422c2574a19f68a7d1b062c36a8e4f"
+  },
+  "11.7991168": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_11.799117.png",
+    "pts_s": 11.7660847,
+    "capture_time_s": 11.7660847,
+    "requested_s": 11.7991168,
+    "frame_index": 303,
+    "media_pts_s": 10.156878519710379,
+    "sha256": "f5c18971f7976f289dfe98310db4e9ec6b56329a722b8c0e44141e0c9e12beca"
+  },
+  "11.9994065": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_11.999406.png",
+    "pts_s": 11.9994065,
+    "capture_time_s": 11.9994065,
+    "requested_s": 11.9994065,
+    "frame_index": 310,
+    "media_pts_s": 10.391525878251542,
+    "sha256": "e5f955f82dc43d84d2ea9780d356e512b12f5ed985ba4217e9191b1fbd255743"
+  },
+  "12.7659351": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_12.765935.png",
+    "pts_s": 12.7327033,
+    "capture_time_s": 12.7327033,
+    "requested_s": 12.7659351,
+    "frame_index": 332,
+    "media_pts_s": 11.1289890050952,
+    "sha256": "9e412e13834ade2847b1d10bffc3df734d3c2b2bed5c884294202753898170ce"
+  },
+  "13.7991168": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_13.799117.png",
+    "pts_s": 13.7659851,
+    "capture_time_s": 13.7659851,
+    "requested_s": 13.7991168,
+    "frame_index": 363,
+    "media_pts_s": 12.168141592920353,
+    "sha256": "822abe9fcbf1dabc1a96461dc4051ef745ad6febf7edc0c1552b83c0a3c267e4"
+  },
+  "13.865680000000001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_13.865680.png",
+    "pts_s": 13.8326484,
+    "capture_time_s": 13.8326484,
+    "requested_s": 13.865680000000001,
+    "frame_index": 365,
+    "media_pts_s": 12.235183695360687,
+    "sha256": "3d6083a352564fdada04c9dfdcd93bf96b4cf257ef2c00e6f1fbfc290320b68e"
+  },
+  "14.7659351": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_14.765935.png",
+    "pts_s": 14.7659351,
+    "capture_time_s": 14.7659351,
+    "requested_s": 14.7659351,
+    "frame_index": 393,
+    "media_pts_s": 13.173773129525342,
+    "sha256": "b6907a89e90cf72645c3159235b22ce325867be2c011d8202669f4ee78e0782b"
+  },
+  "14.965624900000002": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_14.965625.png",
+    "pts_s": 14.9325935,
+    "capture_time_s": 14.9325935,
+    "requested_s": 14.965624900000002,
+    "frame_index": 398,
+    "media_pts_s": 13.341378385626173,
+    "sha256": "c3a2ee003cbeb61a5ac3222a8cbc1e1b318026509d21c71105e17bbef10a702a"
+  },
+  "15.7991168": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_15.799117.png",
+    "pts_s": 15.7658852,
+    "capture_time_s": 15.7658852,
+    "requested_s": 15.7991168,
+    "frame_index": 423,
+    "media_pts_s": 14.17940466613033,
+    "sha256": "97378490ba8fccd1f449be56bc975cd3365897fcd40d669e3de7a0cff8c3db9c"
+  },
+  "15.865680000000001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_15.865680.png",
+    "pts_s": 15.8325485,
+    "capture_time_s": 15.8325485,
+    "requested_s": 15.865680000000001,
+    "frame_index": 425,
+    "media_pts_s": 14.246446768570662,
+    "sha256": "00b6107b5ef64e45baa8e1359a57cd4eba85a733cac1605e80f4d9c286b64e0f"
+  },
+  "16.9656249": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_16.965625.png",
+    "pts_s": 16.9324935,
+    "capture_time_s": 16.9324935,
+    "requested_s": 16.9656249,
+    "frame_index": 458,
+    "media_pts_s": 15.35264145883615,
+    "sha256": "b936500297f94ddf4c4a7166a2f326efe114b1daf7cb6365b7e4f8b1b856f444"
+  },
+  "16.9988561": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_16.998856.png",
+    "pts_s": 16.9658252,
+    "capture_time_s": 16.9658252,
+    "requested_s": 16.9988561,
+    "frame_index": 459,
+    "media_pts_s": 15.386162510056316,
+    "sha256": "b7b1b2eba0e8a06c4aa8a341822fad8a4bc340ac0f1b56f9631425148fd0e83f"
+  },
+  "17.7991168": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_17.799117.png",
+    "pts_s": 17.7991168,
+    "capture_time_s": 17.7991168,
+    "requested_s": 17.7991168,
+    "frame_index": 484,
+    "media_pts_s": 16.224188790560472,
+    "sha256": "1855dbd504fde12a2255277b1b5ce2c2c0832cc5baf02351e8ecf7c2d7e3520b"
+  },
+  "17.86568": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_17.865680.png",
+    "pts_s": 17.8324485,
+    "capture_time_s": 17.8324485,
+    "requested_s": 17.86568,
+    "frame_index": 485,
+    "media_pts_s": 16.25770984178064,
+    "sha256": "dc4e1f6641980793d8cff1323cd123877f6392fa301466aa7e1ba40688b40ae5"
+  },
+  "18.9656249": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_18.965625.png",
+    "pts_s": 18.9323934,
+    "capture_time_s": 18.9323934,
+    "requested_s": 18.9656249,
+    "frame_index": 518,
+    "media_pts_s": 17.363904532046124,
+    "sha256": "f0da22950f1f2518a44def950acb1299fe7d141cca91c8b1af588fd587c242a6"
+  },
+  "18.9988561": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_18.998856.png",
+    "pts_s": 18.9657251,
+    "capture_time_s": 18.9657251,
+    "requested_s": 18.9988561,
+    "frame_index": 519,
+    "media_pts_s": 17.39742558326629,
+    "sha256": "de74528f939159c676508112d85b821296a92ac6da81db33ac03a49c0ca27d79"
+  },
+  "19.3654038": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_19.365404.png",
+    "pts_s": 19.3323734,
+    "capture_time_s": 19.3323734,
+    "requested_s": 19.3654038,
+    "frame_index": 530,
+    "media_pts_s": 17.76615714668812,
+    "sha256": "6ebb8c702ba1f883ca0c2a2f1fb9ad6732a6270ab1eb9fbb908a6062b4e4c7b7"
+  },
+  "19.86568": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_19.865680.png",
+    "pts_s": 19.86568,
+    "capture_time_s": 19.86568,
+    "requested_s": 19.86568,
+    "frame_index": 546,
+    "media_pts_s": 18.30249396621078,
+    "sha256": "a71bd2d790d4413675539c4a535ef25991d7d7ef6566963f189bae43bb268d08"
+  },
+  "20.9656249": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_20.965625.png",
+    "pts_s": 20.9656249,
+    "capture_time_s": 20.9656249,
+    "requested_s": 20.9656249,
+    "frame_index": 579,
+    "media_pts_s": 19.40868865647627,
+    "sha256": "d54ca1c0019b509a5c8611196b902e33d827244b309ce490b34b406cc7c2711a"
+  },
+  "20.9988561": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_20.998856.png",
+    "pts_s": 20.9656249,
+    "capture_time_s": 20.9656249,
+    "requested_s": 20.9988561,
+    "frame_index": 579,
+    "media_pts_s": 19.40868865647627,
+    "sha256": "d54ca1c0019b509a5c8611196b902e33d827244b309ce490b34b406cc7c2711a"
+  },
+  "21.3654038": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_21.365404.png",
+    "pts_s": 21.3322731,
+    "capture_time_s": 21.3322731,
+    "requested_s": 21.3654038,
+    "frame_index": 590,
+    "media_pts_s": 19.777420219898097,
+    "sha256": "e3a956a6eedf990063776eb3eb7b7fd9f5f891fe50e59a431067a7b1ed16fbb0"
+  },
+  "22.9988561": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_22.998856.png",
+    "pts_s": 22.9988561,
+    "capture_time_s": 22.9988561,
+    "requested_s": 22.9988561,
+    "frame_index": 640,
+    "media_pts_s": 21.45347278090641,
+    "sha256": "8f38c9efbe77404ab6b1512779b6541918aeaa1c728f0ad72fa5eef1402f179a"
+  },
+  "23.3654038": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_23.365404.png",
+    "pts_s": 23.3321727,
+    "capture_time_s": 23.3321727,
+    "requested_s": 23.3654038,
+    "frame_index": 650,
+    "media_pts_s": 21.788683293108072,
+    "sha256": "ac2794000a2f8a65d6917cf3cb4e269d4e8ab0d54e7fed10b3d31b8008eab0bc"
+  },
+  "25.3654038": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_25.365404.png",
+    "pts_s": 25.3654038,
+    "capture_time_s": 25.3654038,
+    "requested_s": 25.3654038,
+    "frame_index": 711,
+    "media_pts_s": 23.833467417538213,
+    "sha256": "3bec95b270e29db7ebaed8511f193014c85d863e14e544ca1a10490b1ec1cabc"
+  },
+  "32.8980528": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_32.898053.png",
+    "pts_s": 32.8650254,
+    "capture_time_s": 32.8650254,
+    "requested_s": 32.8980528,
+    "frame_index": 936,
+    "media_pts_s": 31.375703942075624,
+    "sha256": "147bbad1d7c5dfedb4536be4398f69a93f38b465a8a088fe3a357418726477dd"
+  },
+  "34.8980528": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_34.898053.png",
+    "pts_s": 34.8649241,
+    "capture_time_s": 34.8649241,
+    "requested_s": 34.8980528,
+    "frame_index": 996,
+    "media_pts_s": 33.3869670152856,
+    "sha256": "346851c391568a14b9e111586447417d3954e155e1d3ce9d371670bc264aae3c"
+  },
+  "35.931232": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_35.931232.png",
+    "pts_s": 35.8982051,
+    "capture_time_s": 35.8982051,
+    "requested_s": 35.931232,
+    "frame_index": 1027,
+    "media_pts_s": 34.426119603110756,
+    "sha256": "136cd613fd783b576276cf725a46ee5046f31b6d31d7a3daab03d4decf988477"
+  },
+  "36.8980528": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_36.898053.png",
+    "pts_s": 36.8648227,
+    "capture_time_s": 36.8648227,
+    "requested_s": 36.8980528,
+    "frame_index": 1056,
+    "media_pts_s": 35.39823008849557,
+    "sha256": "310255282307bc44fd8f523bf8616b4520367626f8888cccbbe84eb89ef6412b"
+  },
+  "37.864467": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_37.864467.png",
+    "pts_s": 37.8314403,
+    "capture_time_s": 37.8314403,
+    "requested_s": 37.864467,
+    "frame_index": 1085,
+    "media_pts_s": 36.3703405738804,
+    "sha256": "dc2d219b3ed5085cab2e86f69e2336383e06053fe23f7d0a447d17cee1e987fc"
+  },
+  "37.931232": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_37.931232.png",
+    "pts_s": 37.8981036,
+    "capture_time_s": 37.8981036,
+    "requested_s": 37.931232,
+    "frame_index": 1087,
+    "media_pts_s": 36.43738267632073,
+    "sha256": "4a239cb3c22baf207b6a19c4411189fe2f365278e9134ccea8bb6b2636d67236"
+  },
+  "38.8980528": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_38.898053.png",
+    "pts_s": 38.8980528,
+    "capture_time_s": 38.8980528,
+    "requested_s": 38.8980528,
+    "frame_index": 1117,
+    "media_pts_s": 37.44301421292572,
+    "sha256": "c2ff91e354d18da5ff27e2f995d3221e7dda04161c802eed6c6e445ad3b840cb"
+  },
+  "39.864467": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_39.864467.png",
+    "pts_s": 39.8313388,
+    "capture_time_s": 39.8313388,
+    "requested_s": 39.864467,
+    "frame_index": 1145,
+    "media_pts_s": 38.38160364709037,
+    "sha256": "67d9bc11a646f938668864c2cc15bf7e7457e8d34a50ff9219406aede30c2e22"
+  },
+  "39.931232": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_39.931232.png",
+    "pts_s": 39.898002,
+    "capture_time_s": 39.898002,
+    "requested_s": 39.931232,
+    "frame_index": 1147,
+    "media_pts_s": 38.448645749530705,
+    "sha256": "60979c3a50ece41f661c1a59b3bb20c58120850c589881eb118636dd961fb414"
+  },
+  "41.864467": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_41.864467.png",
+    "pts_s": 41.8312371,
+    "capture_time_s": 41.8312371,
+    "requested_s": 41.864467,
+    "frame_index": 1205,
+    "media_pts_s": 40.39286672030035,
+    "sha256": "013bf844908f645a8c2016510ae5e04d76a877486b054437c696a3a7ba95955a"
+  },
+  "41.931232": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_41.931232.png",
+    "pts_s": 41.931232,
+    "capture_time_s": 41.931232,
+    "requested_s": 41.931232,
+    "frame_index": 1208,
+    "media_pts_s": 40.49342987396085,
+    "sha256": "089acd362be8ace63553f424995bc45d9748aa817adbffdcbbbaea0cdb45b52e"
+  },
+  "42.7975488": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_42.797549.png",
+    "pts_s": 42.7645229,
+    "capture_time_s": 42.7645229,
+    "requested_s": 42.7975488,
+    "frame_index": 1233,
+    "media_pts_s": 41.331456154465,
+    "sha256": "2d497bfb62d9f0b8bb7316fce31e3b5fae63289f54ef6a868a20a8a8cc4ab909"
+  },
+  "43.864467": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_43.864467.png",
+    "pts_s": 43.864467,
+    "capture_time_s": 43.864467,
+    "requested_s": 43.864467,
+    "frame_index": 1266,
+    "media_pts_s": 42.43765084473049,
+    "sha256": "55e1e470041e322510ab3e9cf48f07a5be9f748fbc0322129b1592b070589b30"
+  },
+  "44.7975488": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_44.797549.png",
+    "pts_s": 44.7644211,
+    "capture_time_s": 44.7644211,
+    "requested_s": 44.7975488,
+    "frame_index": 1293,
+    "media_pts_s": 43.342719227674976,
+    "sha256": "a47b6a401f69cb9e772fbdc5a4da667a462b86407f94d5c8512a17a3276137dd"
+  },
+  "44.8974415": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_44.897441.png",
+    "pts_s": 44.864416,
+    "capture_time_s": 44.864416,
+    "requested_s": 44.8974415,
+    "frame_index": 1296,
+    "media_pts_s": 43.44328238133548,
+    "sha256": "3513616b163f2d2fd45feba650fdc141c4686ade462ca7589b6d0b27dafce02d"
+  },
+  "46.7975488": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_46.797549.png",
+    "pts_s": 46.7643192,
+    "capture_time_s": 46.7643192,
+    "requested_s": 46.7975488,
+    "frame_index": 1353,
+    "media_pts_s": 45.35398230088496,
+    "sha256": "7cb94c3f09c3d228b9556cf180649dd0a5f55aa82e394408ca07ee6b09edaf49"
+  },
+  "46.8974415": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_46.897441.png",
+    "pts_s": 46.8643141,
+    "capture_time_s": 46.8643141,
+    "requested_s": 46.8974415,
+    "frame_index": 1356,
+    "media_pts_s": 45.45454545454545,
+    "sha256": "6532d8aee13ed9478a676816dcac7ca16ec8fe543949f3483f7c4574d2636d0c"
+  },
+  "48.7305788": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_48.730579.png",
+    "pts_s": 48.6975539,
+    "capture_time_s": 48.6975539,
+    "requested_s": 48.7305788,
+    "frame_index": 1411,
+    "media_pts_s": 47.2982032716546,
+    "sha256": "e9d9e71e57b27881f98f9e481165a449579136b79e3069aa0d7c29a23887e7d3"
+  },
+  "48.7975488": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_48.797549.png",
+    "pts_s": 48.7975488,
+    "capture_time_s": 48.7975488,
+    "requested_s": 48.7975488,
+    "frame_index": 1414,
+    "media_pts_s": 47.398766425315095,
+    "sha256": "e7b8e0f741859fe21cf027e6e4d85dbcfaafd657c1986e088c07007e537b7941"
+  },
+  "48.8974415": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_48.897441.png",
+    "pts_s": 48.864212,
+    "capture_time_s": 48.864212,
+    "requested_s": 48.8974415,
+    "frame_index": 1416,
+    "media_pts_s": 47.46580852775543,
+    "sha256": "2188b3faaeb2bb4b3a580e8609833e59d0ee7ad04a6be8a1d730209b874da84d"
+  },
+  "50.7305788": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_50.730579.png",
+    "pts_s": 50.6974517,
+    "capture_time_s": 50.6974517,
+    "requested_s": 50.7305788,
+    "frame_index": 1471,
+    "media_pts_s": 49.309466344864575,
+    "sha256": "c1f431504aa4dc991ffaaa0f2e9c9fdfd6ee4930c98855af65a4f2cbc31f7a8d"
+  },
+  "50.8974415": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_50.897441.png",
+    "pts_s": 50.8974415,
+    "capture_time_s": 50.8974415,
+    "requested_s": 50.8974415,
+    "frame_index": 1477,
+    "media_pts_s": 49.51059265218557,
+    "sha256": "17fd9c87f83d0bf50822c70f442d6c6ecda65047d88b529cb6f5219655c2deb4"
+  },
+  "52.7305788": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_52.730579.png",
+    "pts_s": 52.6973494,
+    "capture_time_s": 52.6973494,
+    "requested_s": 52.7305788,
+    "frame_index": 1531,
+    "media_pts_s": 51.32072941807455,
+    "sha256": "8390133a2163537b6734573e653925506ae1da04905d1214b8b02155346ef7da"
+  },
+  "53.497001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_53.497001.png",
+    "pts_s": 53.4639769,
+    "capture_time_s": 53.4639769,
+    "requested_s": 53.497001,
+    "frame_index": 1554,
+    "media_pts_s": 52.091713596138376,
+    "sha256": "1f19610c471bf4678d99cfc2682a8656ab04c0b62187bdf15ec010035ebc7b3c"
+  },
+  "54.7305788": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_54.730579.png",
+    "pts_s": 54.7305788,
+    "capture_time_s": 54.7305788,
+    "requested_s": 54.7305788,
+    "frame_index": 1592,
+    "media_pts_s": 53.365513542504694,
+    "sha256": "d607a3aea94daec61e602b63afe6f186f86b628b0774de7560203eb698c7a0b6"
+  },
+  "55.497001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_55.497001.png",
+    "pts_s": 55.4638745,
+    "capture_time_s": 55.4638745,
+    "requested_s": 55.497001,
+    "frame_index": 1614,
+    "media_pts_s": 54.10297666934835,
+    "sha256": "b6fa1b99cfd721c0a021af3460f4399b84e2744cecef15838176cbba9f101c64"
+  },
+  "57.497001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_57.497001.png",
+    "pts_s": 57.463772,
+    "capture_time_s": 57.463772,
+    "requested_s": 57.497001,
+    "frame_index": 1674,
+    "media_pts_s": 56.114239742558325,
+    "sha256": "a01c8a2c4f6b3e77440ebdc5e1c28acb05428b117f31a9065ba9c32f7947f887"
+  },
+  "59.497001": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_59.497001.png",
+    "pts_s": 59.497001,
+    "capture_time_s": 59.497001,
+    "requested_s": 59.497001,
+    "frame_index": 1735,
+    "media_pts_s": 58.15902386698847,
+    "sha256": "1645a5605d600bc13231f312d7f2ebfc8b40d0d592af3252361220974e323221"
+  },
+  "62.7965229": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_62.796523.png",
+    "pts_s": 62.7635,
+    "capture_time_s": 62.7635,
+    "requested_s": 62.7965229,
+    "frame_index": 1833,
+    "media_pts_s": 61.44408688656476,
+    "sha256": "6fb99cc90a57e121c2b5168df87d0ebef735db472ea0c33066acd1e97fbb314e"
+  },
+  "64.7965229": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_64.796523.png",
+    "pts_s": 64.7633971,
+    "capture_time_s": 64.7633971,
+    "requested_s": 64.7965229,
+    "frame_index": 1893,
+    "media_pts_s": 63.455349959774736,
+    "sha256": "60da836a5470ab8cedd8474c63d4644b974c7bdafeb84527a8460d09ed5040d8"
+  },
+  "66.7965229": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_66.796523.png",
+    "pts_s": 66.7632942,
+    "capture_time_s": 66.7632942,
+    "requested_s": 66.7965229,
+    "frame_index": 1953,
+    "media_pts_s": 65.46661303298471,
+    "sha256": "39104e668c684e54d032b26ec1ce410bf1e4729623bfe169d2b6a9583e880f00"
+  },
+  "68.7965229": {
+    "path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/qa_frames/R005-7July-GoPro_68.796523.png",
+    "pts_s": 68.7965229,
+    "capture_time_s": 68.7965229,
+    "requested_s": 68.7965229,
+    "frame_index": 2014,
+    "media_pts_s": 67.51139715741486,
+    "sha256": "65553cabe5ff92d92caa172915b9bf466d3995c4ffc07c40f014c5d95e5c2e1e"
+  }
+}

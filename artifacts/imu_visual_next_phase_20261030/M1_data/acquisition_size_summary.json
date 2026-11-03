@@ -1,0 +1,21 @@
+{
+  "actual_stored_files": 1991,
+  "stored_bytes_including_partial_derived_cache_and_code": {
+    "source_probes": 7530591,
+    "utd": 168345602,
+    "holo": 141021993,
+    "range_cache": 444788378,
+    "wear": 143206698
+  },
+  "verified_successful_range_payload_bytes_by_URL": {
+    "https://personal.utdallas.edu/~kehtar/UTD-MAD/RGB.zip": 136434922,
+    "https://hl2data.z5.web.core.windows.net/holoassist-data-release/video_compress.tar": 137672556,
+    "https://hl2data.z5.web.core.windows.net/holoassist-data-release/imu.tar": 34170185
+  },
+  "not_counting_composed_range_cache_as_extra_network": true,
+  "full_remote_archives_downloaded": false,
+  "partial_files_retained_and_named_part": true,
+  "full_UTD_RGB_entries": 108,
+  "UTD_complete_RGB_entry_bytes": 148872012,
+  "raw_file_manifest_sha256": "2f60c2d3c316614640f804ef9b6ebf3916f9de2f8a72ebc1ee4aff38701ed85a"
+}

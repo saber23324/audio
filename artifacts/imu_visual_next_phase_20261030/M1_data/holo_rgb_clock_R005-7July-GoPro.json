@@ -1,0 +1,18 @@
+{
+  "session_id": "R005-7July-GoPro",
+  "pose_sync_sha256": "8438db9e5ac76375c9372713b855529b39a4634b731da273bc7d2b18c29eb4e4",
+  "retained_unique_original_camera_ticks": 8817,
+  "MP4_frame_count": 8817,
+  "one_to_one_count_equal": true,
+  "capture_clock_path": "/nvme_data/pkt/streaming/dataset/imu_visual_next_phase_20261030/holo/rgb_clock_R005-7July-GoPro.npz",
+  "capture_clock_sha256": "aa77d657f67024af7f6f9d22d82a4834cc877a851805cacb5a559ef3c8e7aabf",
+  "origin_tick": 637928141844136040,
+  "MP4_rate": "3729/125",
+  "first_capture_s": 0.0,
+  "last_capture_s": 295.517798,
+  "camera_interval_range_s": [
+    0.03333139999995183,
+    1.6999165
+  ],
+  "important": "MP4 is constant-rate packed frames; PTS is not original acquisition time. Use unique monotonic camera ticks in frame order only when exact count matches. Annotation-media-time is converted to frame index then capture time. No camera index/30 assumption."
+}

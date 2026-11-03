@@ -1,0 +1,74 @@
+[
+  {
+    "name": "R0027-12-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 3355904,
+    "offset": 2560,
+    "offset_data": 3072
+  },
+  {
+    "name": "R004-7July-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 3276094,
+    "offset": 3363840,
+    "offset_data": 3364352
+  },
+  {
+    "name": "R005-7July-GoPro/Export_py/Video/Pose_sync.txt",
+    "size": 2487637,
+    "offset": 6645248,
+    "offset_data": 6645760
+  },
+  {
+    "name": "R006-7July-Switch/Export_py/Video/Pose_sync.txt",
+    "size": 1496637,
+    "offset": 9138176,
+    "offset_data": 9138688
+  },
+  {
+    "name": "R007-7July-DSLR/Export_py/Video/Pose_sync.txt",
+    "size": 934960,
+    "offset": 10640384,
+    "offset_data": 10640896
+  },
+  {
+    "name": "R012-7July-Nespresso/Export_py/Video/Pose_sync.txt",
+    "size": 1023285,
+    "offset": 11580928,
+    "offset_data": 11581440
+  },
+  {
+    "name": "R013-7July-Nespresso/Export_py/Video/Pose_sync.txt",
+    "size": 2180904,
+    "offset": 12609536,
+    "offset_data": 12610048
+  },
+  {
+    "name": "R014-7July-DSLR/Export_py/Video/Pose_sync.txt",
+    "size": 2985004,
+    "offset": 14795776,
+    "offset_data": 14796288
+  },
+  {
+    "name": "R015-7July-Switch/Export_py/Video/Pose_sync.txt",
+    "size": 2978804,
+    "offset": 17786368,
+    "offset_data": 17786880
+  },
+  {
+    "name": "R026-11July-Navvis/Export_py/Video/Pose_sync.txt",
+    "size": 5592925,
+    "offset": 20770304,
+    "offset_data": 20770816
+  },
+  {
+    "name": "R029-12July-DSLR/Export_py/Video/Pose_sync.txt",
+    "size": 966271,
+    "offset": 26368512,
+    "offset_data": 26369024
+  },
+  {
+    "name": "R030-12July-Nespresso/Export_py/Video/Pose_sync.txt",
+    "size": 1312400,
+    "offset": 27340288,
+    "offset_data": 27340800
+  }
+]

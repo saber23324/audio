@@ -1,0 +1,127 @@
+{
+  "created": "2026-10-30T04:26:21.508345+00:00",
+  "actual_initial_hashes": 24584,
+  "old_assets_manifest_sha256": "40a2fc78ad821805d4c6b86d588fb3d0c22ac2aa9fa509dfe609b03d356acd94",
+  "critical_after_load_drift": [],
+  "critical_checksums": {
+    "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model.safetensors.index.json": "2c5e4f760960cb00a85de88caf55a798eed0685773cdd9d04a6d4438238c134c",
+    "/home/yxd/audio_pic_gate/results/exp01_visiononly64_train_epoch3_lr1e5/adbt_epoch_3.pt": "47be825e896292f0efb855e1069e1277d159fd128ce06deaae7bdbe5e811f48a",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/adaptive_grounded64_stage1_retrain_20261029_v1/models/stage1_vision64_retrained/selected.pt": "eb26d508875171cf6e18d6d86eabe34082dec97a72875a90e38e5581ae91b0d4",
+    "/home/yxd/audio_pic_gate/results/adbt-phase4.1-q64-tau005-epoch3-lr1e5/adbt_epoch_3.pt": "1230ce639c8621ffcbb9d3d906179a454a1015475f0ee1b7d3957dc50ce631ec",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/gate_first_router_second_native_ablation_v1/models/fusion_router/selected.pt": "924ec02aed505f7592e51e3259ae5b8822fbcec1ba5c905205ee5242fd66fe2a",
+    "/nvme_data/pkt/huggingface/modules/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt1.pt": "7f9362028ac6e5c049e8dc314d87e90e4f82a15a8e472deb56af55d7f9b34d6a",
+    "/nvme_data/pkt/streaming/dataset/audio_grounded_dual_image/localizer/ezvsl_vggsound_144k_best.pth": "a56fa1de05ed133f724e8b9d6399c15d49c0052e55b70f72b7ebfe1cd1369607",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/dual_head_proxy_20261028_v1/model/dual_combined/gate.pt": "b06e9a7af247673d1a7eaaf45b158acba8477571f65670b062f836ff72c2809f",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/gate_first_router_second_native_ablation_v1/models/gate_a/dual_rank/epoch30.pt": "24a290dbf9ae34d003795f426a5c00c997bdda3f4b7d66523c1a76106cb7fda0",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/fixed_router_gate_v1/models/history_l0_t0.25/epoch1.pt": "3ae923809ecf7d0f995043902ecaa971c8b8b0b4af035de7f0763971a192f2fa",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/fixed_router_gate_v1/models/acoustic_l1_t0.25/epoch20.pt": "f5de889e1ad2655b554339f0f6054037743fe6896850699b54fdbf3d9337bd9c",
+    "/home/yxd/audio_pic_gate/artifacts/utility_gate/adaptive_grounded64_stage1_retrain_20261029_v1/models/new_utility_gate/new_utility_only/gate.pt": "137f1cf484fc48c3e4294a87a44c4ecd9f780b664ab1d0da5cd1acf364e7f7e7"
+  },
+  "backbone_files": [
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/config.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/58d2f26ae7a45f6c1c2549f3ec15db093fcb8181",
+      "bytes": 3023,
+      "sha256": "cf9eb0d98bb199a66b6f2086f4169c8af631195e7d165c5dd852c2b83b0e907a"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/tokenizer_config.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/6b6180aa461c566ed3df8a86a56de4e23310a372",
+      "bytes": 1539,
+      "sha256": "3ae8d5ad312360a6efd9b24299ca74b0f8342b41fe82799130a958c7000a92ff"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/vocab.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/4783fe10ac3adce15ac8f358ef5462739852c569",
+      "bytes": 2776833,
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/merges.txt",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/31349551d90c7606f325fe0f11bbb8bd5fa0d7c7",
+      "bytes": 1671853,
+      "sha256": "8831e4f1a044471340f7c0a83d7bd71306a5b867e95fd870f74d0c5308a904d5"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/tokenizer.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/a47a1f00cab2c5c11d929a69050e6e091934b181",
+      "bytes": 7028227,
+      "sha256": "d26f54ac5bcc30ba15d418234e89d2ca44caf0bd57ce14749612a74f436738ef"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/added_tokens.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/35bd30787cd7e476867980bba10ad9a63d33d3fc",
+      "bytes": 101,
+      "sha256": "f86f2a952b4888d195b8d77e3d56ad96864ecc696cca2155d0d4ac933fcfd55f"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/special_tokens_map.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/2c53454aff27c6d22873cc28c884c2b2d5d07693",
+      "bytes": 367,
+      "sha256": "f4f79e08d97f4d1c87f8d89264f525c8789da3b73b3bb55d1e12f692f41a7b1b"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model.safetensors.index.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/93507a16a5eabb74e73f0399f5687cdfd64796b8",
+      "bytes": 80832,
+      "sha256": "2c5e4f760960cb00a85de88caf55a798eed0685773cdd9d04a6d4438238c134c"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/.gitattributes",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/a6344aac8c09253b3b630fb776ae94478aa0275b",
+      "bytes": 1519,
+      "sha256": "11ad7efa24975ee4b0c3c3a38ed18737f0658a5f75a0a96787b576a78a023361"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/README.md",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/8859bc0d0c0461af54180e1b77a42fee895306a5",
+      "bytes": 9719,
+      "sha256": "4ecb5de20f2e550e2dad9b027ec59ec8164754bc4f3fc7488bf2f08fe0c5bb6d"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/generation_config.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/19a297221acb87418d4388a3decef2282c6d7316",
+      "bytes": 248,
+      "sha256": "eea6735f058019c875227b53de54f34353f01bbdbb0e9d8fc6474567e1334c29"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model-00001-of-00004.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/b15850a51ee64cf90bf99aed86e775b65b1ba10e51251ef1d57009fe611adb55",
+      "bytes": 4877668032,
+      "sha256": "b15850a51ee64cf90bf99aed86e775b65b1ba10e51251ef1d57009fe611adb55"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model-00004-of-00004.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/f04485ec7215f6bbab31e6b72e76dcc4c45041f46a242f3b665192226ff6ae96",
+      "bytes": 1255812224,
+      "sha256": "f04485ec7215f6bbab31e6b72e76dcc4c45041f46a242f3b665192226ff6ae96"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model-00003-of-00004.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/a8ac3828d0f05a2cf6331a724b74cb5965230b7f3150568c0f3961a1bb50fa3a",
+      "bytes": 4994571904,
+      "sha256": "a8ac3828d0f05a2cf6331a724b74cb5965230b7f3150568c0f3961a1bb50fa3a"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/snapshots/0b07bf7565e244cf4f39982249eafe8cd799d6dd/model-00002-of-00004.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--lmms-lab--llava-onevision-qwen2-7b-ov/blobs/5fa80d1a610f925032971b1423be1ea727a763acbfa572dfa77d1c1cd6d24c8f",
+      "bytes": 4932751008,
+      "sha256": "5fa80d1a610f925032971b1423be1ea727a763acbfa572dfa77d1c1cd6d24c8f"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--google--siglip-so400m-patch14-384/snapshots/9fdffc58afc957d1a03a25b10dba0329ab15c2a3/config.json",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--google--siglip-so400m-patch14-384/blobs/a513b447f6b05f640f9980d25f4d8a5cff6cd25d",
+      "bytes": 576,
+      "sha256": "adc04928d8fd19a61822584fe0cf2e813e5ebac17f3e49fb1ea096860ae6457b"
+    },
+    {
+      "path": "/home/yxd/.cache/huggingface/hub/models--google--siglip-so400m-patch14-384/snapshots/9fdffc58afc957d1a03a25b10dba0329ab15c2a3/model.safetensors",
+      "realpath": "/nvme_data/pkt/huggingface/hub/models--google--siglip-so400m-patch14-384/blobs/ea2abad2b7f8a9c1aa5e49a244d5d57ffa71c56f720c94bc5d240ef4d6e1d94a",
+      "bytes": 3511950624,
+      "sha256": "ea2abad2b7f8a9c1aa5e49a244d5d57ffa71c56f720c94bc5d240ef4d6e1d94a"
+    }
+  ],
+  "actual_backbone_drift": [],
+  "full_old_assets_final_rehash_required": true,
+  "inventory_sha256": "c222f8ea296c00ce4d87826317d6c1de4ed084d717f1cd1b3dccd705b568b4ea"
+}

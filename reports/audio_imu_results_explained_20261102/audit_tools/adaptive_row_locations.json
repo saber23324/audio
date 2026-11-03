@@ -1,0 +1,28 @@
+{
+  "rows": 19944,
+  "roles": {
+    "gate_val": 2826,
+    "confirmation_music": 7902,
+    "confirmation_valor": 9216
+  },
+  "strategies": [
+    "A0",
+    "A1",
+    "ENERGY",
+    "F0",
+    "G0",
+    "G1",
+    "G2",
+    "G3_seed1234",
+    "G3_seed2234",
+    "G3_seed3234",
+    "G4",
+    "G5",
+    "G6",
+    "G7",
+    "R_ONLY",
+    "V0",
+    "V1",
+    "V2"
+  ]
+}

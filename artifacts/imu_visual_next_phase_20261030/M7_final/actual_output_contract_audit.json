@@ -1,0 +1,46 @@
+{
+  "all_passed": true,
+  "counts": {
+    "utd": {
+      "files": 108,
+      "conditions_per_qa": 25,
+      "actual_generations": 2700
+    },
+    "utd_post_primary_controls": {
+      "files": 108,
+      "conditions_per_qa": 5,
+      "actual_generations": 540
+    },
+    "holo": {
+      "files": 64,
+      "conditions_per_qa": 20,
+      "actual_generations": 1280
+    }
+  },
+  "actual_hooks": {
+    "utd": {
+      "SigLIP": 2916,
+      "SigLIP_images": 10584,
+      "projector": 2916,
+      "V1": 432
+    },
+    "utd_post_primary_controls": {
+      "SigLIP": 432,
+      "SigLIP_images": 432,
+      "projector": 432,
+      "V1": 0
+    },
+    "holo": {
+      "SigLIP": 1344,
+      "SigLIP_images": 4352,
+      "projector": 1344,
+      "V1": 256
+    }
+  },
+  "Holo_real_pixel_distinct_from_zero_and_wrong": true,
+  "Holo_all_256_sensor_windows_original_time_causal": true,
+  "Holo_all_RGB_capture_times_causal": true,
+  "resident_cost_measurements": 72,
+  "audio_used": false,
+  "new_training_steps": 0
+}

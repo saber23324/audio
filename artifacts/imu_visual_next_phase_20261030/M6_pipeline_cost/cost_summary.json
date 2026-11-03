@@ -1,0 +1,116 @@
+{
+  "V1_k0": {
+    "path": "V1",
+    "k": 0,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.11604144581360742,
+    "source95CI": [
+      0.1155615026364103,
+      0.11634122816030867
+    ],
+    "median_pipeline_s": 0.11613211000803858,
+    "mean_plot_s": 0.0,
+    "mean_frontend_s": 0.05515103666887929,
+    "mean_llm_s": 0.0404937378965163,
+    "max_peak_GiB": 15.163614749908447,
+    "visual_tokens": [
+      256
+    ]
+  },
+  "native_k0": {
+    "path": "native",
+    "k": 0,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.18232445757409246,
+    "source95CI": [
+      0.17651658021107627,
+      0.19332471086333194
+    ],
+    "median_pipeline_s": 0.178630368958693,
+    "mean_plot_s": 0.0,
+    "mean_frontend_s": 0.04503480116060624,
+    "mean_llm_s": 0.12182924222239915,
+    "max_peak_GiB": 15.574397087097168,
+    "visual_tokens": [
+      2920
+    ]
+  },
+  "native_k1": {
+    "path": "native",
+    "k": 1,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.3449605278146919,
+    "source95CI": [
+      0.3407786450115964,
+      0.35116861649051617
+    ],
+    "median_pipeline_s": 0.3441028384841047,
+    "mean_plot_s": 0.12581806692954464,
+    "mean_frontend_s": 0.05987531224188084,
+    "mean_llm_s": 0.14298466742426777,
+    "max_peak_GiB": 15.71070384979248,
+    "visual_tokens": [
+      3650
+    ]
+  },
+  "native_k2": {
+    "path": "native",
+    "k": 2,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.5464344218974778,
+    "source95CI": [
+      0.5063473904738203,
+      0.5865214533211353
+    ],
+    "median_pipeline_s": 0.5094878179952502,
+    "mean_plot_s": 0.2926084027955464,
+    "mean_frontend_s": 0.076570463910078,
+    "mean_llm_s": 0.16022728167202635,
+    "max_peak_GiB": 15.847010135650635,
+    "visual_tokens": [
+      4380
+    ]
+  },
+  "native_k3": {
+    "path": "native",
+    "k": 3,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.6965715466455246,
+    "source95CI": [
+      0.669531747107006,
+      0.7340540757771427
+    ],
+    "median_pipeline_s": 0.6811189014697447,
+    "mean_plot_s": 0.3976652465256241,
+    "mean_frontend_s": 0.09170772014961888,
+    "mean_llm_s": 0.1892516898418156,
+    "max_peak_GiB": 15.983315467834473,
+    "visual_tokens": [
+      5110
+    ]
+  },
+  "native_k4": {
+    "path": "native",
+    "k": 4,
+    "measurements": 12,
+    "sources": 4,
+    "mean_pipeline_s": 0.9335088416895209,
+    "source95CI": [
+      0.8613728756310592,
+      1.0121409485291224
+    ],
+    "median_pipeline_s": 0.8455471014603972,
+    "mean_plot_s": 0.5883138635545038,
+    "mean_frontend_s": 0.10726020556952183,
+    "mean_llm_s": 0.21920534451298104,
+    "max_peak_GiB": 16.1196231842041,
+    "visual_tokens": [
+      5840
+    ]
+  }
+}

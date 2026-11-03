@@ -1,0 +1,25 @@
+{
+  "source_id": "holo:R013-7July-Nespresso",
+  "sensor_full_streams_read": true,
+  "video_full_duration_s": 257.44922501336185,
+  "video_thumbnails_across_full_timeline": 3,
+  "whole_video_downloaded_or_all_frames_decoded": false,
+  "clock_count_match": true,
+  "frames": [
+    {
+      "playback_time_s": 12.8941742383752,
+      "capture_time_s": 13.3326559
+    },
+    {
+      "playback_time_s": 128.74131480491715,
+      "capture_time_s": 128.9599205
+    },
+    {
+      "playback_time_s": 244.5884553714591,
+      "capture_time_s": 244.6203539
+    }
+  ],
+  "manual_physical_alignment": "qualitative gallery only; not a calibrated residual sync error measurement",
+  "plot_not_used_in_model": true,
+  "gallery": "/home/yxd/audio_pic_gate/artifacts/imu_visual_next_phase_20261030/M1_data/timeline_R013-7July-Nespresso.png"
+}

@@ -1,0 +1,16 @@
+{
+  "sources": [
+    "R0027-12-GoPro",
+    "R004-7July-GoPro",
+    "R005-7July-GoPro",
+    "R006-7July-Switch",
+    "R007-7July-DSLR",
+    "R012-7July-Nespresso",
+    "R013-7July-Nespresso",
+    "R014-7July-DSLR",
+    "R015-7July-Switch",
+    "R026-11July-Navvis"
+  ],
+  "selection": "first10 authentic matched official archive sessions before any model prediction; availability-only",
+  "participant_ID": "not inferred from recording IDs"
+}

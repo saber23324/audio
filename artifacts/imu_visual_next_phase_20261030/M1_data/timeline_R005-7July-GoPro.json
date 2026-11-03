@@ -1,0 +1,25 @@
+{
+  "source_id": "holo:R005-7July-GoPro",
+  "sensor_full_streams_read": true,
+  "video_full_duration_s": 295.55510860820596,
+  "video_thumbnails_across_full_timeline": 3,
+  "whole_video_downloaded_or_all_frames_decoded": false,
+  "clock_count_match": true,
+  "frames": [
+    {
+      "playback_time_s": 14.782783588093322,
+      "capture_time_s": 16.3658552
+    },
+    {
+      "playback_time_s": 147.79431482971307,
+      "capture_time_s": 148.6256864
+    },
+    {
+      "playback_time_s": 280.8058460713328,
+      "capture_time_s": 280.8852593
+    }
+  ],
+  "manual_physical_alignment": "qualitative gallery only; not a calibrated residual sync error measurement",
+  "plot_not_used_in_model": true,
+  "gallery": "/home/yxd/audio_pic_gate/artifacts/imu_visual_next_phase_20261030/M1_data/timeline_R005-7July-GoPro.png"
+}

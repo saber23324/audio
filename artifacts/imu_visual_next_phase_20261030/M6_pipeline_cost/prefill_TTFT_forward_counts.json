@@ -1,0 +1,74 @@
+{
+  "('native', 4)": {
+    "measured_LLM_prefill_mean_s": 0.20129468218268207,
+    "measured_LLM_TTFT_mean_s": 0.2013829772574051,
+    "derived_resident_pipeline_TTFT_mean_s": 0.9156864744339449,
+    "actual_forward_hooks_total": {
+      "SigLIP": 12,
+      "SigLIP_images": 96,
+      "projector": 12,
+      "V1": 0
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  },
+  "('native', 3)": {
+    "measured_LLM_prefill_mean_s": 0.17144077301297025,
+    "measured_LLM_TTFT_mean_s": 0.17153107251700325,
+    "derived_resident_pipeline_TTFT_mean_s": 0.6788509293207122,
+    "actual_forward_hooks_total": {
+      "SigLIP": 12,
+      "SigLIP_images": 84,
+      "projector": 12,
+      "V1": 0
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  },
+  "('native', 1)": {
+    "measured_LLM_prefill_mean_s": 0.12530030602162393,
+    "measured_LLM_TTFT_mean_s": 0.12537993198687522,
+    "derived_resident_pipeline_TTFT_mean_s": 0.32735579237729934,
+    "actual_forward_hooks_total": {
+      "SigLIP": 12,
+      "SigLIP_images": 60,
+      "projector": 12,
+      "V1": 0
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  },
+  "('native', 0)": {
+    "measured_LLM_prefill_mean_s": 0.10411384351512727,
+    "measured_LLM_TTFT_mean_s": 0.10419338042265736,
+    "derived_resident_pipeline_TTFT_mean_s": 0.1646885957743507,
+    "actual_forward_hooks_total": {
+      "SigLIP": 12,
+      "SigLIP_images": 48,
+      "projector": 12,
+      "V1": 0
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  },
+  "('native', 2)": {
+    "measured_LLM_prefill_mean_s": 0.14247060807732245,
+    "measured_LLM_TTFT_mean_s": 0.14255357808239447,
+    "derived_resident_pipeline_TTFT_mean_s": 0.5287607183078459,
+    "actual_forward_hooks_total": {
+      "SigLIP": 12,
+      "SigLIP_images": 72,
+      "projector": 12,
+      "V1": 0
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  },
+  "('V1', 0)": {
+    "measured_LLM_prefill_mean_s": 0.02269725299750765,
+    "measured_LLM_TTFT_mean_s": 0.022972814408907045,
+    "derived_resident_pipeline_TTFT_mean_s": 0.09852052232599817,
+    "actual_forward_hooks_total": {
+      "SigLIP": 48,
+      "SigLIP_images": 48,
+      "projector": 48,
+      "V1": 48
+    },
+    "TTFT_scope": "LLM measured; resident pipeline derived from measured serial frontend + LLM TTFT, excludes video/network decode/loading"
+  }
+}
